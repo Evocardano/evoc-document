@@ -9,3 +9,4 @@
 * [🔁 Trocas descentralizadas](trocas-descentralizadas.md)
 * [✅ Conectando sua carteira](conectando-sua-carteira.md)
 * [💰 Recompensas](recompensas.md)
+* [📖 Roadmap](roadmap.md)
