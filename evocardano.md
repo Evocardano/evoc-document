@@ -19,7 +19,7 @@ Consiste na implementação da nossa moeda **EvoCardano** na própria blockchain
 
 Assim poderemos ter uma extrema valorização com a união das duas redes na **EvoCardano**.&#x20;
 
-Agora entra o ponto crucial e a importância de realmente ser um detentor desse projeto. Pois é nessa etapa que a mágica pode acontecer. Após a junção de capitalização de mercado das duas redes em uma só moeda. Onde tudo sair conforme planjado, após a conclusão da segunda etapa podemos ter uma extrema valorização. E será ai que os investidores fiéis que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
+Agora entra o ponto crucial e a importância de realmente ser um detentor desse projeto. Pois é nessa etapa que a mágica pode acontecer. Após a junção de capitalização de mercado das duas redes em uma só moeda. Onde após a conclusão da atualização podemos ter uma extrema valorização. E será ai que os investidores fiéis que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
 
 ## Configurando a EvocSwap&#x20;
 
