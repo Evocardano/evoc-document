@@ -1,7 +1,7 @@
 ---
 description: >-
-  DEX EVOCSWAP VAI RODAR EM DUAS REDES BINANCE SMART CHAIN E CARDANO  EM BREVE
-  NA VERSÃO 2.0 APÓS ATUALIZAÇÃO ALONZO ESTIVER 100
+  Dex EvocSwap vai rodar em duas redes Binance Smart Chain e Cardano em breve na
+  versão 2.0 após atualização alonzo estiver 100% concluída.
 ---
 
 # 🟣 EvocSwap
