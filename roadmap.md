@@ -4,10 +4,6 @@ description: LIVRO DO ANDAMENTO DO PROJETO
 
 # 📖   Roadmap
 
-*
-
-Criação de Mídias Sociais
-
 ### Fase 1
 
 **Concepção e Construção**
@@ -28,8 +24,37 @@ Criação de Mídias Sociais
 * ✅ Ícones BscScan & TrustWallet
 * ✅ Publicidade com Youtubers
 
+### Fase 3
+
+**Divulgação**
+
+* ✅ Solicitação de listagem Coingecko
+* ❌ Blockfolio ou solicitação de listagem
+* ✅ Marketing no Twitter
+* ✅ Solicitação de listagem CoinMarketCap
+* ✅ Solicitação Certik
+*   ❌ Publicidade TimeSquare 🚀
+
+    \
+
+
 \
 
+
+\
+
+
+\
+
+
+\
+
+
+\
+
+
+****\
+****
 
 \
 
