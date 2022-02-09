@@ -21,15 +21,5 @@ Assim poderemos ter uma extrema valorização com a união das duas redes na **E
 
 Agora entra o ponto crucial e a importância de realmente ser um detentor desse projeto. Pois é nessa etapa que a mágica pode acontecer. Após a junção de capitalização de mercado das duas redes em uma só moeda. Onde após a conclusão da atualização podemos ter uma extrema valorização. E será ai que os investidores fiéis que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
 
-## Configurando a EvocSwap&#x20;
 
-Siga estes guias para configurar tudo para usar o EvocSwap ou sinta-se à vontade para pular para o guia que você precisa se estiver indo bem, mas se perder.
-
-Criar uma carteira Obter tokens BEP20 Conecte sua carteira ao EvocSwap.
-
-
-
-## Guia para usar os recursos da EvocSwap
-
-Depois de configurar uma carteira e conectar-se a EvocSwap, sinta-se à vontade para verificar nossos outros guias de instruções abaixo.
 
