@@ -1,11 +1,8 @@
 ---
-description: >-
-  SEJA BEM VINDO NAVEGUE PELAS OPÇÕES E CONHEÇA O PROJETO EVOCARDANO. TOKEN QUE
-  TEM SUA PRÓPRIA DEX EVOCSWAP E IRÁ RODAR EM DUAS REDES BSC E CARDANO  EM BREVE
-  NA VERSÃO 2.0.
+description: EVOCSWAP  RODAR EM DUAS REDES BSC E CARDANO  EM BREVE NA VERSÃO 2.0
 ---
 
-# 🟣 Introdução
+# 🟣 EvocSwap
 
 {% hint style="success" %}
 **A EvocSwap ajuda você a explorar suas negociações criptográficas com simplicidade , qualidade e rapidez em um só lugar.**
