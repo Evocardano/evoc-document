@@ -2,8 +2,8 @@
 
 * [Page 1](README.md)
 * [🟣 EvoCardano](evocardano.md)
+* [🎯 Tokenomics](tokenomics.md)
 * [🟣 EvocSwap](evocswap.md)
-* [Tokenomics](tokenomics.md)
 * [🔥 PowerEvoc](powerevoc.md)
 * [🗃 Criando sua carteira](criando-sua-carteira.md)
 * [💎 Obter tokens](obter-tokens.md)
