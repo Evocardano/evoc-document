@@ -22,7 +22,26 @@ Criação de Mídias Sociais
 
 **Estruturação e Elaboração**
 
-*
+* ✅ Publicidade PoocoinAds
+* ✅ Ícone de troca de panquecas
+* ✅ Listagens Secundária, Coinsniper, Coinhunt
+* ✅ Ícones BscScan & TrustWallet
+* ✅ Publicidade com Youtubers
+
+\
+
+
+\
+
+
+\
+
+
+\
+
+
+\
+
 
 \
 
