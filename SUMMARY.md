@@ -2,7 +2,7 @@
 
 * [Page 1](README.md)
 * [🟣 EvocSwap](evocswap.md)
-* [🥳 Início](inicio.md)
+* [🥳 EvoCardano](evocardano.md)
 * [🗃 Criando sua carteira](criando-sua-carteira.md)
 * [💎 Obter tokens](obter-tokens.md)
 * [🔁 Trocas descentralizadas](trocas-descentralizadas.md)
