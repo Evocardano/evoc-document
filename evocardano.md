@@ -5,7 +5,7 @@ description: >-
   na V2.0 vai rodar também na rede Cardano.
 ---
 
-# 🥳 Início
+# 🟣 EvoCardano
 
 Usar qualquer coisa nova pode ser um pouco desafiador. Não se preocupe, criamos uma variedade de guias para ajudá-lo a se sentir confortável com a EvocSwap!
 
@@ -15,7 +15,7 @@ A **EvoCardano**  trata-se de um token que já foi lançado na rede BSC ( Binanc
 
 ## Visão do projeto
 
-A etapa 2 desse grande projeto consiste na implementação da nossa moeda **EvoCardano** na própria blockchain da Cardano. Fazendo assim,  a união de capitalização das duas redes em uma só moeda.&#x20;
+Consiste na implementação da nossa moeda **EvoCardano** na própria blockchain da Cardano. Fazendo assim,  a união de capitalização das duas redes em uma só moeda.&#x20;
 
 Assim poderemos ter uma extrema valorização com a união das duas redes na **EvoCardano**.&#x20;
 
