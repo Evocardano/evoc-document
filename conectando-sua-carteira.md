@@ -41,10 +41,40 @@ Se você achar que não consegue se conectar na etapa 4, volte ao menu DApps e e
 Guia de [**configuração do Trust Wallet**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="MetaMask" %}
+![](<.gitbook/assets/metamask 1.png>)
 
+Para conectar o MetaMask a EvocSwap, siga os passos abaixo.
+
+
+
+### Android e iOS
+
+1 . Abra o MetaMask e toque no ícone no canto superior esquerdo.
+
+![](<.gitbook/assets/Wallet 2 metamask.png>)
+
+1 . Toque em Configurações no menu.
+
+![](.gitbook/assets/settings.png)
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+
+
+
+
+f
+
+
+
+j
 
 ### Carteiras de desktop/navegador da Web
 
