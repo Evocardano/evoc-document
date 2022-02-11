@@ -35,7 +35,32 @@ description: LIVRO DO ANDAMENTO DO PROJETO
 * ✅ Solicitação Certik
 *   ❌ Publicidade TimeSquare 🚀
 
-    \
+
+
+### Fase 4
+
+**Inovação e melhorias**
+
+* ✅ Lançamento da própria Plataforma
+* ❌ Listagens em Novas Bolsas
+* ❌ Doações voluntárias
+
+### **Fase 5**
+
+Próxima Grande Novidade! Você não perde por esperar!
+
+
+
+\
+
+
+\
+
+
+\
+
+
+\
 
 
 \
