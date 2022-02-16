@@ -1,5 +1,5 @@
 ---
-description: ROTEIRO DO ANDAMENTO DO PROJETO
+description: ROTEIRO DO PROJETO
 ---
 
 # 📖   Roadmap
