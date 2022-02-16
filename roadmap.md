@@ -1,5 +1,5 @@
 ---
-description: LIVRO DO ANDAMENTO DO PROJETO
+description: ROTEIRO DO ANDAMENTO DO PROJETO
 ---
 
 # 📖   Roadmap
