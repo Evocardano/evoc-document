@@ -7,15 +7,15 @@ description: >-
 
 # 🎯 Tokenomics
 
-A Evocardano possui um contrato inteligente de geração de liquidez automática e rendimento passivo em ADA. Para isso ser possível, há uma taxa de 16% em cada transação de compra e venda.
+A Evocardano possui um contrato inteligente de geração de liquidez automática e rendimento passivo em ADA. Para isso ser possível, há uma taxa de 15% na compra e 16% na venda
 
 ### A taxa de transação é divida em três partes, veja abaixo:
 
-**1 .** 5% dessas taxas retorna aos Holders em forma de recompensa em ADA (Cardano) - Segure os tokens, e receba Cardano a cada nova transação que tiver.
+**1 .** 5% dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
 
-**2 .** 10% é destinado a carteira de BUYBACK e Mkt, onde a maior parte dessa taxa será utilizada para a RECOMPRA Automática que o próprio contrato faz, para ter uma sustentabilidade no gráfico, e não atingir muito o Marketcap na hora das distribuições das ADA.
+**2 .** 10% é destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a Recompra automática que um contrato faz, para ter uma sustentabilidade no gráfico, e não atingir muito o Marketcap na hora das distribuições de ADA.
 
-**3 .** 1% é destinado a piscina de liquidez. A liquidez adicionada ao Pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
+**3 .** 1% é destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
 
 ### Supply
 
