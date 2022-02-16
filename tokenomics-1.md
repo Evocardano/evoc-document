@@ -20,7 +20,7 @@ $PWE Preço Lançamento $1.00
 
 💸MAX : 1500 BUSD&#x20;
 
-💸MIN : 150 BUSD
+💸MIN : 200 BUSD
 
 
 
