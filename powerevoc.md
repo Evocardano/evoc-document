@@ -16,5 +16,5 @@ EvocSwap terá  duas formas de recompensas.
 * POOLS = $ADA
 * FARM = $PWE
 
-**Um dos maiores mercados e que vem crescendo hoje no mundo , é o mercado de NFTs então PowerEvoc vai se tornar uma moeda de pagamento de NFTs melhorando ainda mais sua sustentabilidade e mais um motivo para os holders segurar as suas moedas.**
+**Um dos maiores mercados e que vem crescendo hoje no mundo , é o mercado de NFTs então. PowerEvoc também vai se tornar uma moeda de pagamento de NFTs melhorando ainda mais sua sustentabilidade e mais um motivo para os detentores segurar as suas moedas.**
 
