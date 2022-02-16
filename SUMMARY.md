@@ -5,7 +5,7 @@
 * [🎯 Tokenomics](tokenomics.md)
 * [🟣 EvocSwap](evocswap.md)
 * [🔥 PowerEvoc](powerevoc.md)
-* [🎯 Page 2](page-2.md)
+* [🎯 Tokenomics](tokenomics-1.md)
 * [🗃 Criando sua carteira](criando-sua-carteira.md)
 * [💎 Obter tokens](obter-tokens.md)
 * [🔁 Trocas descentralizadas](trocas-descentralizadas.md)
