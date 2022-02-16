@@ -35,7 +35,7 @@ description: ROTEIRO DO ANDAMENTO DO PROJETO
 * ✅ Marketing no Twitter
 * ✅ Solicitação de listagem CoinMarketCap
 * ✅ Solicitação na Certik
-* ❌ Lançamento do Token PowerEvoc
+* ❌ Lançamento do token PowerEvoc
 * ❌ Pools e Farms na DEX V1
 *   ❌ Publicidade TimeSquare
 
