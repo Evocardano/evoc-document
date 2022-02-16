@@ -10,7 +10,7 @@
 
 🔥$PWE em circulação 805.000 $PWE
 
-🔥1500 BUSD = 1579
+🔥1500 BUSD = 1579 $PWE
 
 
 
@@ -18,7 +18,9 @@ $PWE Preço Pré Venda $0.95
 
 $PWE Preço Lançamento $1.00
 
-💸MAX : 1500 BUSD 💸MIN : 100 BUSD
+💸MAX : 1500 BUSD&#x20;
+
+💸MIN : 100 BUSD
 
 
 
