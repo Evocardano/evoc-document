@@ -1,6 +1,6 @@
 ---
 description: >-
-  Você não precisa de uma conta com Binance, Coinbase, Kraken, Huobi, OKEx ou
+  Você não precisa de uma conta com a Binance, Coinbase, Kraken, Huobi, OKEx ou
   qualquer outra exchange centralizada para começar a usar o EvocSwap!
 ---
 
