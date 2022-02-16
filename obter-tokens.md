@@ -1,8 +1,8 @@
 # 💎 Obter tokens
 
-Os tokens nativos da Binance Smart Chain (BSC) são **BEP20**.
+Binance Smart Chain (BSC) BEP20 .
 
-Para fazer a maioria das coisas na BSC, você precisará pagar taxa de gás que vem na forma de BEP20 BNB.
+Para você negociar com taxas mais baixas escolha sempre a rede BEP20 , você precisará pagar taxa de gás que vem na forma de BEP20 BNB.
 
 Você também precisará da versão BEP20 de qualquer token que queira negociar,  na rede (BSC).
 
