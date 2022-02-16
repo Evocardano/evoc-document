@@ -35,8 +35,9 @@ description: ROTEIRO DO PROJETO
 * ✅ Marketing no Twitter
 * ✅ Solicitação de listagem CoinMarketCap
 * ✅ Solicitação na Certik
-* ❌ Lançamento do token PowerEvoc
+* ❌ Lançamento PowerEvoc
 * ❌ Pools e Farms na DEX V1
+* ❌ Marketplace NFTs
 *   ❌ Publicidade TimeSquare
 
 
@@ -45,6 +46,7 @@ description: ROTEIRO DO PROJETO
 
 **Inovação e melhorias**
 
+* ❌ Vendas de NFTs
 * ❌ Lançamento da DEX V2
 * ❌ Listagens em Novas Bolsas
 * ❌ Doações voluntárias
@@ -56,65 +58,4 @@ description: ROTEIRO DO PROJETO
 * ❌ Atualização DEX V2
 * ❌ Lançamento EvoCardano na DEX V2
 * ❌ Lançamento PowerEvoc na DEX V2
-* ❌ Negociação de tokens na rede Cardano
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-****\
-****
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-
-
-\
-
-
-\
-
-
-\
+* ❌ Negociação de tokens na rede Cardano\
