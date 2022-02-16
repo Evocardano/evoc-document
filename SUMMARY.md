@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [🟣 EvoCardano](evocardano.md)
+* [🟣 EvoCardano](README.md)
 * [🎯 Tokenomics](tokenomics.md)
 * [🟣 EvocSwap](evocswap.md)
 * [🔥 PowerEvoc](powerevoc.md)
