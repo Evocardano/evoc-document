@@ -15,11 +15,11 @@ A **EvoCardano**  trata-se de um token que já foi lançado na rede BSC ( Binanc
 
 ## Visão do projeto
 
-Consiste na implementação da nossa moeda **EvoCardano** na própria blockchain da Cardano. Fazendo assim,  a união de capitalização das duas redes em uma só moeda.&#x20;
+Nossa visão consiste na implementação do nosso ecossistema  na própria blockchain da Cardano. Fazendo assim,  a união de capitalização das duas redes.
 
-Assim poderemos ter uma extrema valorização com a união das duas redes na **EvoCardano**.&#x20;
+Assim poderemos ter uma extrema valorização com a união das duas redes na **EvoCardano e PowerEvoc.**
 
-Agora entra o ponto crucial e a importância de realmente ser um detentor desse projeto. Após a junção de capitalização de mercado das duas redes em uma só moeda. Onde após a conclusão da atualização podemos ter uma extrema valorização. E será ai que os investidores fiéis que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
+Agora entra o ponto crucial e a importância de realmente ser um detentor desse projeto. Após a junção de capitalização de mercado das duas redes em nossas moedas podemos ter uma extrema valorização. E será ai que os investidores fiéis que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
 
-
+**Um dos maiores mercados e que vem crescendo hoje no mundo , é o mercado de NFTs então EvoCardano vai se tornar uma moeda de pagamento de NFTs melhorando ainda mais sua sustentabilidade e criando maior volume  mais um motivo para os holders segurar as suas moedas.**
 
