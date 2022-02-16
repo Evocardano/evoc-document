@@ -9,31 +9,35 @@ description: ROTEIRO DO ANDAMENTO DO PROJETO
 **Concepção e Construção**
 
 * ✅ Criação de Mídias Sociais
-* ✅ Site de lançamento e whitepaper
+* ✅ Site de lançamento e Whitepaper
 * ✅ Marketing no lançamento
 * ✅ Lançamento do Pancakeswap
 * ✅ Publicidade com influenciadores
 
-### **fase 2**
+### **Fase 2**
 
 **Estruturação e Elaboração**
 
+* ✅ Lançamento da DEX V1
+* ❌ Atualização da DEX V1
 * ✅ Publicidade PoocoinAds
-* ✅ Ícone de troca de panquecas
-* ✅ Listagens Secundária, Coinsniper, Coinhunt
-* ✅ Ícones BscScan & TrustWallet
+* ✅ Listagens Secundárias, Coinsniper, Coinhunt
+* ❌ Ícones BscScan
+* ❌ Ícones na TrustWallet
 * ✅ Publicidade com Youtubers
 
 ### Fase 3
 
-**Divulgação**
+**Avanço**
 
 * ✅ Solicitação de listagem Coingecko
-* ❌ Blockfolio ou solicitação de listagem
+* ❌ Solicitação de listagem na FTX Blockfolio&#x20;
 * ✅ Marketing no Twitter
 * ✅ Solicitação de listagem CoinMarketCap
-* ✅ Solicitação Certik
-*   ❌ Publicidade TimeSquare 🚀
+* ✅ Solicitação na Certik
+* ❌ Lançamento do Token PowerEvoc
+* ❌ Pools e Farms na DEX V1
+*   ❌ Publicidade TimeSquare
 
 
 
@@ -41,15 +45,18 @@ description: ROTEIRO DO ANDAMENTO DO PROJETO
 
 **Inovação e melhorias**
 
-* ✅ Lançamento da própria Plataforma
+* ❌ Lançamento da DEX V2
 * ❌ Listagens em Novas Bolsas
 * ❌ Doações voluntárias
 
 ### **Fase 5**
 
-Próxima Grande Novidade! Você não perde por esperar!
+**Virada de Chave**
 
-
+* ❌ Atualização DEX V2
+* ❌ Lançamento EvoCardano na DEX V2
+* ❌ Lançamento PowerEvoc na DEX V2
+* ❌ Negociação de tokens na rede Cardano
 
 \
 
