@@ -17,13 +17,13 @@ A Evocardano possui um contrato inteligente de geração de liquidez automática
 
 **3 .** 1% é destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
 
+![](.gitbook/assets/photo1646401191.jpeg)
+
 ### Supply
 
 **Possuímos um total supply de 1.000.000.000 (um bilhão) de unidades.**
 
 ****
-
-![](<.gitbook/assets/Pizza Tokenomics.JPG>)
 
 **1 .** - PRÉ VENDA - 29.04%                                                                                                    TAXA PINKSALE - 0.264% 451.440.000 - QUATROCENTOS E CINQUENTA E UM MILHÕES, QUATROCENTOS E QUARENTA MIL                                                                  - LIQUIDEZ PANCAKESWAP - 15.84%
 
