@@ -11,7 +11,7 @@ description: ROTEIRO DO PROJETO
 * ✅ Criação de Mídias Sociais
 * ✅ Site de lançamento e documento
 * ✅ Marketing no lançamento
-* ✅ Lançamento do Pancakeswap
+* ✅ Lançamento na Pancakeswap
 * ✅ Publicidade com influenciadores
 
 ### **Fase 2**
