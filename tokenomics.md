@@ -9,7 +9,7 @@ description: >-
 
 A Evocardano possui um contrato inteligente de geração de liquidez automática e rendimento passivo em ADA. Para isso ser possível, há uma taxa de 15% na compra e 16% na venda
 
-### <mark style="color:purple;">A taxa de transação é divida em três partes, veja abaixo:</mark>
+### <mark style="color:purple;">Taxas de transação :</mark>
 
 **1 .** 5% dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
 
@@ -19,9 +19,9 @@ A Evocardano possui um contrato inteligente de geração de liquidez automática
 
 ![](.gitbook/assets/photo1646401191.jpeg)
 
-### <mark style="color:purple;">**SUPPLY**</mark>
+### <mark style="color:purple;">**Fornecimento Total:**</mark>
 
-**Possuímos um total supply de 1.000.000.000 (um bilhão) de unidades.**
+**Possuímos um total de 1.000.000.000 (um bilhão) de unidades.**
 
 ****
 
@@ -37,4 +37,4 @@ A Evocardano possui um contrato inteligente de geração de liquidez automática
 
 ### <mark style="color:purple;">**LIQUIDEZ BLOQUEADA**</mark>
 
-&#x20;Para a segurança de todos os investidores e holders que deram um voto de confiança e que querem fazer parte do sucesso do projeto colhendo frutos futuramente. Decidimos trancar a Liquidez para que tenham total confiança da equipe de desenvolvimento da $EVOC. Bloqueamos a liquidez para o minímo de 100 anos e bloquearemos via PinkSale, que é um dos melhores na área para bloqueios de liquidez. Viemos para contrariar a maioria dos projetos Brasileiros onde acabam "destruindo" os próprios projetos. E estamos falando de projetos excelentes que poderiam tomar uma proporções gigantescas.
+Para a segurança de todos os detentores  que deram um voto de confiança e que querem fazer parte do sucesso do projeto colhendo frutos futuramente. Decidimos trancar a liquidez para que tenham total confiança da equipe de desenvolvimento da EVOC.  a liquidez é bolqueada por **100** anos via PinkSale, que é um dos melhores na área para bloqueios de liquidez. Viemos para contrariar a maioria dos projetos Brasileiros onde acabam destruindo os próprios projetos. E estamos falando de projetos excelentes que poderiam tomar proporções gigantescas.
