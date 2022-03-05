@@ -8,7 +8,7 @@
 * 2% Compra e queima $EVOC
 * 1%  Marketing
 
-**2 .  Dos 10% das vendas serão distribuidos  :**&#x20;
+**2 .  Dos 10% nas vendas serão distribuidos  :**&#x20;
 
 * 5% Liquidez
 * 3% Compra e queima $EVOC
