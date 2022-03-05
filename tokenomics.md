@@ -11,11 +11,17 @@ Evocardano possui um contrato inteligente de geração de liquidez automática e
 
 ### <mark style="color:purple;">Taxas de Transação:</mark>
 
-**1 .** 5% dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
+**1 .  Dos 15% nas compras serão distribuidos :**&#x20;
 
-**2 .** 10% é destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a Recompra automática que um contrato faz, para ter uma sustentabilidade no gráfico, e não atingir muito o Marketcap na hora das distribuições de ADA.
+* 5% dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
+* 9% é destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a Recompra automática que um contrato faz, para ter uma sustentabilidade no gráfico, e não atingir muito o Marketcap na hora das distribuições de ADA.
+* &#x20;1% é destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
 
-**3 .** 1% é destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
+**2 .  Dos 16% nas vendas serão distribuidos  :**&#x20;
+
+* 5% dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
+* 10% é destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a Recompra automática que um contrato faz, para ter uma sustentabilidade no gráfico, e não atingir muito o Marketcap na hora das distribuições de ADA.
+* 1% é destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
 
 ![](.gitbook/assets/photo1646401191.jpeg)
 
