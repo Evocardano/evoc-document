@@ -20,11 +20,11 @@
 
 **Possuímos um total de 1.000.000 (um milhão) de unidades.**
 
-**1 .**  30.000 - TRINTA MIL
+**1 .**  30.000 - TRINTA MIL.
 
 * **MARKETING  - 3%**                                             &#x20;
 
-**2 .** 165.000 - CENTO E SECENTA E CINCO MIL
+**2 .** 165.000 - CENTO E SECENTA E CINCO MIL.
 
 * **PRÉ VENDA EVOCSWAP - 16.5%**
 
