@@ -2,15 +2,17 @@
 
 ### <mark style="color:purple;"><mark style="color:blue;">Fornecimento Total:<mark style="color:blue;"></mark>
 
-**Possuímos um total de 1.000.000.000 (um bilhão) de unidades.**
+**Possuímos um total de 1.000.000 (um milhão) de unidades.**
 
-**Supply : 1.000.000 milhão**&#x20;
+**1 .**  30.000 - TRINTA MIL
 
-🚀 3% 30.000 Marketing&#x20;
+* **MARKETING  - 3%**                                             &#x20;
 
-🔥 16.5% 165.000 Pré Venda EvocSwap
+**2 .** 165.000 - CENTO E SECENTA E CINCO MIL
 
+* **PRÉ VENDA EVOCSWAP - 16.5%**
 
+****
 
 🔥$PWE em circulação 805.000 $PWE
 
