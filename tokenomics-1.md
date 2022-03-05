@@ -1,5 +1,13 @@
 # 🎯 Tokenomics
 
+### <mark style="color:purple;">Taxas de Transação:</mark>
+
+**1 . COMPRAS :**&#x20;
+
+**MARKETING  - 3%**&#x20;
+
+### <mark style="color:purple;"><mark style="color:blue;"><mark style="color:blue;"></mark>
+
 ### <mark style="color:purple;"><mark style="color:blue;">Fornecimento Total:<mark style="color:blue;"></mark>
 
 **Possuímos um total de 1.000.000 (um milhão) de unidades.**
