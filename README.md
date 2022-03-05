@@ -7,7 +7,7 @@ description: >-
 
 # 🟣 EvoCardano
 
-Usar qualquer coisa nova pode ser um pouco desafiador. Não se preocupe, criamos uma variedade de guias para ajudá-lo a se sentir confortável com a EvocSwap!
+Usar qualquer coisa nova pode ser um pouco desafiador. Não se preocupe, criamos uma variedade de guias para ajudá-lo a se sentir confortável com a Evocardano !
 
 ## Sobre o projeto
 
