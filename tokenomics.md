@@ -9,7 +9,7 @@ description: >-
 
 A Evocardano possui um contrato inteligente de geração de liquidez automática e rendimento passivo em ADA. Para isso ser possível, há uma taxa de 15% na compra e 16% na venda
 
-### <mark style="color:purple;">Taxas de Transação :</mark>
+### <mark style="color:purple;">Taxas de Transação:</mark>
 
 **1 .** 5% dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
 
@@ -23,8 +23,6 @@ A Evocardano possui um contrato inteligente de geração de liquidez automática
 
 **Possuímos um total de 1.000.000.000 (um bilhão) de unidades.**
 
-****
-
 **1 .** - PRÉ VENDA - 29.04%                                                                                                    TAXA PINKSALE - 0.264% 451.440.000 - QUATROCENTOS E CINQUENTA E UM MILHÕES, QUATROCENTOS E QUARENTA MIL                                                                  - LIQUIDEZ PANCAKESWAP - 15.84%
 
 **2 .** - 206.970.000 - DUZENTOS E SEIS MILHÕES, NOVECENTOS E SETENTA MIL          -PRIVATE SALE - 10.797%                                                                                                    -QUEIMA DE LANÇAMENTO - 10%
@@ -35,6 +33,6 @@ A Evocardano possui um contrato inteligente de geração de liquidez automática
 
 **5 .** -80.000.000 - OITENTA MILHÕES                                                                                   - CARTEIRA DE DEVS CADA UMA COM 0.6666%
 
-### <mark style="color:purple;">**LIQUIDEZ BLOQUEADA**</mark>
+### <mark style="color:purple;">**Liquidez Bloqueada:**</mark>
 
 Para a segurança de todos os detentores  que deram um voto de confiança e que querem fazer parte do sucesso do projeto colhendo frutos futuramente. Decidimos trancar a liquidez para que tenham total confiança da equipe de desenvolvimento da EVOC.  a liquidez é bolqueada por **100** anos via PinkSale, que é um dos melhores na área para bloqueios de liquidez. Viemos para contrariar a maioria dos projetos Brasileiros onde acabam destruindo os próprios projetos. E estamos falando de projetos excelentes que poderiam tomar proporções gigantescas.
