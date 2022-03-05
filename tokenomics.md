@@ -7,7 +7,7 @@ description: >-
 
 # 🎯 Tokenomics
 
-&#x20;Evocardano possui um contrato inteligente de geração de liquidez automática e rendimento passivo em ADA. Para isso ser possível, há uma taxa de 15% na compra e 16% na venda
+Evocardano possui um contrato inteligente de geração de liquidez automática e rendimento passivo em ADA. Para isso ser possível, há uma taxa de 15% na compra e 16% na venda
 
 ### <mark style="color:purple;">Taxas de Transação:</mark>
 
@@ -29,7 +29,7 @@ description: >-
 * **PRÉ VENDA - 29.04%**
 * **TAXA PINKSALE - 0.264%**                                                 &#x20;
 
-**2 .** 206.970.000 - DUZENTOS E SEIS MILHÕES, NOVECENTOS E SETENTA MIL
+**2 .** 206.970.000 - DUZENTOS E SEIS MILHÕES, NOVECENTOS E SETENTA MIL.
 
 * **PRIVATE SALE - 10.797%**
 * **QUEIMA DE LANÇAMENTO - 10%**
