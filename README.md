@@ -9,6 +9,8 @@ description: >-
 
 Usar qualquer coisa nova pode ser um pouco desafiador. Não se preocupe, criamos uma variedade de guias para ajudá-lo a se sentir confortável com a Evocardano !
 
+#### CONTRATO : 0x086cc8e468b3cb5494f18a7abc2de1321306af12
+
 ## Sobre o projeto
 
 A **EvoCardano**  trata-se de um token que já foi lançado na rede BSC ( Binance Smart Chain) mais será lançado também na rede da **Cardano**. Onde após a atualização Alonzo estiver 100%, será permitido a negociação de projetos Defi's na blockchain Cardano. Acredita-se na possibilidade da eliminação de bugs e hackers em projetos DeFi's. Com isso, surge a **EvocSwap** que trata-se do desenvolvimento de uma DEX (Exchange Descentralizada) semelhante a Pancakeswap para as duas redes. Onde permitirá aos usuários negociar ativos,  de forma rápida, barata e segura.
