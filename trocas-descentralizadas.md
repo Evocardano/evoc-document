@@ -6,7 +6,9 @@ description: >-
 
 # 🔁 Trocas descentralizadas
 
-EvocSwap é um aplicativo descentralizado. Isso significa que, diferentemente da Binance ou de outras plataformas centralizadas, você não precisa registrar uma conta para usá-la... você só precisa de uma carteira criptográfica. Então, como você pode obter criptografia na EvocSwap sem usar uma troca centralizada?
+EvocSwap é um aplicativo descentralizado. Isso significa que, diferentemente da Binance ou de outras plataformas centralizadas, você não precisa registrar uma conta para usá-la... você só precisa de uma carteira criptográfica.&#x20;
+
+Então, como você pode obter criptografia na EvocSwap sem usar uma troca centralizada?
 
 Neste tutorial, vamos guiá-lo pelo processo de usar "pontes de cadeia cruzada" para transferir seus ativos para sua carteira Binance Smart Chain e começar a usar a EvocSwap.
 
