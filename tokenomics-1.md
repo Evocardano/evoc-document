@@ -1,5 +1,9 @@
 # 🎯 Tokenomics
 
+### <mark style="color:purple;"><mark style="color:blue;">Fornecimento Total:<mark style="color:blue;"></mark>
+
+**Possuímos um total de 1.000.000.000 (um bilhão) de unidades.**
+
 **Supply : 1.000.000 milhão**&#x20;
 
 🚀 3% 30.000 Marketing&#x20;
