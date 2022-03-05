@@ -23,15 +23,30 @@ A Evocardano possui um contrato inteligente de geração de liquidez automática
 
 **Possuímos um total de 1.000.000.000 (um bilhão) de unidades.**
 
-**1 .** - PRÉ VENDA - 29.04%                                                                                                    TAXA PINKSALE - 0.264% 451.440.000 - QUATROCENTOS E CINQUENTA E UM MILHÕES, QUATROCENTOS E QUARENTA MIL                                                                  - LIQUIDEZ PANCAKESWAP - 15.84%
+**1 .**  451.440.000 - QUATROCENTOS E CINQUENTA E UM MILHÕES, QUATROCENTOS E QUARENTA MIL.
 
-**2 .** - 206.970.000 - DUZENTOS E SEIS MILHÕES, NOVECENTOS E SETENTA MIL          -PRIVATE SALE - 10.797%                                                                                                    -QUEIMA DE LANÇAMENTO - 10%
+* **LIQUIDEZ PANCAKESWAP - 15.84%**
+* **PRÉ VENDA - 29.04%**
+* **TAXA PINKSALE - 0.264%**                                                 &#x20;
 
-**3 .** -171.590.008 - CENTO E SETENTA E UM MILHÕES, QUINHENTOS E NOVENTA MIL                             - QUEIMAS FUTURAS - 10%                                                                                                - CARIDADE - 3.5%                                                                                                               - AIRDROP/SORTEIOS - 3.659%
+**2 .** 206.970.000 - DUZENTOS E SEIS MILHÕES, NOVECENTOS E SETENTA MIL
 
-**4 .** -90.000.000 - NOVENTA MILHÕES                                                                              --MARKETING 9%
+* **PRIVATE SALE - 10.797%**
+* **QUEIMA DE LANÇAMENTO - 10%**
 
-**5 .** -80.000.000 - OITENTA MILHÕES                                                                                   - CARTEIRA DE DEVS CADA UMA COM 0.6666%
+**3 .** 171.590.008 - CENTO E SETENTA E UM MILHÕES, QUINHENTOS E NOVENTA MIL.
+
+* **QUEIMAS FUTURAS - 10%**
+* **CARIDADE - 3.5%**
+* **AIRDROP/SORTEIOS - 3.659%**
+
+**4 .** 90.000.000 - NOVENTA MILHÕES.
+
+* **MARKETING 9%**
+
+**5 .**  80.000.000 - OITENTA MILHÕES
+
+* **CARTEIRA DE DEVS CADA UMA COM 0.6666%**
 
 ### <mark style="color:purple;">**Liquidez Bloqueada:**</mark>
 
