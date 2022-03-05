@@ -141,20 +141,3 @@ Uma janela aparecerá solicitando que você escolha uma carteira para se conecta
 
 
 
-
-
-
-
-
-
-
-
-&#x20;&#x20;
-
-
-
-
-
-
-
-###
