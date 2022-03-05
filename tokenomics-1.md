@@ -1,6 +1,6 @@
 # 🎯 Tokenomics
 
-### <mark style="color:purple;">Taxas de Transação:</mark>
+### <mark style="color:blue;">Taxas de Transação:</mark>
 
 **1 .  6% NAS COMPRAS :**&#x20;
 
@@ -44,22 +44,3 @@ $PWE Preço Lançamento $1.00
 
 💸MIN : 200 BUSD
 
-
-
-Taxas de transação.&#x20;
-
-❄️(6%) Compra&#x20;
-
-3% Liquidez PowerEvoc&#x20;
-
-2% Compra e Queima EVOC&#x20;
-
-1% Marketing
-
-❄️(10%) Venda&#x20;
-
-5% Liquidez PowerEvoc&#x20;
-
-3% Compra e Queima EVOC&#x20;
-
-2% Marketing.
