@@ -2,7 +2,7 @@
 
 ### <mark style="color:blue;">Taxas de Transação:</mark>
 
-**1 .  Dos 5% nas compras serão distribuidos :**&#x20;
+**1 .  Dos 6% nas compras serão distribuidos :**&#x20;
 
 * 3% Liquidez
 * 2% Compra e queima $EVOC
