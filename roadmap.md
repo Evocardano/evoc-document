@@ -9,7 +9,7 @@ description: ROTEIRO DO PROJETO
 **Concepção e Construção**
 
 * ✅ Criação de Mídias Sociais
-* ✅ Site de lançamento e Whitepaper
+* ✅ Site de lançamento e documento
 * ✅ Marketing no lançamento
 * ✅ Lançamento do Pancakeswap
 * ✅ Publicidade com influenciadores
