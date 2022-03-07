@@ -23,7 +23,7 @@ Evocardano possui um contrato inteligente de geração de liquidez automática e
 * 10% é destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a Recompra automática que um contrato faz, para ter uma sustentabilidade no gráfico, e não atingir muito o Marketcap na hora das distribuições de ADA.
 * 1% é destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
 
-![](.gitbook/assets/photo1646401191.jpeg)
+![](.gitbook/assets/photo1646679172.jpeg)
 
 ### <mark style="color:purple;">**Fornecimento Total:**</mark>
 
