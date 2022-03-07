@@ -1,6 +1,6 @@
 # 💜 Doações
 
-## Doações feito para a tribo indígena na região do Jordão em Manaus&#x20;
+## Doações feitas para a tribo indígena na região do Jordão em Manaus&#x20;
 
 Vejam as imagens abaixo a seguir:
 
