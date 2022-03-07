@@ -7,8 +7,6 @@ description: >-
 
 # 🎯 Tokenomics
 
-Evocardano possui um contrato inteligente de geração de liquidez automática e rendimento passivo em ADA. Para isso ser possível, há uma taxa de 15% na compra e 16% na venda
-
 ### <mark style="color:purple;">Taxas de Transação:</mark>
 
 **1 .  Dos 15% nas compras serão distribuidos :**&#x20;
