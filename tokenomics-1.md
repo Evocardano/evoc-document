@@ -14,8 +14,6 @@
 * 3% Compra e queima $EVOC
 * 2% Marketing
 
-
-
 ### <mark style="color:purple;"><mark style="color:blue;">Fornecimento Total:<mark style="color:blue;"></mark>
 
 **Possuímos um total de 1.000.000 (um milhão) de unidades.**
@@ -28,7 +26,12 @@
 
 * **PRÉ VENDA EVOCSWAP - 16.5%**
 
-****
+**3.**  (      ) -&#x20;
+
+* **LIQUIDEZ  POWEREVOC ( .... )**&#x20;
+* **LIQUIDEZ  EVOCARDANO ( ..... )**                                         &#x20;
+
+
 
 🔥$PWE em circulação 805.000 $PWE
 
