@@ -2,7 +2,7 @@
 description: >-
   Token do ecossistema evocardano , criado com a função de beneficiar a
   evocardano e todos os detentores com o sistema de auto queima e será uma moeda
-  de pagamento de NFTs no marketplace da dex EvocSwap
+  de compras de NFTs no marketplace da dex EvocSwap
 ---
 
 # 🔥 PowerEvoc
