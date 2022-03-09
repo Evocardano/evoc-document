@@ -34,13 +34,3 @@
 
 * **QUEIMA NO LANÇAMENTO - 76,5%**                        &#x20;
 
-
-
-$PWE Preço Pr
-
-$PWE Preço Lançamento $1.00
-
-💸MAX : 1500 BUSD&#x20;
-
-💸MIN : 200 BUSD
-
