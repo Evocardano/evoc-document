@@ -46,6 +46,7 @@ description: ROTEIRO DO PROJETO
 
 **Inovação e melhorias**
 
+* ❌ Marketplace de NFTs
 * ❌ Vendas de NFTs
 * ❌ Lançamento da DEX V2
 * ❌ Listagens em Novas Bolsas
