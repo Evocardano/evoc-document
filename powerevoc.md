@@ -15,5 +15,5 @@ description: >-
 
 ## Introdução no mercado NFT
 
-Um dos maiores mercados e que vem crescendo hoje no mundo , é o mercado de NFTs então **PowerEvoc**  vai se tornar uma moeda de compras e vendas de **NFTs** onde ainda na rede da Binance Smart Chain a equipe estuda introduzir um marketplace , um mercado NFT onde qualquer detentor poderá criar sua NFT comprar ou vender com PowerEvoc. Melhorando ainda mais sua sustentabilidade e criando maior volume.
+Um dos maiores mercados e que vem crescendo hoje no mundo , é o mercado de NFTs então **PowerEvoc**  vai se tornar uma moeda de compras e vendas de **NFTs** onde ainda na rede da Binance Smart Chain a equipe estuda introduzir um marketplace ,  mercado NFT onde qualquer detentor poderá criar sua NFT comprar ou vender com PowerEvoc. Melhorando ainda mais sua sustentabilidade e criando maior volume.
 
