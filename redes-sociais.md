@@ -1,7 +1,7 @@
-# 🔰 Redes Sociais
+# 🌎 Redes Sociais
 
 {% tabs %}
-{% tab title="Telegram" %}
+{% tab title="▶ Telegram" %}
 [https://t.me/evocardanoenglish](https://t.me/evocardanoenglish)
 {% endtab %}
 
@@ -13,3 +13,4 @@
 [https://www.instagram.com/evocardanoofc/](https://www.instagram.com/evocardanoofc/)
 {% endtab %}
 {% endtabs %}
+
