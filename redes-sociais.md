@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="▶ Telegram" %}
-[https://t.me/evocardanoenglish](https://t.me/evocardanoenglish)
+
 {% endtab %}
 
 {% tab title="Twitter" %}
