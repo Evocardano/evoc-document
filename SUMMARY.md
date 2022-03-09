@@ -10,6 +10,6 @@
 * [🔁 Trocas descentralizadas](trocas-descentralizadas.md)
 * [✅ Conectando sua carteira](conectando-sua-carteira.md)
 * [💰 Recompensas](recompensas.md)
-* [📖   Roadmap](roadmap.md)
 * [💜 Doações](doacoes.md)
-* [🔰 Redes Sociais](redes-sociais.md)
+* [📖   Roadmap](roadmap.md)
+* [🌎 Redes Sociais](redes-sociais.md)
