@@ -32,15 +32,11 @@
 
 **4.**  765.000 - SETE CENTOS E SECENTA E CINCO MIL.
 
-* **QUEIMA NO LANÇAMENTO - 4%**                        &#x20;
+* **QUEIMA NO LANÇAMENTO - 76,5%**                        &#x20;
 
 
 
-🔥1500 BUSD = 1579 $PWE
-
-
-
-$PWE Preço Pré Venda $0.95
+$PWE Preço Pr
 
 $PWE Preço Lançamento $1.00
 

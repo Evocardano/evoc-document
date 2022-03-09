@@ -9,17 +9,17 @@ description: >-
 
 ### <mark style="color:purple;">Taxas de Transação:</mark>
 
-**1 .  Dos 15% nas compras serão distribuidos :**&#x20;
+**1 .  Dos 10% nas compras serão distribuídos :**&#x20;
 
-* 5% dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
-* 9% é destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a Recompra automática que um contrato faz, para ter uma sustentabilidade no gráfico, e não atingir muito o Marketcap na hora das distribuições de ADA.
-* &#x20;1% é destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
+* 1% Dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
+* 8% É destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a recompra automatizada por um contrato , para ter uma sustentabilidade no gráfico, e não atingir muito o desenvolvimento do gráfico.
+* &#x20;1% É destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
 
-**2 .  Dos 16% nas vendas serão distribuidos  :**&#x20;
+**2 .  Dos 11% nas vendas serão distribuídos  :**&#x20;
 
-* 5% dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
-* 10% é destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a Recompra automática que um contrato faz, para ter uma sustentabilidade no gráfico, e não atingir muito o Marketcap na hora das distribuições de ADA.
-* 1% é destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
+* 2% Dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
+* 8%  É destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a recompra automatizada por um contrato , para ter uma sustentabilidade no gráfico, e não atingir muito o desenvolvimento do gráfico.
+* &#x20;1% É destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo  um preço estável, assim evitando problemas ao realizar compras e vendas.
 
 ![](<.gitbook/assets/photo1646679172 (1).jpeg>)
 
