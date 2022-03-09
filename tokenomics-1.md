@@ -2,13 +2,13 @@
 
 ### <mark style="color:blue;">Taxas de Transação:</mark>
 
-**1 .  Dos 6% nas compras serão distribuidos :**&#x20;
+**1 .  Dos 6% nas compras serão distribuídos :**&#x20;
 
 * 3% Liquidez
 * 2% Compra e queima $EVOC
 * 1%  Marketing
 
-**2 .  Dos 10% nas vendas serão distribuidos  :**&#x20;
+**2 .  Dos 10% nas vendas serão distribuídos  :**&#x20;
 
 * 5% Liquidez
 * 3% Compra e queima $EVOC
@@ -26,14 +26,15 @@
 
 * **PRÉ VENDA EVOCSWAP - 16.5%**
 
-**3.**  (      ) -&#x20;
+**3.**  40.000 - QUARENTA MIL.
 
-* **LIQUIDEZ  POWEREVOC ( .... )**&#x20;
-* **LIQUIDEZ  EVOCARDANO ( ..... )**                                         &#x20;
+* **DESENVOLVEDORES - 4%**&#x20;
+
+**4.**  765.000 - SETE CENTOS E SECENTA E CINCO MIL.
+
+* **QUEIMA NO LANÇAMENTO - 4%**                        &#x20;
 
 
-
-🔥$PWE em circulação 805.000 $PWE
 
 🔥1500 BUSD = 1579 $PWE
 
