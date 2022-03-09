@@ -21,7 +21,7 @@ Nossa visão consiste na implementação do nosso ecossistema  na própria block
 
 Assim poderemos ter uma extrema valorização com a união das duas redes na **EvoCardano e PowerEvoc.**
 
-Agora entra o ponto crucial e a importância de realmente ser um detentor desse projeto. Após a junção de capitalização de mercado das duas redes em nossas moedas podemos ter uma extrema valorização. E será ai que os investidores que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
+O Ponto crucial e a importância de realmente ser um detentor desse projeto é que  após a junção de capitalização de mercado das duas redes em nossas moedas podemos ter uma extrema valorização. E será ai que os investidores que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
 
-**Um dos maiores mercados e que vem crescendo hoje no mundo , é o mercado de NFTs então EvoCardano vai se tornar uma moeda de pagamento de NFTs melhorando ainda mais sua sustentabilidade e criando maior volume  mais um motivo para os detentores segurar as suas moedas.**
+**Um dos maiores mercados e que vem crescendo hoje no mundo , é o mercado de NFTs então Evocardano  vai se tornar uma moeda de compras e vendas de NFTs onde ainda na rede da Binance Smart Chain a equipe estuda introduzir um marketplace , um mercado NFT onde qualquer detentor poderá criar sua NFT e vender com Evocardano. Melhorando ainda mais sua sustentabilidade e criando maior volume.**
 
