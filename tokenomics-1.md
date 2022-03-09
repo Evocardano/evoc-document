@@ -16,7 +16,7 @@
 
 ### <mark style="color:purple;"><mark style="color:blue;">Fornecimento Total:<mark style="color:blue;"></mark>
 
-**Possuímos um total de 1.000.000 (um milhão) de unidades.**
+**Possuímos um total de 1.000.000 (um milhão) de unidades contínuas.**
 
 **1 .**  30.000 - TRINTA MIL.
 
@@ -32,5 +32,14 @@
 
 **4.**  765.000 - SETE CENTOS E SECENTA E CINCO MIL.
 
-* **QUEIMA NO LANÇAMENTO - 76,5%**                        &#x20;
+* **QUEIMA NO LANÇAMENTO - 76,5%**   &#x20;
 
+## Fornecimento Contínuo
+
+Os tokens _mintable (mintáveis)_ são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são em sua maioria _mintados (criados)_ em plataformas de contrato inteligentes, como Ethereum sendo a maior e mais popular para mintar novos tokens.
+
+Em um nível granular, os contratos inteligentes têm a função de mintar novos tokens de acordo com o fornecimento predeterminado. Assim que a função é acionada, novos tokens são criados, os quais são distribuídos no mercado.
+
+## Liquidez
+
+Sua liquidez não será bloqueada o modelo de tokens de fornecimento contínuo é inflacionário, o que significa que novos tokens são mintados regularmente para uma finalidade como um serviço público. O foco principal em um modelo de fornecimento contínuo é aumentar a utilidade e os benefícios subjacentes. O modelo de supply contínuo também é usado por stablecoins que mantêm um peg de 1:1 com o dólar americano, e o protocolo garante que cada token não exceda ou diminua em relação ao preço de $1.
