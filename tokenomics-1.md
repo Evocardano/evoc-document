@@ -42,4 +42,4 @@ Em um nível granular, os contratos inteligentes têm a função de mintar novos
 
 ## <mark style="color:blue;">Liquidez</mark>
 
-Sua liquidez não será bloqueada o modelo de tokens de fornecimento contínuo é inflacionário, o que significa que novos tokens são mintados regularmente para uma finalidade como um serviço público. O foco principal em um modelo de fornecimento contínuo é aumentar a utilidade e os benefícios subjacentes. O modelo de supply contínuo também é usado por stablecoins que mantêm um peg de 1:1 com o dólar americano, e o protocolo garante que cada token não exceda ou diminua em relação ao preço de $1.
+A liquidez não será bloqueada o modelo de tokens de fornecimento contínuo é inflacionário, o que significa que novos tokens são mintados regularmente para uma finalidade como um serviço público. O foco principal em um modelo de fornecimento contínuo é aumentar a utilidade e os benefícios subjacentes. O modelo de supply contínuo também é usado por stablecoins que mantêm um peg de 1:1 com o dólar americano, e o protocolo garante que cada token não exceda ou diminua em relação ao preço de $1.
