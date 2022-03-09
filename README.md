@@ -7,8 +7,6 @@ description: >-
 
 # 🟣 EvoCardano
 
-Usar qualquer coisa nova pode ser um pouco desafiador. Não se preocupe, criamos uma variedade de guias para ajudá-lo a se sentir confortável com a Evocardano !
-
 #### CONTRATO : 0x086cc8e468b3cb5494f18a7abc2de1321306af12
 
 ## Sobre o projeto
