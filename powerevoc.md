@@ -7,7 +7,7 @@ description: >-
 
 # 🔥 PowerEvoc
 
-**PowerEvoc** é o token de governança do ecossistema **EvocSwap** , terá a função de comprar os tokens $EVOC e queima-los. Deixando $EVOC cada vez mais escasso e valioso. Maior parte das taxas **PowerEvoc** vai voltar pra própria liquidez criando uma sustentabilidade.
+**PowerEvoc** é o token aliado da Evocardano , terá a função de comprar os tokens $EVOC e queima-los. Deixando $EVOC cada vez mais escasso e valioso. Maior parte das taxas **PowerEvoc** vai voltar pra própria liquidez criando uma sustentabilidade.
 
 Será aliado da Evocardano , você poderá fazer o par $PWE e $EVOC pra gerar $PWE ganhando renda passiva.
 
