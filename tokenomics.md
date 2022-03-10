@@ -54,4 +54,4 @@ description: >-
 
 ### <mark style="color:purple;">**Liquidez Bloqueada:**</mark>
 
-Para a segurança de todos os detentores  que deram um voto de confiança e que querem fazer parte do sucesso do projeto colhendo frutos futuramente. Decidimos trancar a liquidez para que tenham total confiança da equipe de desenvolvimento da EVOC.  a liquidez é bolqueada por **100** anos via PinkSale, que é um dos melhores na área para bloqueios de liquidez. Viemos para contrariar a maioria dos projetos onde acabam destruindo os próprios projetos. E estamos falando de projetos excelentes que poderiam tomar proporções gigantescas.
+Para a segurança de todos os detentores  que deram um voto de confiança e que querem fazer parte do sucesso do projeto colhendo frutos futuramente. Decidimos trancar a liquidez para que tenham total confiança da equipe de desenvolvimento da EVOC.  a liquidez é bolqueada por **100 anos via PinkSale**, que é um dos melhores na área para bloqueios de liquidez. Viemos para contrariar a maioria dos projetos onde acabam destruindo os próprios projetos. E estamos falando de projetos excelentes que poderiam tomar proporções gigantescas.
