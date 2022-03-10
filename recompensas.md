@@ -4,7 +4,7 @@ description: COMO FUNCIONA AS RECOMPENSAS EM ADA ?
 
 # 💰 Recompensas
 
-O HOLD DEVE TER NO MÍNIMO (10.000 EVOC) PARA PODER GANHAR ALGUMAS FRAÇÕES EM ADA.
+O DETENTOR DEVE TER NO MÍNIMO (10.000 EVOC) PARA PODER GANHAR ALGUMAS FRAÇÕES EM ADA.
 
 ### **Como funciona o tempo de distribuição das reflexões?**
 
