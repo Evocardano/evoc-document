@@ -32,7 +32,7 @@
 
 **4.**  765.000 - SETE CENTOS E SECENTA E CINCO MIL.
 
-* **QUEIMA NO LANÇAMENTO - 76,5%**   &#x20;
+* **QUEIMA NO LANÇAMENTO - 76,5%🔥**   &#x20;
 
 ## <mark style="color:blue;">Fornecimento Contínuo</mark>
 
