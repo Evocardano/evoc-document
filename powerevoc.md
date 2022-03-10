@@ -7,9 +7,11 @@ description: >-
 
 # 🔥 PowerEvoc
 
+**CONTRATO  :**
+
 ## Sobre o Projeto
 
-**PowerEvoc** será um token aliado da Evocardano , terá a função de comprar os tokens EVOC e queima-los automáticamente. Deixando Evocardano cada vez mais escasso e valioso,  a maior parte das taxas **PowerEvoc** vai voltar pra própria liquidez criando uma estabilidade no preço, também será um token onde você poderá  minerar de forma econômica sem gastar energia. Apenas criando um par de liquidez com a Evocardano ou qualquer outro token que esteja dentro das opções de farms da dex **EvocSwap** você já será capaz de obter lucros bem significantes.
+**PowerEvoc** será um token de governança onde terá a função de comprar Evocardano e queimá-los automaticamente. Deixando Evocardano cada vez mais escasso e valioso,  a maior parte das taxas vai voltar pra própria liquidez criando uma estabilidade no preço, e para aqueles que sempre sonhou em minerar uma moeda também será um token onde você poderá  minerar de forma econômica sem gastar energia. Mais para isso você terá que ter uma quantidade de PowerEvoc em sua carteira para poder criar o par de liquidez e começar as minerações na dex **EvocSwap.**
 
 
 
