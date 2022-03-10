@@ -1,8 +1,8 @@
 # Table of contents
 
-* [🟣 EvoCardano](README.md)
+* [🟣 EvocSwap](README.md)
+* [🟣 EvoCardano](<README (1).md>)
 * [🎯 Tokenomics](tokenomics.md)
-* [🟣 EvocSwap](evocswap.md)
 * [🔥 PowerEvoc](powerevoc.md)
 * [🎯 Tokenomics](tokenomics-1.md)
 * [🗃 Criando sua carteira](criando-sua-carteira.md)

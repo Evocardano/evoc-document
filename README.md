@@ -1,23 +1,33 @@
 ---
 description: >-
-  EvoCardano é um token nativo da rede Binance Smart Chain , onde possui sua
-  própria DEX ( exchange descentralizada ) atualmente rodando na V1.0 em breve 
-  na V2.0 vai rodar também na rede Cardano.
+  Dex EvocSwap vai rodar em duas redes Binance Smart Chain e Cardano em breve na
+  versão 2.0 após atualização alonzo estiver 100% concluída.
 ---
 
-# 🟣 EvoCardano
+# 🟣 EvocSwap
 
-#### CONTRATO : 0x086cc8e468b3cb5494f18a7abc2de1321306af12
+{% hint style="success" %}
+**A EvocSwap ajuda você a explorar suas negociações criptográficas com simplicidade , qualidade e rapidez em um só lugar.**
+{% endhint %}
 
-## Sobre o projeto
+## ↔️ Trade
 
-**EvoCardano**  trata-se de um token que já foi lançado na rede BSC ( Binance Smart Chain) mais será lançado também na rede da **Cardano**. Onde após a atualização Alonzo estiver 100%, será permitido a negociação de projetos Defi's na blockchain Cardano. Acredita-se na possibilidade da eliminação de bugs e hackers em projetos DeFi's. Com isso, surge a **EvocSwap** que trata-se do desenvolvimento de uma DEX (Exchange Descentralizada) semelhante a Pancakeswap para as duas redes. Onde permitirá aos usuários negociar ativos,  de forma rápida, barata e segura.
+Troque instantaneamente tokens de criptografia: sem necessidade de registro ou conta.
 
-## Visão do projeto
+### A escolha dos investidores
 
-Nossa visão consiste na implementação do nosso ecossistema  na própria blockchain da Cardano. Fazendo assim,  a união de capitalização das duas redes.
+O Token EvoCardano faz parte da rede Binance Smart Chain, e tem sua própria DEX (exchange descentralizada) sendo uma plataforma veloz com melhor usabilidade em negociações do mercado. Ela foi criada com o objetivo de eliminar erros muitos graves com transações lentas e taxas altas de outras exchanges, por esse fato fizemos a EvocSwap com esse grande diferencial. E temos a aprovação de vários investidores.&#x20;
 
-Assim poderemos ter uma extrema valorização com a união das duas redes na **EvoCardano e PowerEvoc.**
+### Taxas baixas
 
-O Ponto crucial e a importância de realmente ser um detentor desse projeto é que  após a junção de capitalização de mercado das duas redes em nossas moedas podemos ter uma extrema valorização. E será ai que os investidores que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
+Por que pagar mais? A EvocSwap é executada na Binance Smart Chain, uma exchange descentralizada com custos de transação mais baixos do que a pancakeswap. As taxas de negociação também são mais baixas do que qualquer outras redes como ethereum entre outras que são um absurdo, pois viemos para trazer melhor usabilidade em suas transações.
 
+### Descentralizado
+
+Negocie diretamente pelo seu aplicativo de carteira. Ao contrário de exchanges centralizadas como Binance ou Coinbase. A EvocSwap não retém seus fundos quando você negocia: **você tem 100% de propriedade de sua própria criptomoeda.**
+
+
+
+
+
+***
