@@ -14,6 +14,8 @@
 * 3% Compra e queima $EVOC
 * 2% Marketing
 
+![](.gitbook/assets/photo1646866220.jpeg)
+
 ### <mark style="color:purple;"><mark style="color:blue;">Fornecimento Total:<mark style="color:blue;"></mark>
 
 **Possuímos um total de 1.000.000 (um milhão) de unidades contínuas.**
