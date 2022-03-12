@@ -7,7 +7,7 @@ description: >-
 
 # 🟣 EvoCardano
 
-#### CONTRATO : 0x086cc8e468b3cb5494f18a7abc2de1321306af12
+**CONTRATO :** 0x086cc8e468b3cb5494f18a7abc2de1321306af12
 
 ## Sobre o projeto
 
