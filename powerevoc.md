@@ -7,7 +7,7 @@ description: >-
 
 # 🔥 PowerEvoc
 
-**CONTRATO  :**
+**CONTRATO  :** 0x39631BE80EBcD356cEA324c663d6732809725f00
 
 ## Sobre o Projeto
 
