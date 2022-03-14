@@ -11,13 +11,7 @@ Prós:
 * Muitas ferramentas e configurações personalizadas
 * Oferece compras de ETH com Transak
 * Suporta um grande numero de idiomas
-* Também está disponível um plugin de navegador para dispositivos desktop
-
-Contras:
-
-*
-
-
+* Também está disponível um plugin de navegador para dispositivos desktop.
 
 {% hint style="danger" %}
 Ao configurar uma carteira, certifique-se de:
@@ -347,12 +341,6 @@ Por favor, seja extremamente cuidadoso com a forma como você lida com suas chav
 E pronto, tudo pronto! Você pode seguir nosso [guia Conecte sua carteira ao EvocSwap](conectando-sua-carteira.md) para se conectar ao BNB Smart Chain e ao EvocSwap.
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
 
 
 
