@@ -118,6 +118,28 @@ Contras:
 
 [Download MetaMask](https://metamask.io/download/) (detecta automaticamente o dispositivo)                                 [Guia de configuração do MetaMask](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
+
+{% tab title="Token Pocket" %}
+![](<.gitbook/assets/Token Pocket.png>)
+
+O Token Pocket é um aplicativo de gerenciamento de criptomoedas que oferece suporte nativo a muitas redes de criptomoedas. Ele também tem um aplicativo de desktop disponível.
+
+Prós:
+
+* Código aberto para auditabilidade
+* Permite que os usuários alternem facilmente entre muitas redes de criptografia
+* Suporta muitas redes por padrão
+* Uma experiência de usuário menos apertada do que as carteiras de plug-in do navegador
+* Também está disponível como dispositivos de software de desktop
+
+Contras:
+
+* Suporta apenas os idiomas chinês e inglês
+* Tem alguns problemas com a tradução em inglês
+* Tem menos recursos online do que carteiras mais estabelecidas
+
+Faça o [Download](https://www.tokenpocket.pro/en/download/app) do aplicativo Token Pocket (detecta automaticamente o dispositivo)      &#x20;
+{% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
