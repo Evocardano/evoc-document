@@ -2,6 +2,23 @@
 
 Para começar a usar o EvocSwap, a primeira coisa que você precisa é configurar uma carteira que suporte o Binance Smart Chain (BSC). As carteiras estão disponíveis em computadores desktop e em dispositivos de smartphone. Você precisará escolher a carteira que melhor se adapta às suas necessidades.
 
+Prós:
+
+* Código aberto para auditabilidade
+* Compatível com WEB3 em BscScan
+* Um forte histórico de segurança e confiabilidade
+* Uma grande quantidade de guias de instruções e recursos online
+* Muitas ferramentas e configurações personalizadas
+* Oferece compras de ETH com Transak
+* Suporta um grande numero de idiomas
+* Também está disponível um plugin de navegador para dispositivos desktop
+
+Contras:
+
+*
+
+
+
 {% hint style="danger" %}
 Ao configurar uma carteira, certifique-se de:
 
@@ -75,6 +92,31 @@ Contras:
 * As notificações de transações podem ser atrasadas
 
 [Download Trust Wallet](https://trustwallet.com) (detecta automaticamente o dispositivo)                                     [Guia de configuração da Trust Wallet](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)
+{% endtab %}
+
+{% tab title="MetaMask" %}
+![](<.gitbook/assets/metamask 1.png>)
+
+MetaMask é um plugin de carteira baseado em navegador muito popular que suporta ERC20 (rede Ethereum) e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain).
+
+Prós:
+
+* Código aberto para auditabilidade
+* Compatível com WEB3 em BscScan
+* Um forte histórico de segurança e confiabilidade
+* Uma grande quantidade de guias de instruções e recursos online
+* Muitas ferramentas e configurações personalizadas
+* Oferece compras de ETH com a Transak
+* Suporta um grande número de idiomas
+* Também está disponível um plugin de navegador para dispositivos desktop
+
+Contras:
+
+* Maior tempo de configuração do que outras opções
+* Etapas adicionais necessárias para usar com BNB Smart Chain e EvocSwap
+* Informações e configurações extras podem confundir os iniciantes
+
+[Download MetaMask](https://metamask.io/download/) (detecta automaticamente o dispositivo)                                 [Guia de configuração do MetaMask](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 {% endtabs %}
 
