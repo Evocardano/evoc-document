@@ -316,9 +316,43 @@ A versão desktop do Token Pocket solicitará que você importe uma chave privad
 
 O Token Pocket é um projeto de código aberto, portanto, o código é visível publicamente e geralmente considerado seguro. Mesmo assim, suas chaves privadas são de sua responsabilidade, portanto, use-as apenas com aplicativos em que você confia e pode verificar.
 
+1 . Visite o site do Token Pocket no seu PC e clique no botão Desktop.
 
+1 . Na página seguinte, clique no botão do seu sistema operacional e aguarde o término do download. Este guia usa o Windows, mas o processo é basicamente o mesmo no Mac OS.
+
+1 . Execute o arquivo de instalação. Ele solicitará que você escolha entre tornar o Token Pocket disponível para todos que usam o computador ou apenas para o usuário atual. Para sua segurança, recomendamos apenas o usuário atual.
+
+1 . Insira uma pasta de destino para instalar e clique em Instalar.
+
+
+
+1 . Quando a instalação estiver concluída, clique em Concluir e execute o Token Pocket.
+
+&#x20;    2 . Quando o Token Pocket abre, você pode se deparar com uma interface chinesa. Você pode mudar para inglês clicando em EN no canto inferior esquerdo.
+
+
+
+1 . O Token Pocket solicitará que você crie uma senha. Certifique-se de usar algo difícil de adivinhar; quanto maior a senha, mais segura. Quando terminar, clique em Confirmar.
+
+1 . Na próxima página, o Token Pocket solicitará que você importe uma chave privada. Isso pode ser intimidante, mas o Token Pocket funcionará como uma interface para sua carteira existente. Você precisará obter seu privado de qualquer carteira existente que deseja usar.
+
+Aqui está um [guia para obter sua chave privada do MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key). Para importar sua chave privada da versão móvel do Token Pocket, consulte a guia Mobile Token Pocket mais acima nesta página. Se você usa outra carteira e não sabe como obter sua chave privada, precisará encontrar um guia.
+
+{% hint style="warning" %}
+Por favor, seja extremamente cuidadoso com a forma como você lida com suas chaves privadas. Dar suas chaves privadas a alguém dará acesso total às suas moedas! O Token Pocket é um projeto de código aberto e usará sua chave privada para importar sua carteira. Mesmo assim, use sua chave privada apenas com aplicativos em que você confia e pode verificar se são legítimos!
+{% endhint %}
+
+1 . Depois de inserir sua chave privada, clique na rede Ethereum por enquanto.
+
+E pronto, tudo pronto! Você pode seguir nosso guia Conecte sua carteira ao PancakeSwap para se conectar ao BNB Smart Chain e ao EvocSwap.
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 
 
