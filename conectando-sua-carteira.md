@@ -62,20 +62,6 @@ Para conectar o MetaMask a EvocSwap, siga os passos abaixo.
 
 
 
-
-
-
-
-
-
-
-
-f
-
-
-
-j
-
 ### Carteiras de desktop/navegador da Web
 
 {% tabs %}
