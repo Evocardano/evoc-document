@@ -140,6 +140,32 @@ Contras:
 
 Faça o [Download](https://www.tokenpocket.pro/en/download/app) do aplicativo Token Pocket (detecta automaticamente o dispositivo)      &#x20;
 {% endtab %}
+
+{% tab title="SafePal" %}
+![](.gitbook/assets/SafaPal.png)
+
+SafePal está disponível como uma carteira de software e hardware. A carteira é fácil de instalar e criar e vem pronta para suportar BEP2 (Binance Chain) e BEP20 (BNB Smart Chain) imediatamente.
+
+Prós:
+
+* Alterne facilmente entre várias redes de criptografia
+* Oferece 25% de desconto na taxa pagando com BNB (requer login)
+* Tem a opção para o Google Authenticator integrado
+* Suporta um grande número de idiomas
+* O processo de configuração é muito simples
+* Está disponível como carteira de software e hardware (trabalha em conjunto)
+* Suporta NFTs nas redes BSC e ETH
+
+Contras:
+
+* Não é totalmente de código aberto
+* Tem alguns recursos que ainda não estão prontos para uso (como DeFi)
+* Não dá notificações ao usuário
+* Não impõe uma segurança forte durante a configuração inicial e a criação da carteira
+* Tem menos recursos online do que carteiras mais estabelecidas
+
+Faça o [download ](https://safepal.io/download)do SafePal (detecta automaticamente o dispositivo)                    [Guia de configuração do SafePal](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+{% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
