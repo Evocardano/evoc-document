@@ -239,6 +239,32 @@ Faça o [download ](https://www.bnbchain.world/en)da Binance Wallet (detecta aut
 
 {% tab title="Token Pocket" %}
 ![](<.gitbook/assets/Token Pocket.png>)
+
+O Token Pocket é um aplicativo independente disponível para dispositivos Mac OS e Win64. O Token Pocket permite que você gerencie sua criptomoeda em software independente do seu navegador.
+
+Prós:
+
+* Código aberto para auditabilidade
+* Independente do seu navegador e de qualquer uma de suas permissões
+* Permite que os usuários alternem facilmente entre muitas redes de criptografia
+* Suporta muitas redes por padrão
+* Uma experiência de usuário menos apertada do que as carteiras de plug-in do navegador
+* Também está disponível em dispositivos móveis
+
+Contras:
+
+* Solicita que os usuários insiram sua chave privada como parte do processo de configuração da área de trabalho
+* Suporta apenas os idiomas chinês e inglês
+* Tem alguns problemas com a tradução em inglês
+* Tem menos recursos online do que carteiras mais estabelecidas
+
+[Download do Token Pocket Desktop Wallet](https://www.tokenpocket.pro/en/download/pc) (MacOS ou Win64)                                **Guia de configuração do Token Pocket Desktop**
+
+A versão desktop do Token Pocket solicitará que você importe uma chave privada. Certifique-se de que conhece e compreende a importância de uma chave privada antes de prosseguir.
+
+O Token Pocket é um projeto de código aberto, portanto, o código é visível publicamente e geralmente considerado seguro. Mesmo assim, suas chaves privadas são de sua responsabilidade, portanto, use-as apenas com aplicativos em que você confia e pode verificar.
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -252,4 +278,3 @@ O site e a equipe genuínos do EvocSwap nunca solicitarão que você insira sua 
 
 
 
-###
