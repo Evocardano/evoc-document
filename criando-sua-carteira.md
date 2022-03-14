@@ -60,7 +60,7 @@ Esta tabela de comparação fornece uma visão geral das carteiras móveis mais 
 | ----------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
 | Suporte para Binance Smart Chain                | ✅                             | ⚠️       | ✅            | ✅       |
 | Navegador dApp integrado                        | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
-| Compativel com carteira de Hardware             | ➖                             | ✅        | ➖            | 🔶      |
+| Compatível com carteira de Hardware             | ➖                             | ✅        | ➖            | 🔶      |
 | Código aberto (auditabilidade)                  | ✅                             | ✅        | ✅            | ➖       |
 | Interaja com BscScan (para usuários avançados!) | ➖                             | ✅        | ➖            | ➖       |
 
@@ -138,11 +138,57 @@ Contras:
 * Tem alguns problemas com a tradução em inglês
 * Tem menos recursos online do que carteiras mais estabelecidas
 
-Faça o [Download](https://www.tokenpocket.pro/en/download/app) do aplicativo Token Pocket (detecta automaticamente o dispositivo)      &#x20;
+Faça o [Download](https://www.tokenpocket.pro/en/download/app) do aplicativo Token Pocket (detecta automaticamente o dispositivo)                                                                                                                     &#x20;
+
+**Guia de configuração do Token Pocket Mobile** &#x20;
+
+****
+
+1 . Visite o site do Tokenpocket e toque em **Celular**.
+
+
+
+1 . Seu dispositivo será detectado automaticamente. Toque no botão **Google Play** ou **App Store** e instale o aplicativo Token Pocket.
+
+&#x20;    2 . Depois que o Token Pocket estiver instalado, abra-o. Você será recebido por uma tela perguntando se você tem uma carteira existente ou gostaria de criar uma nova. Toque em **Sem contas, Criar agora**.
+
+Se você tiver uma carteira existente para importar, use a opção superior.
+
+
+
+1 . Na próxima página, encontrei o **BNB Smart Chain** na lista e toque nele.
+
+1 . Em seguida, na página “Criar caminho”, toque em **Criar Carteira**.
+
+1 . Você será solicitado a inserir uma senha. Para sua segurança, certifique-se de que sua senha seja considerada “Forte”. Você também pode adicionar uma dica, mas certifique-se de que é algo que só você entenderá. Quando estiver pronto, toque em **Criar Carteira**.
+
+E pronto, tudo pronto!
+
+Para se conectar ao BNB Smart Chain e usar o PancakeSwap, você pode seguir a seção TokenPocket do nosso guia Connect Your Wallet to PancakeSwap https://docs.pancakeswap.finance/get-started/connection-guide.
+
+**Obtendo a chave privada do celular para importar para o desktop**
+
+O Token Pocket permite que você use uma carteira de desktop e móvel. Esta seção abordará como obter sua chave privada de sua carteira móvel para importar para sua carteira de desktop.
+
+{% hint style="warning" %}
+Por favor, seja extremamente cuidadoso com a forma como você lida com suas chaves privadas. Dar suas chaves privadas a alguém dará acesso total às suas moedas! O Token Pocket é um projeto de código aberto e usará sua chave privada para importar sua carteira. Mesmo assim, use sua chave privada apenas com aplicativos em que você confia e pode verificar se são legítimos!
+{% endhint %}
+
+1 . Toque na guia **Eu** na faixa inferior e toque em **Gerenciar Carteiras**.&#x20;
+
+1 . Na próxima página, toque na entrada **BNB Smart Chain**. Tenha cuidado para não tocar na parte do endereço, ou você só copiará isso para a área de transferência.
+
+1 . Quando o menu aparecer, localize e toque na opção **Exportar chave privada**. Digite sua senha para obter sua chave privada.
 {% endtab %}
 
 {% tab title="SafePal" %}
 ![](.gitbook/assets/SafaPal.png)
+
+
+
+
+
+
 
 SafePal está disponível como uma carteira de software e hardware. A carteira é fácil de instalar e criar e vem pronta para suportar BEP2 (Binance Chain) e BEP20 (BNB Smart Chain) imediatamente.
 
@@ -167,6 +213,12 @@ Contras:
 Faça o [download ](https://safepal.io/download)do SafePal (detecta automaticamente o dispositivo)                    [Guia de configuração do SafePal](https://blog.safepal.io/binance-smart-chain-x-safepal/)
 {% endtab %}
 {% endtabs %}
+
+&#x20;&#x20;
+
+
+
+
 
 ## Carteiras de desktop/navegador da Web
 
