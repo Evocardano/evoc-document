@@ -191,6 +191,26 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 {% tabs %}
 {% tab title="MetaMask" %}
 ![](<.gitbook/assets/metamask 1.png>)
+
+MetaMask é um plugin de carteira baseado em navegador muito popular que suporta ERC20 (rede Ethereum) por padrão e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain) com um pouco de trabalho.
+
+Prós:
+
+* Código aberto para auditabilidade
+* Compatível com WEB3 em BscScan
+* Um forte histórico de segurança e confiabilidade
+* Uma grande quantidade de guias de instruções e recursos online
+* Muitas ferramentas e configurações personalizadas
+* Suporta um grande número de idiomas
+* Também está disponível em dispositivos móveis
+
+Contras:
+
+* Maior tempo de configuração do que outras opções
+* Etapas adicionais necessárias para usar com BNB Smart Chain e EvocSwap
+* Informações e configurações extras podem confundir os iniciantes
+
+[Download do MetaMask](https://metamask.io/download/) (detecta automaticamente o navegador)                          [Guia de configuração do MetaMask](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Carteira Binance" %}
