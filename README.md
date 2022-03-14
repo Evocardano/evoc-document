@@ -22,7 +22,7 @@ O Token EvoCardano faz parte da rede Binance Smart Chain, e tem sua própria DEX
 
 Por que pagar mais? A EvocSwap é executada na Binance Smart Chain, uma exchange descentralizada com custos de transação mais baixos do que a pancakeswap. As taxas de negociação também são mais baixas do que qualquer outras redes como ethereum entre outras que são um absurdo, pois viemos para trazer melhor usabilidade em suas transações.
 
-### Descentralizado
+### Descentralização
 
 Negocie diretamente pelo seu aplicativo de carteira. Ao contrário de exchanges centralizadas como Binance ou Coinbase. A EvocSwap não retém seus fundos quando você negocia: **você tem 100% de propriedade de sua própria criptomoeda.**
 
