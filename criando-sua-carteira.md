@@ -184,6 +184,24 @@ Esta tabela de comparação de uma visão geral das carteiras populares mais usa
 | Código aberto (audibilidade)                | ✅        | ✅                | ✅            |
 | Interacom BscScan (para usuários avançados) | ✅        | ➖                | ➖            |
 
+⚠️ Requer configuração adicional
+
+Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, bem como links de download e guias de instalação.
+
+{% tabs %}
+{% tab title="MetaMask" %}
+![](<.gitbook/assets/metamask 1.png>)
+{% endtab %}
+
+{% tab title="Carteira Binance" %}
+![](.gitbook/assets/Binance.png)
+{% endtab %}
+
+{% tab title="Token Pocket" %}
+![](<.gitbook/assets/Token Pocket.png>)
+{% endtab %}
+{% endtabs %}
+
 {% hint style="danger" %}
 \*\* NUNCA, em qualquer situação, você deve dar a alguém sua chave privada ou frase de recuperação ("frase inicial"). Isso dará a alguém acesso completo à sua criptomoeda!
 
