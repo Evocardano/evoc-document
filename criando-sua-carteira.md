@@ -344,7 +344,7 @@ Por favor, seja extremamente cuidadoso com a forma como você lida com suas chav
 
 1 . Depois de inserir sua chave privada, clique na rede Ethereum por enquanto.
 
-E pronto, tudo pronto! Você pode seguir nosso guia Conecte sua carteira ao PancakeSwap para se conectar ao BNB Smart Chain e ao EvocSwap.
+E pronto, tudo pronto! Você pode seguir nosso guia Conecte sua carteira ao EvocSwap para se conectar ao BNB Smart Chain e ao EvocSwap.
 {% endtab %}
 {% endtabs %}
 
