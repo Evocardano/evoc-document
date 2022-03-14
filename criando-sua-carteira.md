@@ -39,7 +39,7 @@ As carteiras para smartphones/móveis permitem que você acesse suas criptomoeda
 
 Esta tabela de comparação fornece uma visão geral das carteiras móveis mais populares usadas com o EvocSwap.
 
-| Em                                              | Carteira de Confiança         | Metamask | Token Pocket | SafePal |
+| Em                                              | Trust Wallet                  | Metamask | Token Pocket | SafePal |
 | ----------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
 | Suporte para Binance Smart Chain                | ✅                             | ⚠️       | ✅            | ✅       |
 | Navegador dApp integrado                        | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
