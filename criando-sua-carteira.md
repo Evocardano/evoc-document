@@ -168,6 +168,22 @@ Faça o [download ](https://safepal.io/download)do SafePal (detecta automaticame
 {% endtab %}
 {% endtabs %}
 
+## Carteiras de desktop/navegador da Web
+
+As carteiras de desktop estão disponíveis em seu computador doméstico ou laptop. As carteiras em seu computador podem ser executadas como aplicativos independentes ou como plug-ins de navegador da Web para navegadores populares como Chrome e Firefox.
+
+### Qual carteira de desktop devo escolher?
+
+Esta tabela de comparação de uma visão geral das carteiras populares mais usadas com o EvocSwap.
+
+| Texto                                       | MetaMask | Carteira Binance | Token Pocket |
+| ------------------------------------------- | -------- | ---------------- | ------------ |
+| Suporte para BNB Smart Chain                | ⚠️       | ✅                | ⚠️           |
+| Navegador DApp integrado                    | ➖        | ➖                | ✅            |
+| Compatível com carteira de hardware         | ✅        | ✅                | ➖            |
+| Código aberto (audibilidade)                | ✅        | ✅                | ✅            |
+| Interacom BscScan (para usuários avançados) | ✅        | ➖                | ➖            |
+
 {% hint style="danger" %}
 \*\* NUNCA, em qualquer situação, você deve dar a alguém sua chave privada ou frase de recuperação ("frase inicial"). Isso dará a alguém acesso completo à sua criptomoeda!
 
