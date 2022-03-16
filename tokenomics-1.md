@@ -1,47 +1,45 @@
 # 🎯 Tokenomics
 
-### <mark style="color:blue;">Taxas de Transação:</mark>
+## <mark style="color:blue;">Transaction Fees:</mark>
 
-**1 .  Dos 6% nas compras serão distribuídos :**&#x20;
+**1 .  Of the 6% on purchases will be distributed:**
 
-* 3% Liquidez
-* 2% Compra e queima $EVOC
+* 3% Liquidity
+* 2% Buy and burn $EVOC
 * 1%  Marketing
 
-**2 .  Dos 10% nas vendas serão distribuídos  :**&#x20;
+**2 .  Of the 10% in sales will be distributed:**&#x20;
 
-* 5% Liquidez
-* 3% Compra e queima $EVOC
+* 5% Liquidity
+* 3% Buying and burn $EVOC
 * 2% Marketing
 
 ![](.gitbook/assets/photo1646866220.jpeg)
 
-### <mark style="color:purple;"><mark style="color:blue;">Fornecimento Total:<mark style="color:blue;"></mark>
+## <mark style="color:blue;">**Total Supply:**</mark>
 
-**Possuímos um total de 1.000.000 (um milhão) de unidades contínuas.**
+**We have a total of 1,000,000 (one million) of continuous units.**
 
-**1 .**  30.000 - TRINTA MIL.
+**1 .**  30,000 - THIRTY THOUSAND.
 
 * **MARKETING  - 3%**                                             &#x20;
 
-**2 .** 165.000 - CENTO E SECENTA E CINCO MIL.
+**2 .** 165,000 - ONE HUNDRED AND SIXTY FIVE THOUSAND.
 
-* **PRÉ VENDA EVOCSWAP - 16.5%**
+* **EVOCSWAP PRE-SALE - 16.5%**
 
-**3.**  40.000 - QUARENTA MIL.
+**3.**  40,000 - FORTY THOUSAND.
 
-* **DESENVOLVEDORES - 4%**&#x20;
+* **DEVELOPERS - 4%**&#x20;
 
-**4.**  765.000 - SETE CENTOS E SECENTA E CINCO MIL.
+**4.**  764,824 - SEVEN HUNDRED AND SEVENTY-FOUR THOUSAND EIGHT HUNDRED AND TWENTY-FOUR.
 
-* **QUEIMA NO LANÇAMENTO - 76,5%🔥**   &#x20;
+* **BURN AT LAUNCH - 76,48%🔥**   &#x20;
 
-## <mark style="color:blue;">Fornecimento Contínuo</mark>
+## <mark style="color:blue;">Continuous Supply</mark>
 
-Os tokens _mintable (mintáveis)_ são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são em sua maioria _mintados (criados)_ em plataformas de contrato inteligentes, como Ethereum sendo a maior e mais popular para mintar novos tokens.
+Mintable tokens (mintables) are the type of tokens created without performing any activity related to the underlying consensus. These tokens are mostly mintable (created) on smart contract platforms, like Ethereum being the biggest and most popular for mining new tokens. At a granular level, smart contracts have the function of minting new tokens according to predetermined supply. As soon as the function is triggered, new tokens are created, which are distributed in the market.
 
-Em um nível granular, os contratos inteligentes têm a função de mintar novos tokens de acordo com o fornecimento predeterminado. Assim que a função é acionada, novos tokens são criados, os quais são distribuídos no mercado.
+## <mark style="color:blue;">Liquidity</mark>
 
-## <mark style="color:blue;">Liquidez</mark>
-
-A liquidez não será bloqueada o modelo de tokens de fornecimento contínuo é inflacionário, o que significa que novos tokens são mintados regularmente para uma finalidade como um serviço público. O foco principal em um modelo de fornecimento contínuo é aumentar a utilidade e os benefícios subjacentes. O modelo de supply contínuo também é usado por stablecoins que mantêm um peg de 1:1 com o dólar americano, e o protocolo garante que cada token não exceda ou diminua em relação ao preço de $1.
+Liquidity will not be locked. the continuous supply token model is inflationary, which means that new tokens are minted regularly for a purpose, such as a public service. The main focus in a continuous delivery model is to increase utility and underlying benefits. The continuous supply model is also used by Stablecoins that maintain a 1:1 with the US dollar, and the protocol ensures that each token does not exceed or decrease its price of $1.
