@@ -11,11 +11,9 @@ description: >-
 
 ## About the project
 
-POWER EVOC will be a governance token where it will have the function of buying Evocardano and burning them automatically. Leaving Evocardano increasingly scarce and valuable. Most of the fees will return to their own liquidity creating price stability. And for those who have always dreamed of mining a coin, it will also be a token where you can mine economically without spending energy and earn very significant profits. But for that you will have to have a quantity of PowerEvoc in your wallet to be able to create the liquidity pair and start mining on DEX EvocSwap.
+**POWER EVOC** will be a governance token where it will have the function of buying Evocardano and burning them automatically. Leaving Evocardano increasingly scarce and valuable. Most of the fees will return to their own liquidity creating price stability. And for those who have always dreamed of mining a coin, it will also be a token where you can mine economically without spending energy and earn very significant profits. But for that you will have to have a quantity of **POWER EVOC** in your wallet to be able to create the liquidity pair and start mining on DEX EvocSwap.
 
+## Introduction to the NFT market
 
-
-## Introdução no mercado NFT
-
-Um dos maiores mercados e que vem crescendo hoje no mundo , é o mercado de NFTs então **PowerEvoc**  vai se tornar uma moeda de compras e vendas de **NFTs** onde ainda na rede da Binance Smart Chain a equipe estuda introduzir um marketplace ,  mercado NFT onde qualquer detentor poderá criar sua NFT comprar ou vender com PowerEvoc. Melhorando ainda mais sua sustentabilidade e criando maior volume.
+One of the biggest and growing markets in the world today is the NFT’s market, with that **POWER EVOC** will become a currency for buying and selling NFT's where even in the Binance Smart Chain network, the team is studying to introduce a marketplace NFT market where any holder can create their NFT, buy or sell with **POWER EVOC**. Further improving a sustainability and creating greater volume.
 
