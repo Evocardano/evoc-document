@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dex EvocSwap vai rodar em duas redes Binance Smart Chain e Cardano em breve na
-  versão 2.0 após atualização alonzo estiver 100% concluída.
+  The dex EvocSwap will run on two networks: Binance Smart Chain and Cardano,
+  soon in version 2.0 after the upgrade from 100% completion.
 ---
 
 # 🟣 EvocSwap
