@@ -1,23 +1,19 @@
 ---
 description: >-
-  EvoCardano é um token nativo da rede Binance Smart Chain , onde possui sua
-  própria DEX ( exchange descentralizada ) atualmente rodando na V1.0 em breve 
-  na V2.0 vai rodar também na rede Cardano.
+  EvoCardano is a native token of the Binance Smart Chain network, where it has
+  its own DEX  (decentralized exchange) currently running on V1.0 and soon on
+  V2.0 which will run on the  Cardano network.
 ---
 
 # 🟣 EvoCardano
 
-**CONTRATO :** 0x086cc8e468b3cb5494f18a7abc2de1321306af12
+**CONTRACT** : 0x086cc8e468b3cb5494f18a7abc2de1321306af12
 
-## Sobre o projeto
+## ABOUT THE PROJECT
 
-**EvoCardano**  trata-se de um token que já foi lançado na rede BSC ( Binance Smart Chain) mais será lançado também na rede da **Cardano**. Onde após a atualização Alonzo estiver 100%, será permitido a negociação de projetos Defi's na blockchain Cardano. Acredita-se na possibilidade da eliminação de bugs e hackers em projetos DeFi's. Com isso, surge a **EvocSwap** que trata-se do desenvolvimento de uma DEX (Exchange Descentralizada) semelhante a Pancakeswap para as duas redes. Onde permitirá aos usuários negociar ativos,  de forma rápida, barata e segura.
+EvoCardano is a token that has already been launched on the BSC network (Binance Smart Chain) but will also be launched on the Cardano network. Where after the Alonzo update gets to 100%, it will be allowed to trade Defi's projects on the Cardano blockchain. It is believed in the possibility of eliminating bugs and hacks in DeFi's projects. With this, EvocSwap emerges, which is the development of a DEX (Decentralized Exchange) similar to Pancakeswap for the two networks. Where it will allow users to trade assets, quickly, cheaply and safely.
 
-## Visão do projeto
+## PROJECT VISIONS
 
-Nossa visão consiste na implementação do nosso ecossistema  na própria blockchain da Cardano. Fazendo assim,  a união de capitalização das duas redes.
-
-Assim poderemos ter uma extrema valorização com a união das duas redes na **EvoCardano e PowerEvoc.**
-
-O Ponto crucial e a importância de realmente ser um detentor desse projeto é que  após a junção de capitalização de mercado das duas redes em nossas moedas podemos ter uma extrema valorização. E será ai que os investidores que sempre acreditou no projeto , vai conseguir o objetivo que sempre sonhou.
+Our vision is to implement our ecosystem on Cardano's own blockchain. Doing so, the union of capitalization of the two networks. Like that we can have an extreme valuation with the union of the two networks in EvoCardano and PowerEvoc. The crucial point and the importance of actually being a holder of this project is that after joining the market capitalization of the two networks in our currencies, we can have an extreme appreciation. And it will be there that investors who have always believed in the project, will achieve the goal they always dreamed of.
 
