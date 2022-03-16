@@ -1,57 +1,52 @@
----
-description: >-
-  A Evocardano possui um contrato inteligente de geração de liquidez automática
-  e rendimento passivo em ADA. Para isso ser possível, há uma taxa de 16% em
-  cada transação de compra e venda.
----
-
 # 🎯 Tokenomics
 
-### <mark style="color:purple;">Taxas de Transação:</mark>
+## <mark style="color:purple;">Transaction Fees:</mark>
 
-**1 .  Dos 10% nas compras serão distribuídos :**&#x20;
+**1 .  Of the 10% on purchases will be distributed:**
 
-* 1% Dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
-* 8% É destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a recompra automatizada por um contrato , para ter uma sustentabilidade no gráfico, e não atingir muito o marketcap da moeda.
-* &#x20;1% É destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo um preço estável, assim evitando problemas ao realizar compras e vendas.
+* 1% of these fees are returned to holders in the form of an ADA reward. Hold on to the tokens, and receive Cardano with every new distribution you have.
+* 8% It is destined to the BuyBack and Marketing portfolio, where most of this fee will be used for the automated repurchase by a contract. To have a sustainability in the chart, and not reach too much of the currency on marketcap.
+* &#x20;1% is allocated to the liquidity pool. The liquidity added to the pool promotes price stability, maintaining a stable price, like that, avoiding problems when making purchases and sales.
 
-**2 .  Dos 11% nas vendas serão distribuídos  :**&#x20;
+**2 .  Of the 11% in sales will be distributed:**
 
-* 2% Dessas taxas retorna aos detentores em forma de recompensa em ADA. Segure os tokens, e receba Cardano a cada nova distribuição que tiver.
-* 8%  É destinado a carteira de BuyBack e Marketing, onde a maior parte dessa taxa será utilizada para a recompra automatizada por um contrato , para ter uma sustentabilidade no gráfico, e não atingir muito o desenvolvimento do gráfico.
-* &#x20;1% É destinado a piscina de liquidez. A liquidez adicionada ao pool promove estabilidade do preço, se mantendo  um preço estável, assim evitando problemas ao realizar compras e vendas.
+* 2% of these fees are returned to holders in the form of an ADA reward. Hold on to the tokens, and receive Cardano with every new distribution you have.
+* 8% It is destined to the BuyBack and Marketing portfolio, where most of this fee will be used for the automated repurchase by a contract, to have a sustainability in the chart, and not reach too much the development of the chart.
+* &#x20;1% is allocated to the liquidity pool. The liquidity added to the pool promotes price stability, maintaining a stable price, like that, avoiding problems when making purchases and sales.
 
 ![](<.gitbook/assets/photo1646679172 (1).jpeg>)
 
-### <mark style="color:purple;">**Fornecimento Total:**</mark>
+## <mark style="color:purple;">Total Supply:</mark>
 
 **Possuímos um total de 1.000.000.000 (um bilhão) de unidades.**
 
-**1 .**  451.440.000 - QUATROCENTOS E CINQUENTA E UM MILHÕES, QUATROCENTOS E QUARENTA MIL.
+**1 .**  451,440,000 - FOUR HUNDRED AND FIFTY-ONE MILLION, FOUR HUNDRED AND FORTY THOUSAND.
 
-* **LIQUIDEZ PANCAKESWAP - 15.84%**
-* **PRÉ VENDA - 29.04%**
-* **TAXA PINKSALE - 0.264%**                                                 &#x20;
+* **PANCAKESWAP LIQUIDITY - 15.84%**
+* **PRE-SALE - 29.04%**
+* **PINKSALE RATE - 0.264%**                                              &#x20;
 
-**2 .** 206.970.000 - DUZENTOS E SEIS MILHÕES, NOVECENTOS E SETENTA MIL.
+**2 .** 206,970,000 - TWO HUNDRED AND SIX MILLION, NINE HUNDRED AND SEVENTY THOUSAND.
 
-* **PRIVATE SALE - 10.797%**
-* **QUEIMA DE LANÇAMENTO - 10%**
+* **PRIVATE SALE - 10,797%**
+* **LAUNCH BURN - 10%**
 
-**3 .** 171.590.008 - CENTO E SETENTA E UM MILHÕES, QUINHENTOS E NOVENTA MIL.
+**3 .** 171,590,008 - ONE HUNDRED AND SEVENTY-ONE MILLION, FIVE HUNDRED AND NINETY THOUSAND.
 
-* **QUEIMAS FUTURAS - 10%**
-* **CARIDADE - 3.5%**
-* **AIRDROP/SORTEIOS - 3.659%**
+* **FUTURE BURNS - 10%**
+* **CHARITY - 3.5%**
+* **AIRDROP/DRAWS - 3,659%**
 
-**4 .** 90.000.000 - NOVENTA MILHÕES.
+**4 .** 90,000,000 - NINETY MILLION.
 
 * **MARKETING 9%**
 
-**5 .**  80.000.000 - OITENTA MILHÕES
+**5 .**  80,000,000 - EIGHTY MILLION
 
-* **CARTEIRA DE DEVS CADA UMA COM 0.6666%**
+*   **DEVS PORTFOLIO EACH WITH 0.6666% (locked 6 months)**
 
-### <mark style="color:purple;">**Liquidez Bloqueada:**</mark>
+    &#x20;****&#x20;
 
-Para a segurança de todos os detentores  que deram um voto de confiança e que querem fazer parte do sucesso do projeto colhendo frutos futuramente. Decidimos trancar a liquidez para que tenham total confiança da equipe de desenvolvimento da EVOC.  a liquidez é bolqueada por **100 anos via PinkSale**, que é um dos melhores na área para bloqueios de liquidez. Viemos para contrariar a maioria dos projetos onde acabam destruindo os próprios projetos. E estamos falando de projetos excelentes que poderiam tomar proporções gigantescas.
+## <mark style="color:purple;">Blocked Liquidity:</mark>
+
+For the safety of all holders who have given a vote of trust and to those who want to be part of the project's success reaping rewards in the future. We have decided to lock down liquidity so that they can have the full trust of the EVOC development team. Liquidity is locked for **100 years** via PinkSale, which is one of the best in the field for liquidity locks. We came to counter most projects where they end up destroying the projects themselves. And we're talking about excellent projects that could take on gigantic proportions.
