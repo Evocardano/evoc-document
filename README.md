@@ -7,27 +7,23 @@ description: >-
 # 🟣 EvocSwap
 
 {% hint style="success" %}
-**A EvocSwap ajuda você a explorar suas negociações criptográficas com simplicidade , qualidade e rapidez em um só lugar.**
+**EvocSwap helps you to explore your cryptographic negotiations, with a simple and quickly experience in one place.**
 {% endhint %}
 
 ## ↔️ Trade
 
-Troque instantaneamente tokens de criptografia: sem necessidade de registro ou conta.
+Instantly exchange crypto tokens: no registration or account required.
 
-### A escolha dos investidores
+## INVESTOR’S CHOICE&#x20;
 
-O Token EvoCardano faz parte da rede Binance Smart Chain, e tem sua própria DEX (exchange descentralizada) sendo uma plataforma veloz com melhor usabilidade em negociações do mercado. Ela foi criada com o objetivo de eliminar erros muitos graves com transações lentas e taxas altas de outras exchanges, por esse fato fizemos a EvocSwap com esse grande diferencial. E temos a aprovação de vários investidores.&#x20;
+The token is part of Binance Smart Chain, and has its own DEX network (decentralized exchange) being a fast platform with better usability in the market. It was created with the aim of eliminating many severe mistakes with slow transactions and fees from other exchanges, for that reason we created EVOCSWAP which makes a big difference and a better experience and a better approval of our investor’s.
 
-### Taxas&#x20;
+## FEES&#x20;
 
-Por que pagar mais? A EvocSwap é executada na Binance Smart Chain, uma exchange descentralizada com custos de transação mais baixos do que a pancakeswap. As taxas de negociação também são mais baixas do que qualquer outras redes como ethereum entre outras que são um absurdo, pois viemos para trazer melhor usabilidade em suas transações.
+Why pay more? EVOCSWAP is performed on BINANCE SMART CHAIN, a Exchange decentralized with costs of transaction then a pancakewap. The trading fees are also lower than any other networks like ethereum among others which are too expensive, as we came to bring better usability in your transactions.
 
-### Descentralização
+## DECENTRALIZED&#x20;
 
-Negocie diretamente pelo seu aplicativo de carteira. Ao contrário de exchanges centralizadas como Binance ou Coinbase. A EvocSwap não retém seus fundos quando você negocia: **você tem 100% de propriedade de sua própria criptomoeda.**
+Trade directly from your wallet app. Unlike centralized exchanges like Binance or Coinbase. EvocSwap does not hold your funds when you trade: **you have 100% ownership of your own cryptocurrency.**
 
-
-
-
-
-***
+****
