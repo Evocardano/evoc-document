@@ -1,55 +1,49 @@
 ---
 description: >-
-  Você não precisa de uma conta com a Binance, Coinbase, Kraken, Huobi, OKEx ou
-  qualquer outra exchange centralizada para começar a usar o EvocSwap!
+  You don't need an account with Binance, Coinbase, Kraken, Huobi, OKEx or any
+  other  centralized exchange to start using EvocSwap!
 ---
 
 # 🔁 Trocas descentralizadas
 
-EvocSwap é um aplicativo descentralizado. Isso significa que, diferentemente da Binance ou de outras plataformas centralizadas, você não precisa registrar uma conta para usá-la... você só precisa de uma carteira criptográfica.&#x20;
+EvocSwap is a decentralized application. This means that unlike Binance or other centralized platforms, you don't need to register an account to use it... you just need a crypto wallet. So how can you get crypto on EvocSwap without using a centralized exchange? In this tutorial, we will guide you through the process of using "cross-chain bridges" to transfer your assets to your Binance Smart Chain wallet and start using EvocSwap.&#x20;
 
-Então, como você pode obter criptografia na EvocSwap sem usar uma troca centralizada?
+## Move your assets from other blockchains to Binance Smart Chain
 
-Neste tutorial, vamos guiá-lo pelo processo de usar "pontes de cadeia cruzada" para transferir seus ativos para sua carteira Binance Smart Chain e começar a usar a EvocSwap.
-
-### Mova seus ativos de outras blockchains para a Binance Smart Chain
-
-Você pode usar uma variedade de diferentes pontes de cadeia cruzada para transferir tokens da Ethereum ou de outras redes para a Binance Smart Chain.
-
-Nos tutoriais a seguir, vamos demonstrar como mover o USDT de uma variedade de blockchains diferentes para a Binance Smart Chain, usando três pontes de cadeia cruzada diferentes.
+&#x20;You can use a variety of different cross-chain bridges to transfer tokens from Ethereum or other networks to Binance Smart Chain. In the following tutorials, we will demonstrate how to move USDT from a variety of different blockchains to Binance Smart Chain using three different cross-chain bridges.
 
 {% tabs %}
 {% tab title="Binance Bridge (recomendado)" %}
-A Binance Bridge pode ser a ponte mais fácil de usar para mover ativos para a Binance Smart Chain (BSC).
+Binance Bridge might be the easiest bridge to use to move assets to Binance Smart Chain (BSC)
 
-No exemplo a seguir, mostraremos como mover o USDT do blockchain TRON para o BSC usando o Binance Bridge.
+In the following example, we will show you how to move USDT from TRON blockchain to BSC using Binance Bridge.
 
-O processo é quase o mesmo para mudar do Ethereum para o BSC.
+The process is almost the same for switching from Ethereum to BSC.
 
-Em
+In
 
-1. Prepare sua carteira TRON com USDT e um pouco de TRX para largura de banda (gás).
-2. Como o Binance Bridge suporta apenas MetaMask e Binance Chain Wallet. Se você estiver usando outros aplicativos de carteira, recomendamos que você importe sua carteira para o MetaMask.
-3. Navegue até https://www.binance.org/en/bridge
-4. Conecte sua carteira MetaMask ou Binance Smart Chain.
-5. Selecione TRX Network como "A partir de", Binance Smart Chain Network como "Para". Em seguida, digite a quantidade de USDT que deseja transferir.                                                                                                           Em ![](.gitbook/assets/1.png) Em
-6. Além disso, você pode pedir à Binance Bridge para trocar alguns BNB por você no processo de mover seu USDT de TRON para BSC. Isso é particularmente útil quando você é novo na Binance Smart Chain com uma carteira nova e precisa de algum BNB para gasolina.                                   Em ![](.gitbook/assets/2.png) Em
-7. Verifique se o campo "Destino" está mostrando o endereço correto da carteira Binance Smart Chain que você conectou.
-8. Clique em “Avançar”. E escolha a quarta opção.                                                                    **AVISO: Você só pode enviar fundos de uma carteira blockchain (neste caso, TRON). Se seus fundos estiverem em alguma outra troca centralizada, mova-os primeiro para a carteira blockchain.**                         Em ![](.gitbook/assets/3.png) Em
-9. Verifique se tudo está correto, clique em “Avançar”.
-10. Por fim, siga as instruções na tela, use sua carteira blockchain (neste caso, carteira TRON) e envie fundos para o endereço fornecido. Por favor certifique-se:
+1. Prepare your TRON wallet with USDT and some TRX for bandwidth (gas).
+2. As Binance Bridge only supports MetaMask and Binance Chain Wallet. If you are using other wallet apps, we recommend that you import your wallet into MetaMask.
+3. Navigate to https://www.binance.org/en/bridge
+4. Connect your MetaMask Wallet or Binance Smart Chain.
+5. Select TRX Network as "From", Binance Smart Chain Network as "To". Then enter the amount of USDT you want to transfer.                                                                                                           ![](.gitbook/assets/1.png)&#x20;
+6. Also, you can ask Binance Bridge to exchange some BNB for you in the process of moving your USDT from TRON to BSC. This is particularly useful when you are new to Binance Smart Chain with a new wallet and need some BNB for gas.                               ![](.gitbook/assets/2.png)&#x20;
+7. Make sure the "Destination" field is showing the correct address of the Binance Smart Chain wallet you connected.
+8. Click “Next”. And choose the fourth option. NOTICE: **You can only send funds from a blockchain wallet (in this case, TRON). If your funds are on some other centralized exchange, move them to the blockchain wallet first.** ![](.gitbook/assets/3.png)
+9. Check that everything is correct, click “Next”.
+10. Finally, follow the onscreen instructions, use your blockchain wallet (in this case, TRON wallet) and send funds to the address provided. Please make sure:
 
-&#x20;        1 . O endereço está correto.
+&#x20;        1 . The address is correct.
 
-&#x20;        2 . Conclua em uma única transação.
+&#x20;        2 . Complete in a single transaction.
 
-&#x20;        3 . Conclua dentro do prazo. (mostrado abaixo como contagem regressiva)
+&#x20;        3 . Complete within the deadline. (shown below as countdown)
 
-Em ![](.gitbook/assets/4.png) Em
+&#x20;![](.gitbook/assets/4.png)&#x20;
 
-11 . Depois de concluir a transação. Você deve receber seu fundo na carteira        Binance Smart Chain em alguns minutos. Depois disso, você pode começar a usar o PancakeSwap para trocar alguns tokens na Binance Smart Chain!
+11 . After completing the transaction. You should receive your fund into your Binance Smart Chain Wallet within a few minutes. After that, you can start using PancakeSwap to exchange some tokens on Binance Smart Chain!
 
-Além disso, você pode conferir este [**guia do usuário**](https://academy.binance.com/pt/articles/an-introduction-to-binance-bridge) e [**tutorial em vídeo**](https://fast.wistia.net/embed/iframe/fhip2z4nth) da Binance.
+**Also, you can check out this Binance**[ **user guide**](https://academy.binance.com/pt/articles/an-introduction-to-binance-bridge) **and** [**video tutorial**](https://fast.wistia.net/embed/iframe/fhip2z4nth)**.**
 
 
 
