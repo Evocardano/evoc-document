@@ -134,9 +134,9 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 * It is available as a software and hardware wallet (works together)
 * Supports NFTs on BSC and ETH networks
 
-&#x20;[download ](https://safepal.io/download) SafePal (detecta automaticamente o dispositivo)                   &#x20;
+****[**Download SafePal**](https://safepal.io/download) **(automatically detects the device)**                 &#x20;
 
-[Safepal Setup Guide](https://safepalsupport.zendesk.com/hc/en-us/categories/4406445401755-SafePal-Software-Wallet)
+****[**Safepal Setup Guide**](https://docs.safepal.io)****
 {% endtab %}
 {% endtabs %}
 
