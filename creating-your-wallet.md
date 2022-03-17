@@ -68,7 +68,7 @@ You can find more detailed information about each wallet below, as well as downl
 
 Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support) and wallet staking.
 
-Pros:
+
 
 * Open source for auditing
 * Backed by cryptocurrency exchange Binance
@@ -158,24 +158,24 @@ You can find more detailed information about each wallet below, as well as downl
 {% tab title="MetaMask" %}
 ![](<.gitbook/assets/metamask 1.png>)
 
-MetaMask é um plugin de carteira baseado em navegador muito popular que suporta ERC20 (rede Ethereum) por padrão e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain) com um pouco de trabalho.
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default and BEP2 and BEP20 (Binance Chain and BNB Smart Chain networks) with a little work.
 
 
 
-* Código aberto para auditabilidade
-* Compatível com WEB3 em BscScan
-* Um forte histórico de segurança e confiabilidade
-* Uma grande quantidade de guias de instruções e recursos online
-* Muitas ferramentas e configurações personalizadas
-* Suporta um grande número de idiomas
-* Também está disponível em dispositivos móveis
-* Maior tempo de configuração do que outras opções
-* Etapas adicionais necessárias para usar com BNB Smart Chain e EvocSwap
-* Informações e configurações extras podem confundir os iniciantes
+* Open source for auditing
+* Compatible with WEB3 in BscScan
+* A strong track record of safety and reliability
+* A wealth of how-to guides and online resources
+* Lots of custom tools and settings
+* Support a large number of languages
+* Also available on mobile devices
+* Longer setup time for other options
+* Other additional options to use with BNB Smart Chain and EvocSwap
+* Extra information and settings can confuse beginners
 
-[Download do MetaMask](https://metamask.io/download/) (detecta automaticamente o navegador)                         &#x20;
+****[**Download MetaMask**](https://metamask.io/download/) **(automatically detect browser)**&#x20;
 
-[Guia de configuração do MetaMask](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+****[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)****
 {% endtab %}
 
 {% tab title="Carteira Binance" %}
@@ -183,7 +183,7 @@ MetaMask é um plugin de carteira baseado em navegador muito popular que suporta
 
 Binance Wallet is a browser plugin wallet that natively supports Binance Chain (BEP2) and Binance Smart Chain (BEP20) networks. Binance Wallet was developed by cryptocurrency exchange Binance.
 
-Prós:
+
 
 * Open source for auditability
 * Backed by cryptocurrency exchange Binancedo pela exchange de criptomoedas Binance
