@@ -1,20 +1,20 @@
-# 🎯 Tokenomics
+# 🎯 TOKENOMICS
 
 ## <mark style="color:blue;">Transaction Fees:</mark>
 
 **1 .  Of the 6% on purchases will be distributed:**
 
-* 3% Liquidity
+* 2% Liquidity
 * 2% Buy and burn $EVOC
 * 1%  Marketing
+* 1%  Burn POWER EVOC
 
 **2 .  Of the 10% in sales will be distributed:**&#x20;
 
-* 5% Liquidity
+* 4% Liquidity
 * 3% Buying and burn $EVOC
 * 2% Marketing
-
-![](.gitbook/assets/photo1646866220.jpeg)
+* 1% Burn POWER EVOC
 
 ## <mark style="color:blue;">**Total Supply:**</mark>
 
