@@ -7,7 +7,7 @@
 * [🎯 TOKENOMICS](tokenomics-1.md)
 * [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
 * [🔁 Trocas descentralizadas](trocas-descentralizadas.md)
-* [✅ Conectando sua carteira](conectando-sua-carteira.md)
+* [✅ CONNECTING YOUR WALLET](connecting-your-wallet.md)
 * [💰 Recompensas](recompensas.md)
 * [💜 Doações](doacoes.md)
 * [📖   Roadmap](roadmap.md)
