@@ -275,9 +275,9 @@ Cons:
 * The lack of additional tools makes it impossible for some actions available in other portfolios
 * Has fewer online features than more established wallets
 
-&#x20;[download](https://www.bnbchain.world/en) Binance Wallet (detects device automatically)   &#x20;
+&#x20;[**Download Binance Wallet**](https://www.bnbchain.world/en) **(detects device automatically)**   &#x20;
 
-[Binance Wallet Setup Guide](https://docs.binance.org/smart-chain/wallet/binance.html)
+****[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)****
 
 &#x20;  &#x20;
 {% endtab %}
