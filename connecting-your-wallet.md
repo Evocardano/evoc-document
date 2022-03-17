@@ -50,7 +50,7 @@ To connect MetaMask to EvocSwap, follow the steps below.
 
 ## Android and iOS
 
-1 . Open MetaMask and tap the icon in the upper left corner
+1 . Open MetaMask and tap the icon in the upper left corner.
 
 ![](<.gitbook/assets/Wallet 2 metamask.png>)
 
@@ -101,23 +101,23 @@ A window will appear asking you to choose a wallet to connect to. Click on MetaM
 {% tab title="Binance Wallet" %}
 ![](.gitbook/assets/Binance.png)
 
-### Chrome e Firefox
+## Chrome and Firefox
 
-1 . Abra a Binance Chain Wallet e clique no seletor de rede na parte superior. A rede padrão será a Binance Chain. Escolha **Binance Smart Chain** na lista.
+1 . Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose Binance Smart Chain from the list.
 
 ![](.gitbook/assets/11.png)
 
-1 . Abra a Binance Chain Wallet e clique no seletor de rede na parte superior. A rede padrão será a Binance Chain. Escolha Binance Smart Chain na lista.
-
 ![](.gitbook/assets/Connect.JPG)
 
-1 . Uma janela aparecerá solicitando que você escolha uma carteira para se conectar. Clique em **Binance Chain Wallet** (está mais abaixo na lista).
+2 . A window will appear asking you to choose a wallet to connect to. Click on Binance Chain Wallet (it's further down the list).
 
 ![](<.gitbook/assets/Binance Wallet.png>)
 
-### Recursos
+## **Resources**
 
-[**Download Binance Wallet**](https://www.binance.org/en) ( detecta automaticamente o navegador).                          **Guia de configuração da carteira do Binance Wallet**
+****[**Download Binance Wallet** ](https://www.bnbchain.world/en)**(automatically detects browser).**&#x20;
+
+****[**Binance Wallet Wallet Setup Guide**](https://docs.binance.org)****
 {% endtab %}
 {% endtabs %}
 
