@@ -2,61 +2,61 @@
 description: ROTEIRO DO PROJETO
 ---
 
-# 📖   Roadmap
+# 📖  ROADMAP
 
-### Fase 1
+## **Phase 1**
 
-**Concepção e Construção**
+**Design and Construction**
 
-* ✅ Criação de Mídias Sociais
-* ✅ Site de lançamento e documento
-* ✅ Marketing no lançamento
-* ✅ Lançamento na Pancakeswap
-* ✅ Publicidade com influenciadores
+* ✅ Social Media Creation
+* ✅ Release website and document
+* ✅ Marketing at launch
+* ✅ Launch on Pancakeswap
+* ✅ Advertising with influencers
 
-### **Fase 2**
+## **Phase 2**
 
-**Estruturação e Elaboração**
+**Structuring and Elaboration**
 
-* ✅ Lançamento da DEX V1
-* ❌ Atualização da DEX V1
-* ✅ Publicidade PoocoinAds
-* ✅ Listagens Secundárias, Coinsniper, Coinhunt
-* ❌ Ícones BscScan
-* ❌ Ícones na TrustWallet
-* ✅ Publicidade com Youtubers
+* ✅ Launch of DEX V1
+* ❌ Update from DEX V1
+* ✅ Advertising PoocoinAds
+* ✅ Advertising PoocoinAds
+* ❌ BscScan Icons
+* ❌ Icons on TrustWallet
+* ✅ Advertising with Youtubers
 
-### Fase 3
+## **Phase 3**
 
-**Avanço**
+**Advance**
 
-* ✅ Solicitação de listagem Coingecko
-* ❌ Solicitação de listagem na FTX Blockfolio&#x20;
-* ✅ Marketing no Twitter
-* ✅ Solicitação de listagem CoinMarketCap
-* ✅ Solicitação na Certik
-* ❌ Lançamento PowerEvoc
-* ❌ Pools e Farms na DEX V1
+* ✅ Coingecko listing request
+* ❌ Request for listing on FTX Blockfolio
+* ✅ Marketing on Twitter
+* ✅ CoinMarketCap listing request
+* ✅ Request at Certik
+* ❌ POWER EVOC Launch
+* ❌ Pools and Farms in DEX V1
 * ❌ Marketplace NFTs
-*   ❌ Publicidade TimeSquare
+*   ❌ TimeSquare Advertising
 
 
 
-### Fase 4
+## **Phase 4**
 
-**Inovação e melhorias**
+**Innovation and improvements**
 
-* ❌ Marketplace de NFTs
-* ❌ Vendas de NFTs
-* ❌ Lançamento da DEX V2
-* ❌ Listagens em Novas Bolsas
-* ❌ Doações voluntárias
+* ❌ NFT Marketplace
+* ❌ Sales of NFTs
+* ❌ Release of DEX V2
+* ❌ Listings in New Bags
+* ❌ Voluntary donations
 
-### **Fase 5**
+## **Phase 5**
 
-**Virada de Chave**
+**Turn of the Key**
 
-* ❌ Atualização DEX V2
-* ❌ Lançamento EvoCardano na DEX V2
-* ❌ Lançamento PowerEvoc na DEX V2
-* ❌ Negociação de tokens na rede Cardano\
+* ❌ DEX V2 Update
+* ❌ Launch EvoCardano on DEX V2
+* ❌ POWER EVOC release on DEX V2
+* ❌ Trading tokens on the Cardano network\

@@ -10,5 +10,5 @@
 * [✅ CONNECTING YOUR WALLET](connecting-your-wallet.md)
 * [💰 REWARDS](rewards.md)
 * [💜 DONATIONS](donations.md)
-* [📖   Roadmap](roadmap.md)
+* [📖  ROADMAP](roadmap.md)
 * [🌎 Redes Sociais](redes-sociais.md)
