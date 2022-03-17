@@ -9,6 +9,6 @@
 * [🔁 Trocas descentralizadas](trocas-descentralizadas.md)
 * [✅ CONNECTING YOUR WALLET](connecting-your-wallet.md)
 * [💰 REWARDS](rewards.md)
-* [💜 Doações](doacoes.md)
+* [💜 DONATIONS](donations.md)
 * [📖   Roadmap](roadmap.md)
 * [🌎 Redes Sociais](redes-sociais.md)

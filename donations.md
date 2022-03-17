@@ -1,8 +1,8 @@
-# 💜 Doações
+# 💜 DONATIONS
 
-## Doações feitas para a tribo indígena na região do Jordão em Manaus&#x20;
+## Donations made to the indigenous tribe in the Jordan region in Manaus
 
-Vejam as imagens abaixo a seguir:
+See the images below below:
 
 ![](.gitbook/assets/photo1646533079.jpeg)
 
