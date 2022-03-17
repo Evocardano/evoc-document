@@ -82,9 +82,9 @@ Cons:
 * Language linked to phone settings
 * DApps limitados
 
-****[**Download Trust Wallet**](https://trustwallet.com) **(detecta automaticamente o dispositivo)**                                  &#x20;
+[**Download Trust Wallet**](https://trustwallet.com) **(automatically detects the device)**&#x20;
 
-&#x20;**** [**Guia de configuração da Trust Wallet**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
+****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
 {% endtab %}
 
 {% tab title="MetaMask" %}
