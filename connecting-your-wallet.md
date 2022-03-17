@@ -1,44 +1,44 @@
-# ✅ Conectando sua carteira
+# ✅ CONNECTING YOUR WALLET
 
-Você fez uma carteira e obteve seus tokens BEP20, agora você só precisa conectar sua carteira ao EvocSwap e pronto!
+You made a wallet and got your BEP20 tokens, now you just need to connect your wallet to EvocSwap and that's it!
 
-Confira as etapas abaixo sobre como conectar cada uma de nossas carteiras recomendadas a EvocSwap.
+Check out the steps below on how to connect each of our recommended wallets to EvocSwap.
 
-## Smartphone/Celular
+## Smartphone / Cellphone
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
 ![](.gitbook/assets/Trustwallet.png)
 
-Para conectar a Trust Wallet, siga as etapas abaixo. Observe que os dispositivos Android e iOS não usam as mesmas etapas!
+To connect to Trust Wallet, follow the steps below. Please note that Android and iOS devices do not use the same steps!
 
 
 
 ### Android
 
-1 . Abra a Trust Wallet e toque no botão DApps na parte inferior da tela.
+1 . Open Trust Wallet and tap the DApps button at the bottom of the screen.
 
 ![](.gitbook/assets/DAPPS.png)
 
-1 . Digita na barra de pesquisa https://evocswap.com e clica em continuar para abrir a plataforma.
+2 . Type https://evocswap.com in the search bar and click continue to open the platform.
 
 ![](<.gitbook/assets/dapps 1.jpg>)
 
-1 . Após clicar na rede BSC Network e em seguida na desce na parte inferior e conecta a carteira.
+3 . After clicking on the BSC Network and then on the drop down at the bottom and connect the wallet.
 
 ![](<.gitbook/assets/dapps 3.jpg>)
 
-1 . A EvocSwap será aberto. Se você vir um botão Conectar no canto superior direito, toque nele e toque em Confiar na carteira na lista.
+4 . EvocSwap will open. If you see a Connect button in the top right, click on it and click Trust wallet in the list.
 
 {% hint style="warning" %}
-Se você achar que não consegue se conectar na etapa 4, volte ao menu DApps e encontre "EvocSwap" novamente. Usar "Evoc Swap" da seção "Histórico" pode resultar no mesmo problema.
+If you find that you can't connect in step 4, go back to the DApps menu and find "EvocSwap" again. Using "Evoc Swap" from the "History" section can result in the same problem.
 {% endhint %}
 
-### Recursos
+## **Resources**
 
-[**Download Trust Wallet**](https://trustwallet.com) (detecta automaticamente o dispositivo)
+****[**Download Trust Wallet** ](https://trustwallet.com)(automatically detects the device)
 
-Guia de [**configuração do Trust Wallet**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
+****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
 {% endtab %}
 
 {% tab title="MetaMask" %}
@@ -60,41 +60,41 @@ Para conectar o MetaMask a EvocSwap, siga os passos abaixo.
 {% endtab %}
 {% endtabs %}
 
-
-
-### Carteiras de desktop/navegador da Web
+## **Desktop/Web Browser Wallets**
 
 {% tabs %}
 {% tab title="MetaMask" %}
 ![](<.gitbook/assets/metamask 1.png>)
 
-### Chrome e Firefox
+## Chrome and Firefox
 
-Abra o MetaMask e clique no seletor de rede na parte superior. Por padrão, ele mostrará "Ethereum Mainnet". Role para baixo e clique em RPC personalizado.
+Open MetaMask and click on the network selector at the top. By default it will show "Ethereum Mainnet". Scroll down and click on Custom RPC.
 
 ![](.gitbook/assets/Ethereum.png)
 
-1 . Uma janela se abrirá. Digite os detalhes abaixo.
+1 . A window will open. Enter details below.
 
 **Network Name:** Binance Smart Chain                                                                  **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)                                             **Chain ID:** 56                                                                                                   **Currency Symbol (optional):** BNB                                                                       **Block Explorer URL (optional):** [http://bscscan.com](https://bscscan.com)
 
-![](.gitbook/assets/espelho.png)
+![.](.gitbook/assets/espelho.png)
 
-1 . Verifique se você digitou tudo corretamente e clique em Salvar. A Binance Smart Chain agora será uma de suas opções de rede.
+1.Make sure you typed everything correctly and click Save. Binance Smart Chain will now be one of your network options.
 
 ![](.gitbook/assets/save.png)
 
-1 . Visite o [site da EvocSwap](https://evocswap.com). No canto inferior, você verá o botão [Connect Wallet](https://evocswap.com). Clique.
+2 . Visit the EvocSwap website. In the bottom corner, you will see the Connect Wallet button. [Click](https://evocswap.com).
 
 ![](<.gitbook/assets/Connect (1).JPG>)
 
-Uma janela aparecerá solicitando que você escolha uma carteira para se conectar. **Clique em MetaMask** (é a primeira opção da lista).
+A window will appear asking you to choose a wallet to connect to. Click on MetaMask (it's the first option in the list).
 
 ![](<.gitbook/assets/Conectar 2.png>)
 
-### Recursos
+### Recurces
 
-[**Download MetaMask**](https://metamask.io/download.html) (Detecta automaticamente o navegador).                                      Guia de [**configuração do MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\
+****[**Download MetaMask** ](https://metamask.io/download/)**(Automatically detect browser).**&#x20;
+
+****[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\
 
 {% endtab %}
 
@@ -122,7 +122,7 @@ Uma janela aparecerá solicitando que você escolha uma carteira para se conecta
 {% endtabs %}
 
 {% hint style="danger" %}
-**Lembre-se - NUNCA, em qualquer situação, você deve dar a alguém sua chave privada ou frases de recuperação.**
+**Remember - NEVER, under any circumstances, should you give someone your private key or recovery phrases.**
 {% endhint %}
 
 
