@@ -253,12 +253,12 @@ Contras:
 {% tab title="Carteira Binance" %}
 ![](.gitbook/assets/Binance.png)
 
-A Binance Wallet é uma carteira de plug-in de navegador que suporta nativamente as redes Binance Chain (BEP2) BNB Smart Chain (BEP20). A Binance Wallet foi desenvolvida pela exchange de criptomoedas Binance.
+Binance Wallet is a browser plugin wallet that natively supports Binance Chain (BEP2) and Binance Smart Chain (BEP20) networks. Binance Wallet was developed by cryptocurrency exchange Binance.
 
 Prós:
 
-* Código aberto para auditabilidade
-* Apoiado pela exchange de criptomoedas Binance
+* Open source for auditability
+* Backed by cryptocurrency exchange Binancedo pela exchange de criptomoedas Binance
 * Pode ser diretamente vinculado a uma conta Binance ou Gmail
 * Uma experiência de usuário simplificada
 * Suporta BNB Smart Chain por padrão, facilitando o uso do EvocSwap
