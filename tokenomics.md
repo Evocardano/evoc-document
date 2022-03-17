@@ -1,4 +1,4 @@
-# 🎯 Tokenomics
+# 🎯 TOKENOMICS
 
 ## <mark style="color:purple;">Transaction Fees:</mark>
 
@@ -18,7 +18,7 @@
 
 ## <mark style="color:purple;">Total Supply:</mark>
 
-**Possuímos um total de 1.000.000.000 (um bilhão) de unidades.**
+**We have a total of 1,000,000,000 (one billion) units.**
 
 **1 .**  451,440,000 - FOUR HUNDRED AND FIFTY-ONE MILLION, FOUR HUNDRED AND FORTY THOUSAND.
 
