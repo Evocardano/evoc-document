@@ -44,17 +44,17 @@ If you find that you can't connect in step 4, go back to the DApps menu and find
 {% tab title="MetaMask" %}
 ![](<.gitbook/assets/metamask 1.png>)
 
-Para conectar o MetaMask a EvocSwap, siga os passos abaixo.
+To connect MetaMask to EvocSwap, follow the steps below.
 
 
 
-### Android e iOS
+## Android and iOS
 
-1 . Abra o MetaMask e toque no ícone no canto superior esquerdo.
+1 . Open MetaMask and tap the icon in the upper left corner
 
 ![](<.gitbook/assets/Wallet 2 metamask.png>)
 
-1 . Toque em Configurações no menu.
+2 . Click on settings on the menu.
 
 ![](.gitbook/assets/settings.png)
 {% endtab %}
@@ -90,7 +90,7 @@ A window will appear asking you to choose a wallet to connect to. Click on MetaM
 
 ![](<.gitbook/assets/Conectar 2.png>)
 
-### Recurces
+## Recurces
 
 ****[**Download MetaMask** ](https://metamask.io/download/)**(Automatically detect browser).**&#x20;
 
