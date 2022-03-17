@@ -48,19 +48,19 @@ Smartphones/mobile wallets allow you to access your cryptocurrencies virtually p
 
 This comparison table provides an overview of the most popular mobile wallets used with EvocSwap.
 
-| In                                              | Trust Wallet                  | Metamask | Token Pocket | SafePal |
-| ----------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
-| Suporte para Binance Smart Chain                | ✅                             | ⚠️       | ✅            | ✅       |
-| Navegador dApp integrado                        | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
-| Compatível com carteira de Hardware             | ➖                             | ✅        | ➖            | 🔶      |
-| Código aberto (auditabilidade)                  | ✅                             | ✅        | ✅            | ➖       |
-| Interaja com BscScan (para usuários avançados!) | ➖                             | ✅        | ➖            | ➖       |
+| In                                          | Trust Wallet                  | Metamask | Pocket Token | SafePal |
+| ------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
+| Support for Binance Smart Chain             | ✅                             | ⚠️       | ✅            | ✅       |
+| Integrated dApp browser                     | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
+| Hardware wallet compatible                  | ➖                             | ✅        | ➖            | 🔶      |
+| Open code (auditability))                   | ✅                             | ✅        | ✅            | ➖       |
+| Interact with BscScan (for advanced users!) | ➖                             | ✅        | ➖            | ➖       |
 
-⚠️ Requer alguma configuração
+⚠️ requires some configuration
 
-🔶suporta carteira de hardware SafePal
+🔶Supports SafePal hardware wallet &#x20;
 
-Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, bem como links de download e guias de instalação.
+You can find more detailed information about each wallet below, as well as download links and installation guides.
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
