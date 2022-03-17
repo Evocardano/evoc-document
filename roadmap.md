@@ -1,5 +1,5 @@
 ---
-description: ROTEIRO DO PROJETO
+description: PROJECT SCRIPT
 ---
 
 # 📖  ROADMAP
