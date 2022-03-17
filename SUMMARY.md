@@ -6,7 +6,6 @@
 * [🔥 POWER EVOC](power-evoc.md)
 * [🎯 TOKENOMICS](tokenomics-1.md)
 * [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
-* [💎 Obter tokens](obter-tokens.md)
 * [🔁 Trocas descentralizadas](trocas-descentralizadas.md)
 * [✅ Conectando sua carteira](conectando-sua-carteira.md)
 * [💰 Recompensas](recompensas.md)

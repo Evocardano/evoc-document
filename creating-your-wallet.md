@@ -1,56 +1,54 @@
-# 🗃 Criando sua carteira
+# 🗃 CREATING YOUR WALLET
 
-Para começar a usar o EvocSwap, a primeira coisa que você precisa é configurar uma carteira que suporte o Binance Smart Chain (BSC). As carteiras estão disponíveis em computadores desktop e em dispositivos de smartphone. Você precisará escolher a carteira que melhor se adapta às suas necessidades.
+To start using EvocSwap, the first thing you need to do is set up a wallet that supports Binance Smart Chain (BSC). Wallets are available on your desktop computers and smartphone devices. You will need to choose the wallet that best fits your needs.
 
-Prós:
-
-* Código aberto para auditabilidade
-* Compatível com WEB3 em BscScan
-* Um forte histórico de segurança e confiabilidade
-* Uma grande quantidade de guias de instruções e recursos online
-* Muitas ferramentas e configurações personalizadas
-* Oferece compras de ETH com Transak
-* Suporta um grande numero de idiomas
-* Também está disponível um plugin de navegador para dispositivos desktop.
+* Open source for auditability
+* Compatible with WEB3 ON BscScan
+* A history of strong security and reliability
+* A big quantity of guides with instructions and online resources
+* Many tools and personalized settings
+* Offers purchases of ETH with TRANSAK
+* Supports a big number of languages
+* It is also available a plugin of navigation for desktop devices
 
 {% hint style="danger" %}
-Ao configurar uma carteira, certifique-se de:
+When setting up a wallet, make sure to:
 
-✅ Baixe e instale apenas a versão mais recente de uma fonte oficial.&#x20;
+✅ Download and install only the latest version from an official source.&#x20;
 
-✅ Siga atentamente o guia de configuração.&#x20;
+✅ Carefully follow the setup guide.
 
-✅ Faça backup com segurança de suas frases de recuperação.&#x20;
+✅ Safely backup your recovery phrases.
 
-❌ NUNCA compartilhe suas frases de recuperação com ninguém, em hipótese alguma.&#x20;
+❌ NEVER share your recovery phrases with anyone, under any circumstances.
 
-❌ NUNCA insira sua frase de recuperação em um site ou aplicativo que não seja seu aplicativo de carteira.
+❌ NEVER enter your recovery phrase on a website or app other than your wallet app.
 {% endhint %}
 
 
 
-## Carteira para smartphone/celular ou desktop
+## Wallet for smartphone/mobile or desktop
 
-As carteiras de dispositivos móveis e as carteiras e os desktops diferentes têm pontos fortes. Considere qual se adapta melhor às suas necessidades para ajudar a decidir qual tipo de carteira usar.
+Wallets of Mobile devices and desktops have strengths. Consider which best fits your needs to help decide which type of wallet to use.
 
-| Em                                         | Móvel | Área de trabalho |
-| ------------------------------------------ | ----- | ---------------- |
-| Use em qualquer lugar                      | ✅     | ➖                |
-| Fácil de usar                              | ✅     | ➖                |
-| Mais seguro                                | ➖     | ✅                |
-| acessível amigável                         | ➖     | ✅                |
-| Resistentes a danos/perdas/roubos          | ➖     | ✅                |
-| Resistente a interupção de energia/conexão | ✅     | ➖                |
+| In                                         | Mobile | Workspace |
+| ------------------------------------------ | ------ | --------- |
+| use anywhere                               | ✅      | ➖         |
+| Easy to use                                | ✅      | ➖         |
+| safer                                      | ➖      | ✅         |
+| accessible friendly                        | ➖      | ✅         |
+| Resistant to damage/loss/theft             | ➖      | ✅         |
+| Resistant to power/connection interruption | ✅      | ➖         |
 
-## **Carteiras para Smartphones/Celulares**
+## Wallets for Smartphones / Cellphones
 
-As carteiras para smartphones/móveis permitem que você acesse suas criptomoedas em praticamente qualquer lugar. As carteiras estão disponíveis em dispositivos Android e iOS.
+Smartphones/mobile wallets allow you to access your cryptocurrencies virtually practically anywhere. Wallets are available on Android and iOS devices. carteiras para smartphones/móveis permitem que você acesse suas criptomoedas em praticamente qualquer lugar. As carteiras estão disponíveis em dispositivos Android e iOS.
 
-### Qual carteira móvel devo escolher?
+## Which mobile wallet should I choose?
 
-Esta tabela de comparação fornece uma visão geral das carteiras móveis mais populares usadas com o EvocSwap.
+This comparison table provides an overview of the most popular mobile wallets used with EvocSwap.
 
-| Em                                              | Trust Wallet                  | Metamask | Token Pocket | SafePal |
+| In                                              | Trust Wallet                  | Metamask | Token Pocket | SafePal |
 | ----------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
 | Suporte para Binance Smart Chain                | ✅                             | ⚠️       | ✅            | ✅       |
 | Navegador dApp integrado                        | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
