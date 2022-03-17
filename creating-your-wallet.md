@@ -66,24 +66,25 @@ You can find more detailed information about each wallet below, as well as downl
 {% tab title="Trust Wallet" %}
 ![](.gitbook/assets/Trustwallet.png)
 
-Trust Wallet é uma carteira popular para dispositivos inteligentes. Ele suporta DApps, colecionáveis ​​NFT (com suporte Opensea.io) e staking na carteira.
+Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support) and wallet staking.
 
-Prós:
+Pros:
 
-* Código aberto para auditabilidade
-* Apoiado pela exchange de criptomoedas Binance
-* Alterne facilmente entre várias redes de criptografia
-* Inclui redes por padrão
-* Inclui opções de staking na carteira
-* Possui recursos adicionais, como coleta de NFT, staking de BNB e acesso DApp dentro da carteira
+* Open source for auditing
+* Backed by cryptocurrency exchange Binance
+* Easily switch between multiple encryption networks
+* Includes networks by default
+* Includes portfolio participation options
+* It has features such as NFT collection, BNB staking and DApp access within the wallet
 
-Contras:
+Cons:
 
-* Idioma vinculado às configurações do telefone
+* Language linked to phone settings
 * DApps limitados
-* As notificações de transações podem ser atrasadas
 
-[Download Trust Wallet](https://trustwallet.com) (detecta automaticamente o dispositivo)                                     [Guia de configuração da Trust Wallet](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)
+****[**Download Trust Wallet**](https://trustwallet.com) **(detecta automaticamente o dispositivo)**                                  &#x20;
+
+&#x20;**** [**Guia de configuração da Trust Wallet**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
 {% endtab %}
 
 {% tab title="MetaMask" %}
@@ -112,68 +113,6 @@ Cons:
 ****[**MetaMask guide settings**](https://docs.metamask.io/guide/#account-management)****
 {% endtab %}
 
-{% tab title="Token Pocket" %}
-![](<.gitbook/assets/Token Pocket.png>)
-
-O Token Pocket é um aplicativo de gerenciamento de criptomoedas que oferece suporte nativo a muitas redes de criptomoedas. Ele também tem um aplicativo de desktop disponível.
-
-Prós:
-
-* Código aberto para auditabilidade
-* Permite que os usuários alternem facilmente entre muitas redes de criptografia
-* Suporta muitas redes por padrão
-* Uma experiência de usuário menos apertada do que as carteiras de plug-in do navegador
-* Também está disponível como dispositivos de software de desktop
-
-Contras:
-
-* Suporta apenas os idiomas chinês e inglês
-* Tem alguns problemas com a tradução em inglês
-* Tem menos recursos online do que carteiras mais estabelecidas
-
-Faça o [Download](https://www.tokenpocket.pro/en/download/app) do aplicativo Token Pocket (detecta automaticamente o dispositivo)                                                                                                                     &#x20;
-
-**Guia de configuração do Token Pocket Mobile** &#x20;
-
-****
-
-1 . Visite o site do Tokenpocket e toque em **Celular**.
-
-
-
-1 . Seu dispositivo será detectado automaticamente. Toque no botão **Google Play** ou **App Store** e instale o aplicativo Token Pocket.
-
-&#x20;    2 . Depois que o Token Pocket estiver instalado, abra-o. Você será recebido por uma tela perguntando se você tem uma carteira existente ou gostaria de criar uma nova. Toque em **Sem contas, Criar agora**.
-
-Se você tiver uma carteira existente para importar, use a opção superior.
-
-
-
-1 . Na próxima página, encontrei o **BNB Smart Chain** na lista e toque nele.
-
-1 . Em seguida, na página “Criar caminho”, toque em **Criar Carteira**.
-
-1 . Você será solicitado a inserir uma senha. Para sua segurança, certifique-se de que sua senha seja considerada “Forte”. Você também pode adicionar uma dica, mas certifique-se de que é algo que só você entenderá. Quando estiver pronto, toque em **Criar Carteira**.
-
-E pronto, tudo pronto!
-
-Para se conectar ao BNB Smart Chain e usar o PancakeSwap, você pode seguir a seção TokenPocket do nosso guia Connect Your Wallet to PancakeSwap https://docs.pancakeswap.finance/get-started/connection-guide.
-
-**Obtendo a chave privada do celular para importar para o desktop**
-
-O Token Pocket permite que você use uma carteira de desktop e móvel. Esta seção abordará como obter sua chave privada de sua carteira móvel para importar para sua carteira de desktop.
-
-{% hint style="warning" %}
-Por favor, seja extremamente cuidadoso com a forma como você lida com suas chaves privadas. Dar suas chaves privadas a alguém dará acesso total às suas moedas! O Token Pocket é um projeto de código aberto e usará sua chave privada para importar sua carteira. Mesmo assim, use sua chave privada apenas com aplicativos em que você confia e pode verificar se são legítimos!
-{% endhint %}
-
-1 . Toque na guia **Eu** na faixa inferior e toque em **Gerenciar Carteiras**.&#x20;
-
-1 . Na próxima página, toque na entrada **BNB Smart Chain**. Tenha cuidado para não tocar na parte do endereço, ou você só copiará isso para a área de transferência.
-
-1 . Quando o menu aparecer, localize e toque na opção **Exportar chave privada**. Digite sua senha para obter sua chave privada.
-{% endtab %}
-
 {% tab title="SafePal" %}
 ![](.gitbook/assets/SafaPal.png)
 
@@ -183,25 +122,17 @@ Por favor, seja extremamente cuidadoso com a forma como você lida com suas chav
 
 
 
-SafePal está disponível como uma carteira de software e hardware. A carteira é fácil de instalar e criar e vem pronta para suportar BEP2 (Binance Chain) e BEP20 (BNB Smart Chain) imediatamente.
+SafePal is available as both a software and hardware wallet. The wallet is easy to install and create and ready to ship BEP2 (Binin Chain) and BEP2 (BNB Smart Chain) wallet0 right away.&#x20;
 
-Prós:
 
-* Alterne facilmente entre várias redes de criptografia
-* Oferece 25% de desconto na taxa pagando com BNB (requer login)
-* Tem a opção para o Google Authenticator integrado
-* Suporta um grande número de idiomas
-* O processo de configuração é muito simples
-* Está disponível como carteira de software e hardware (trabalha em conjunto)
-* Suporta NFTs nas redes BSC e ETH
 
-Contras:
-
-* Não é totalmente de código aberto
-* Tem alguns recursos que ainda não estão prontos para uso (como DeFi)
-* Não dá notificações ao usuário
-* Não impõe uma segurança forte durante a configuração inicial e a criação da carteira
-* Tem menos recursos online do que carteiras mais estabelecidas
+* Easily switch between multiple encryption networks
+* Offers 25% discount on fee when paying with BNB (login required)
+* Has the option for Google Authenticator built in
+* Support a large number of languages
+* The setup process is very simple
+* It is available as a software and hardware wallet (works together)
+* Supports NFTs on BSC and ETH networks
 
 &#x20;[download ](https://safepal.io/download) SafePal (detecta automaticamente o dispositivo)                   &#x20;
 
@@ -227,7 +158,7 @@ This comparison table provides an overview of the most popular wallets used with
 
 ⚠️ Requires some configuration.
 
-You can find more detailed information about each wallet below, as well as download links and installation guides.
+You can find more detailed information about each wallet below, as well as download links and installation guides :
 
 {% tabs %}
 {% tab title="MetaMask" %}
