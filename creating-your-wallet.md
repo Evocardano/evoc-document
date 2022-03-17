@@ -201,7 +201,9 @@ Contras:
 * Não impõe uma segurança forte durante a configuração inicial e a criação da carteira
 * Tem menos recursos online do que carteiras mais estabelecidas
 
-Faça o [download ](https://safepal.io/download)do SafePal (detecta automaticamente o dispositivo)                    [Guia de configuração do SafePal](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+&#x20;[download ](https://safepal.io/download) SafePal (detecta automaticamente o dispositivo)                   &#x20;
+
+[Safepal Setup Guide](https://safepalsupport.zendesk.com/hc/en-us/categories/4406445401755-SafePal-Software-Wallet)
 {% endtab %}
 {% endtabs %}
 
@@ -259,19 +261,23 @@ Prós:
 
 * Open source for auditability
 * Backed by cryptocurrency exchange Binancedo pela exchange de criptomoedas Binance
-* Pode ser diretamente vinculado a uma conta Binance ou Gmail
-* Uma experiência de usuário simplificada
-* Suporta BNB Smart Chain por padrão, facilitando o uso do EvocSwap
-* Suporta um grande número de idiomas
-* Compatível com carteira de hardware
+* Can be directly linked to a Binance or Gmail account
+* A simplified user experience
+* Supports Binance Smart Chain by default, making EvocSwap easy to use&#x20;
+* Supports a large number of languages
+* Hardware wallet compatible
 
-Contras:
+Cons:
 
-* Falta algumas configurações personalizadas de outras carteiras
-* A falta de ferramentas adicionais impossibilita algumas ações disponíveis em outras carteiras
-* Tem menos recursos online do que carteiras mais estabelecidas
+* Missing some custom settings from other wallets
+* The lack of additional tools makes it impossible for some actions available in other portfolios
+* Has fewer online features than more established wallets
 
-Faça o [download ](https://www.bnbchain.world/en)da Binance Wallet (detecta automaticamente o navegador)        [Guia de configuração da Binance Wallet](https://docs.binance.org/smart-chain/wallet/binance.html)
+Faça o [download ](https://www.bnbchain.world/en)da Binance Wallet (detecta automaticamente o navegador)   &#x20;
+
+[Binance Wallet Setup Guide](https://docs.binance.org/smart-chain/wallet/binance.html)
+
+&#x20;  &#x20;
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -335,10 +341,12 @@ E pronto, tudo pronto! Você pode seguir nosso [guia Conecte sua carteira ao Evo
 
 
 
-{% hint style="danger" %}
-\*\* NUNCA, em qualquer situação, você deve dar a alguém sua chave privada ou frase de recuperação ("frase inicial"). Isso dará a alguém acesso completo à sua criptomoeda!
 
-O site e a equipe genuínos do EvocSwap nunca solicitarão que você insira sua frase inicial.\*\*
+
+{% hint style="danger" %}
+\*\* NEVER, under any circumstances, you should give someone your private key or recovery phrase ("start phrase"). This will give someone full access to your cryptocurrency!
+
+The genuine EvocSwap website and team will never ask you to enter your initial phrase.\*\*
 {% endhint %}
 
 
