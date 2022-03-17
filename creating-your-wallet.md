@@ -48,13 +48,13 @@ Smartphones/mobile wallets allow you to access your cryptocurrencies virtually p
 
 This comparison table provides an overview of the most popular mobile wallets used with EvocSwap.
 
-| In                                          | Trust Wallet                  | Metamask | Pocket Token | SafePal |
-| ------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
-| Support for Binance Smart Chain             | ✅                             | ⚠️       | ✅            | ✅       |
-| Integrated dApp browser                     | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
-| Hardware wallet compatible                  | ➖                             | ✅        | ➖            | 🔶      |
-| Open code (auditability))                   | ✅                             | ✅        | ✅            | ➖       |
-| Interact with BscScan (for advanced users!) | ➖                             | ✅        | ➖            | ➖       |
+| In                                          | Trust Wallet                  | Metamask | SafePal | Pocket Token |   |   |
+| ------------------------------------------- | ----------------------------- | -------- | ------- | ------------ | - | - |
+| Support for Binance Smart Chain             | ✅                             | ⚠️       | ✅       | ✅            |   |   |
+| Integrated dApp browser                     | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅       | ✅            |   |   |
+| Hardware wallet compatible                  | ➖                             | ✅        | 🔶      | ➖            |   |   |
+| Open code (auditability))                   | ✅                             | ✅        | ➖       | ✅            |   |   |
+| Interact with BscScan (for advanced users!) | ➖                             | ✅        | ➖       | ➖            |   |   |
 
 ⚠️ requires some configuration
 
@@ -76,9 +76,6 @@ Pros:
 * Includes networks by default
 * Includes portfolio participation options
 * It has features such as NFT collection, BNB staking and DApp access within the wallet
-
-Cons:
-
 * Language linked to phone settings
 * DApps limitados
 
@@ -92,7 +89,7 @@ Cons:
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default and BEP2 and BEP20 (Binance Chain and Binance Smart Chain networks) with a little work.
 
-Prós:
+
 
 * Open source for auditability
 * Compatible with WEB3 in BscScan
@@ -101,9 +98,6 @@ Prós:
 * Many personalized tools and settings
 * Supports a large number of languages
 * A browser plugin for desktop devices is also available
-
-Cons:
-
 * Longer setup time than other options
 * Additional steps required to use with Binance Smart Chain and EvocSwap
 * Extra information and settings can confuse beginners
@@ -166,7 +160,7 @@ You can find more detailed information about each wallet below, as well as downl
 
 MetaMask é um plugin de carteira baseado em navegador muito popular que suporta ERC20 (rede Ethereum) por padrão e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain) com um pouco de trabalho.
 
-Prós:
+
 
 * Código aberto para auditabilidade
 * Compatível com WEB3 em BscScan
@@ -175,14 +169,13 @@ Prós:
 * Muitas ferramentas e configurações personalizadas
 * Suporta um grande número de idiomas
 * Também está disponível em dispositivos móveis
-
-Contras:
-
 * Maior tempo de configuração do que outras opções
 * Etapas adicionais necessárias para usar com BNB Smart Chain e EvocSwap
 * Informações e configurações extras podem confundir os iniciantes
 
-[Download do MetaMask](https://metamask.io/download/) (detecta automaticamente o navegador)                          [Guia de configuração do MetaMask](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+[Download do MetaMask](https://metamask.io/download/) (detecta automaticamente o navegador)                         &#x20;
+
+[Guia de configuração do MetaMask](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Carteira Binance" %}
@@ -199,9 +192,6 @@ Prós:
 * Supports Binance Smart Chain by default, making EvocSwap easy to use&#x20;
 * Supports a large number of languages
 * Hardware wallet compatible
-
-Cons:
-
 * Missing some custom settings from other wallets
 * The lack of additional tools makes it impossible for some actions available in other portfolios
 * Has fewer online features than more established wallets
@@ -211,64 +201,6 @@ Cons:
 ****[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)****
 
 &#x20;  &#x20;
-{% endtab %}
-
-{% tab title="Token Pocket" %}
-![](<.gitbook/assets/Token Pocket.png>)
-
-O Token Pocket é um aplicativo independente disponível para dispositivos Mac OS e Win64. O Token Pocket permite que você gerencie sua criptomoeda em software independente do seu navegador.
-
-Prós:
-
-* Código aberto para auditabilidade
-* Independente do seu navegador e de qualquer uma de suas permissões
-* Permite que os usuários alternem facilmente entre muitas redes de criptografia
-* Suporta muitas redes por padrão
-* Uma experiência de usuário menos apertada do que as carteiras de plug-in do navegador
-* Também está disponível em dispositivos móveis
-
-Contras:
-
-* Solicita que os usuários insiram sua chave privada como parte do processo de configuração da área de trabalho
-* Suporta apenas os idiomas chinês e inglês
-* Tem alguns problemas com a tradução em inglês
-* Tem menos recursos online do que carteiras mais estabelecidas
-
-[Download do Token Pocket Desktop Wallet](https://www.tokenpocket.pro/en/download/pc) (MacOS ou Win64)                                **Guia de configuração do Token Pocket Desktop**
-
-A versão desktop do Token Pocket solicitará que você importe uma chave privada. Certifique-se de que conhece e compreende a importância de uma chave privada antes de prosseguir.
-
-O Token Pocket é um projeto de código aberto, portanto, o código é visível publicamente e geralmente considerado seguro. Mesmo assim, suas chaves privadas são de sua responsabilidade, portanto, use-as apenas com aplicativos em que você confia e pode verificar.
-
-1 . Visite o site do Token Pocket no seu PC e clique no botão **Desktop**.
-
-1 . Na página seguinte, clique no botão do seu sistema operacional e aguarde o término do download. Este guia usa o Windows, mas o processo é basicamente o mesmo no Mac OS.
-
-1 . Execute o arquivo de instalação. Ele solicitará que você escolha entre tornar o Token Pocket disponível para todos que usam o computador ou apenas para o usuário atual. Para sua segurança, recomendamos apenas o usuário atual.
-
-1 . Insira uma pasta de destino para instalar e clique em **Instalar**.
-
-
-
-1 . Quando a instalação estiver concluída, clique em **Concluir** e execute o Token Pocket.
-
-&#x20;    2 . Quando o Token Pocket abre, você pode se deparar com uma interface chinesa. Você pode mudar para inglês clicando em EN no canto inferior esquerdo.
-
-
-
-1 . O Token Pocket solicitará que você crie uma senha. Certifique-se de usar algo difícil de adivinhar; quanto maior a senha, mais segura. Quando terminar, clique em **Confirmar**.
-
-1 . Na próxima página, o Token Pocket solicitará que você importe uma chave privada. Isso pode ser intimidante, mas o Token Pocket funcionará como uma interface para sua carteira existente. Você precisará obter seu privado de qualquer carteira existente que deseja usar.
-
-Aqui está um [guia para obter sua chave privada do MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key). Para importar sua chave privada da versão móvel do Token Pocket, consulte a guia Mobile Token Pocket mais acima nesta página. Se você usa outra carteira e não sabe como obter sua chave privada, precisará encontrar um guia.
-
-{% hint style="warning" %}
-Por favor, seja extremamente cuidadoso com a forma como você lida com suas chaves privadas. Dar suas chaves privadas a alguém dará acesso total às suas moedas! O Token Pocket é um projeto de código aberto e usará sua chave privada para importar sua carteira. Mesmo assim, use sua chave privada apenas com aplicativos em que você confia e pode verificar se são legítimos!
-{% endhint %}
-
-1 . Depois de inserir sua chave privada, clique na rede **Ethereum** por enquanto.
-
-E pronto, tudo pronto! Você pode seguir nosso [guia Conecte sua carteira ao EvocSwap](connecting-your-wallet.md) para se conectar ao BNB Smart Chain e ao EvocSwap.
 {% endtab %}
 {% endtabs %}
 
