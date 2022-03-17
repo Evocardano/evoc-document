@@ -107,9 +107,9 @@ Cons:
 * Additional steps required to use with Binance Smart Chain and EvocSwap
 * Extra information and settings can confuse beginners
 
-[Download MetaMask](https://metamask.io/download/) (detects device automatically)
+****[**Download MetaMask**](https://metamask.io/download/) **(detects device automatically)**
 
-[MetaMask guide settings](https://docs.metamask.io/guide/#account-management)
+****[**MetaMask guide settings**](https://docs.metamask.io/guide/#account-management)****
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -209,25 +209,25 @@ Contras:
 {% endtab %}
 {% endtabs %}
 
-## Carteiras de desktop/navegador da Web
+## **Desktop/Web Browser Wallets**
 
-As carteiras de desktop estão disponíveis em seu computador doméstico ou laptop. As carteiras em seu computador podem ser executadas como aplicativos independentes ou como plug-ins de navegador da Web para navegadores populares como Chrome e Firefox.
+Desktop wallets are available on your home computer or laptop. Wallets on your computer can run as standalone apps or as web browser plugins for popular browsers like Chrome and Firefox.
 
-### Qual carteira de desktop devo escolher?
+## Which desktop wallet should I choose?
 
-Esta tabela de comparação de uma visão geral das carteiras populares mais usadas com o EvocSwap.
+This comparison table provides an overview of the most popular wallets used with EvocSwap.
 
-| Texto                                       | MetaMask | Carteira Binance | Token Pocket |
-| ------------------------------------------- | -------- | ---------------- | ------------ |
-| Suporte para BNB Smart Chain                | ⚠️       | ✅                | ⚠️           |
-| Navegador DApp integrado                    | ➖        | ➖                | ✅            |
-| Compatível com carteira de hardware         | ✅        | ✅                | ➖            |
-| Código aberto (audibilidade)                | ✅        | ✅                | ✅            |
-| Interacom BscScan (para usuários avançados) | ✅        | ➖                | ➖            |
+| Text                                   | MetaMask | Carteira Binance | Token Pocket |
+| -------------------------------------- | -------- | ---------------- | ------------ |
+| Support for BNB Smart Chain            | ⚠️       | ✅                | ⚠️           |
+| Integrated DApp Browser                | ➖        | ➖                | ✅            |
+| Hardware wallet compatible             | ✅        | ✅                | ➖            |
+| Open source (audibility)               | ✅        | ✅                | ✅            |
+| Interacom BscScan (for advanced users) | ✅        | ➖                | ➖            |
 
-⚠️ Requer configuração adicional
+⚠️ Requires some configuration.
 
-Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, bem como links de download e guias de instalação.
+You can find more detailed information about each wallet below, as well as download links and installation guides.
 
 {% tabs %}
 {% tab title="MetaMask" %}
@@ -343,12 +343,10 @@ E pronto, tudo pronto! Você pode seguir nosso [guia Conecte sua carteira ao Evo
 
 
 
-
-
 {% hint style="danger" %}
-\*\* NEVER, under any circumstances, you should give someone your private key or recovery phrase ("start phrase"). This will give someone full access to your cryptocurrency!
+**\*\* NEVER, under any circumstances, you should give someone your private key or recovery phrase ("start phrase"). This will give someone full access to your cryptocurrency!**
 
-The genuine EvocSwap website and team will never ask you to enter your initial phrase.\*\*
+**The genuine EvocSwap website and team will never ask you to enter your initial phrase.\*\***
 {% endhint %}
 
 
