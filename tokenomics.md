@@ -14,8 +14,6 @@
 * 8% It is destined to the BuyBack and Marketing portfolio, where most of this fee will be used for the automated repurchase by a contract, to have a sustainability in the chart, and not reach too much the development of the chart.
 * &#x20;1% is allocated to the liquidity pool. The liquidity added to the pool promotes price stability, maintaining a stable price, like that, avoiding problems when making purchases and sales.
 
-![](<.gitbook/assets/photo1646679172 (1).jpeg>)
-
 ## <mark style="color:purple;">Total Supply:</mark>
 
 **We have a total of 1,000,000,000 (one billion) units.**
