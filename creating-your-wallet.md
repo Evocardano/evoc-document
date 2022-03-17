@@ -42,7 +42,7 @@ Wallets of Mobile devices and desktops have strengths. Consider which best fits 
 
 ## Wallets for Smartphones / Cellphones
 
-Smartphones/mobile wallets allow you to access your cryptocurrencies virtually practically anywhere. Wallets are available on Android and iOS devices. carteiras para smartphones/móveis permitem que você acesse suas criptomoedas em praticamente qualquer lugar. As carteiras estão disponíveis em dispositivos Android e iOS.
+Smartphones/mobile wallets allow you to access your cryptocurrencies virtually practically anywhere. Wallets are available on Android and iOS devices.
 
 ## Which mobile wallet should I choose?
 
@@ -108,6 +108,8 @@ Cons:
 * Extra information and settings can confuse beginners
 
 [Download MetaMask](https://metamask.io/download/) (detects device automatically)
+
+[MetaMask guide settings](https://docs.metamask.io/guide/#account-management)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -273,7 +275,7 @@ Cons:
 * The lack of additional tools makes it impossible for some actions available in other portfolios
 * Has fewer online features than more established wallets
 
-Faça o [download ](https://www.bnbchain.world/en)da Binance Wallet (detecta automaticamente o navegador)   &#x20;
+&#x20;[download](https://www.bnbchain.world/en) Binance Wallet (detects device automatically)   &#x20;
 
 [Binance Wallet Setup Guide](https://docs.binance.org/smart-chain/wallet/binance.html)
 
