@@ -89,26 +89,25 @@ Contras:
 {% tab title="MetaMask" %}
 ![](<.gitbook/assets/metamask 1.png>)
 
-MetaMask é um plugin de carteira baseado em navegador muito popular que suporta ERC20 (rede Ethereum) e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain).
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default and BEP2 and BEP20 (Binance Chain and Binance Smart Chain networks) with a little work.
 
 Prós:
 
-* Código aberto para auditabilidade
-* Compatível com WEB3 em BscScan
-* Um forte histórico de segurança e confiabilidade
-* Uma grande quantidade de guias de instruções e recursos online
-* Muitas ferramentas e configurações personalizadas
-* Oferece compras de ETH com a Transak
-* Suporta um grande número de idiomas
-* Também está disponível um plugin de navegador para dispositivos desktop
+* Open source for auditability
+* Compatible with WEB3 in BscScan
+* A strong track record of safety and reliability
+* A wide quantity of guides and online resources
+* Many personalized tools and settings
+* Supports a large number of languages
+* A browser plugin for desktop devices is also available
 
-Contras:
+Cons:
 
-* Maior tempo de configuração do que outras opções
-* Etapas adicionais necessárias para usar com BNB Smart Chain e EvocSwap
-* Informações e configurações extras podem confundir os iniciantes
+* Longer setup time than other options
+* Additional steps required to use with Binance Smart Chain and EvocSwap
+* Extra information and settings can confuse beginners
 
-[Download MetaMask](https://metamask.io/download/) (detecta automaticamente o dispositivo)                                 [Guia de configuração do MetaMask](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+[Download MetaMask](https://metamask.io/download/) (detects device automatically)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -205,12 +204,6 @@ Contras:
 Faça o [download ](https://safepal.io/download)do SafePal (detecta automaticamente o dispositivo)                    [Guia de configuração do SafePal](https://blog.safepal.io/binance-smart-chain-x-safepal/)
 {% endtab %}
 {% endtabs %}
-
-&#x20;&#x20;
-
-
-
-
 
 ## Carteiras de desktop/navegador da Web
 
