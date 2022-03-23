@@ -36,6 +36,8 @@
 
 * **BURN AT LAUNCH - 76,48%🔥**   &#x20;
 
+![](<.gitbook/assets/photo1647910884 (1).jpeg>)
+
 ## <mark style="color:blue;">Continuous Supply</mark>
 
 Mintable tokens (mintables) are the type of tokens created without performing any activity related to the underlying consensus. These tokens are mostly mintable (created) on smart contract platforms, like Ethereum being the biggest and most popular for mining new tokens. At a granular level, smart contracts have the function of minting new tokens according to predetermined supply. As soon as the function is triggered, new tokens are created, which are distributed in the market.
