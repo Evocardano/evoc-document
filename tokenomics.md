@@ -41,9 +41,11 @@
 
 **5 .**  80,000,000 - EIGHTY MILLION
 
-*   **DEVS PORTFOLIO EACH WITH 0.6666% (locked 6 months)**
+* **DEVS PORTFOLIO EACH WITH 0.6666% (locked 6 months)**
 
-    &#x20;****&#x20;
+![](.gitbook/assets/photo1647910884.jpeg)
+
+&#x20;****&#x20;
 
 ## <mark style="color:purple;">Blocked Liquidity:</mark>
 
