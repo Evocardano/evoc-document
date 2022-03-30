@@ -2,7 +2,7 @@
 description: PROJECT SCRIPT
 ---
 
-# 📖  ROADMAP
+# 📈 ROADMAP
 
 ## **Phase 1**
 
