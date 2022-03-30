@@ -12,4 +12,3 @@
 * [💜 DONATIONS](donations.md)
 * [📈 ROADMAP](roadmap.md)
 * [🌎 SOCIAL NETWORKS](social-networks.md)
-* [Page 1](page-1.md)
