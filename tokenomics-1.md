@@ -16,6 +16,8 @@
 * 2% Marketing
 * 1% Burn POWER EVOC
 
+![](<.gitbook/assets/photo1647910884 (1).jpeg>)
+
 ## <mark style="color:blue;">**Total Supply:**</mark>
 
 **We have a total of 1,000,000 (one million) of continuous units.**
@@ -35,8 +37,6 @@
 **4.**  764,824 - SEVEN HUNDRED AND SEVENTY-FOUR THOUSAND EIGHT HUNDRED AND TWENTY-FOUR.
 
 * **BURN AT LAUNCH - 76,48%🔥**   &#x20;
-
-![](<.gitbook/assets/photo1647910884 (1).jpeg>)
 
 ## <mark style="color:blue;">Continuous Supply</mark>
 
