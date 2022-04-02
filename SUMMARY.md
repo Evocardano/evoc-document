@@ -9,7 +9,7 @@
 * [🔁 DECENTRALIZED EXCHANGE](decentralized-exchange.md)
 * [✅ CONNECTING YOUR WALLET](connecting-your-wallet.md)
 * [💰 REWARDS](rewards.md)
-* [💜 DONATIONS](donations.md)
 * [📈 ROADMAP](roadmap.md)
 * [‼ DISCLAIMER](disclaimer.md)
+* [💜 DONATIONS](donations.md)
 * [🌎 SOCIAL NETWORKS](social-networks.md)
