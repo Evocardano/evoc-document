@@ -11,4 +11,5 @@
 * [💰 REWARDS](rewards.md)
 * [💜 DONATIONS](donations.md)
 * [📈 ROADMAP](roadmap.md)
+* [‼ DISCLAIMER](disclaimer.md)
 * [🌎 SOCIAL NETWORKS](social-networks.md)
