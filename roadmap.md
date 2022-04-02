@@ -19,9 +19,9 @@ description: PROJECT SCRIPT
 **Structuring and Elaboration**
 
 * ✅ Launch of DEX V1
-* ❌ Update from DEX V1
+* ✅ Update from DEX V1
 * ✅ Advertising PoocoinAds
-* ✅ Advertising PoocoinAds
+* ✅ Advertising GoogleAds
 * ❌ BscScan Icons
 * ❌ Icons on TrustWallet
 * ✅ Advertising with Youtubers
