@@ -9,6 +9,12 @@ description: >-
 
 **CONTRACT :** 0x39631BE80EBcD356cEA324c663d6732809725f00
 
+**LAUNCH  DATA: 04/07**&#x20;
+
+**TIME: 23:00h UTC**&#x20;
+
+**PLACE :** [https://evocswap.com/swap](https://evocswap.com/swap)
+
 ## About The Project
 
 **POWER EVOC** will be a governance token where it will have the function of buying Evocardano and burning them automatically. Leaving Evocardano increasingly scarce and valuable. Most of the fees will return to their own liquidity creating price stability. And for those who have always dreamed of mining a coin, it will also be a token where you can mine economically without spending energy and earn very significant profits. But for that you will have to have a quantity of **POWER EVOC** in your wallet to be able to create the liquidity pair and start mining on DEX EvocSwap.
