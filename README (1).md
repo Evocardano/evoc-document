@@ -9,6 +9,12 @@ description: >-
 
 **CONTRACT** : 0x086cc8e468b3cb5494f18a7abc2de1321306af12
 
+{% hint style="success" %}
+### **BUY EVOCARDANO** DIRECT LINK
+
+### SWAP : [https://evocswap.com/swap](https://evocswap.com/swap)
+{% endhint %}
+
 ## About The Project
 
 EvoCardano is a token that has already been launched on the BSC network (Binance Smart Chain) but will also be launched on the Cardano network. Where after the Alonzo update gets to 100%, it will be allowed to trade Defi's projects on the Cardano blockchain. It is believed in the possibility of eliminating bugs and hacks in DeFi's projects. With this, EvocSwap emerges, which is the development of a DEX (Decentralized Exchange) similar to Pancakeswap for the two networks. Where it will allow users to trade assets, quickly, cheaply and safely.
