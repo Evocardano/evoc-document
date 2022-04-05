@@ -43,7 +43,8 @@
 
 **5 .**  80,000,000 - EIGHTY MILLION
 
-* **DEVS PORTFOLIO EACH WITH 0.6666% (locked 6 months)**
+* [x] **DEVS PORTFOLIO EACH WITH 0.6666%**&#x20;
+* [x] <mark style="color:green;">**(locked 6 months)**</mark>
 
 &#x20;****&#x20;
 
