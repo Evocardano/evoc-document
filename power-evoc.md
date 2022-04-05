@@ -7,14 +7,18 @@ description: >-
 
 # 🔥 POWER EVOC
 
-{% hint style="info" %}
 **CONTRACT :** 0x39631BE80EBcD356cEA324c663d6732809725f00
 
+{% hint style="info" %}
 ### **LAUNCH : 04/07**&#x20;
 
-### **TIME: 23:00h UTC**
+### **TIME :** <mark style="color:red;"><mark style="color:green;">23:00 UTC<mark style="color:green;"></mark>
 
 ### **PLACE :** [https://evocswap.com/swap](https://evocswap.com/swap)
+{% endhint %}
+
+{% hint style="danger" %}
+**The launch will be exclusive within EVOCSWAP the trade is locked at 99% rate so you will not buy or sell in any way or you will lose your PWE. Wait for the release.**
 {% endhint %}
 
 ## About The Project
