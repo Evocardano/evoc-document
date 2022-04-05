@@ -32,11 +32,11 @@
 
 **3.**  40,000 - FORTY THOUSAND.
 
-* **DEVELOPERS - 4%**&#x20;
+* **DEVELOPERS - 4%**   400 PWE paid monthly
 
 **4.**  764,824 - SEVEN HUNDRED AND SEVENTY-FOUR THOUSAND EIGHT HUNDRED AND TWENTY-FOUR.
 
-* **BURN AT LAUNCH - 76,48%🔥**   &#x20;
+* **BURN AT LAUNCH - 76,48%🔥**&#x20;
 
 ## <mark style="color:blue;">Continuous Supply</mark>
 
