@@ -7,14 +7,14 @@ description: >-
 
 # 🔥 POWER EVOC
 
-{% hint style="success" %}
-&#x20;**PLACE :** [https://evocswap.com/swap](https://evocswap.com/swap)
-
+{% hint style="info" %}
 **CONTRACT :** 0x39631BE80EBcD356cEA324c663d6732809725f00
 
-**LAUNCH  DATA: 04/07**&#x20;
+### **LAUNCH : 04/07**&#x20;
 
-**TIME: 23:00h UTC**&#x20;
+### **TIME: 23:00h UTC**
+
+### **PLACE :** [https://evocswap.com/swap](https://evocswap.com/swap)
 {% endhint %}
 
 ## About The Project
