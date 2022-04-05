@@ -32,7 +32,7 @@
 
 **3.**  40,000 - FORTY THOUSAND.
 
-* [x] **DEVELOPERS - 4% •**&#x20;
+* [x] **DEVELOPERS - 4%**&#x20;
 * [x] <mark style="color:green;">**(400 PWE paid every 2 months)**</mark>
 
 **4.**  764,824 - SEVEN HUNDRED AND SEVENTY-FOUR THOUSAND EIGHT HUNDRED AND TWENTY-FOUR.
