@@ -15,6 +15,10 @@ description: >-
 ### **TIME :** <mark style="color:red;"><mark style="color:green;">23:00 UTC<mark style="color:green;"></mark>
 
 ### **PLACE :** [https://evocswap.com/swap](https://evocswap.com/swap)
+
+****
+
+**LOOK AT THE GRAPHIC :** [https://www.dextools.io/app/bsc/pair-explorer/0x0460c6e6fbc3142953b677068e56b5dbcfb30b00](https://www.dextools.io/app/bsc/pair-explorer/0x0460c6e6fbc3142953b677068e56b5dbcfb30b00)
 {% endhint %}
 
 {% hint style="danger" %}
