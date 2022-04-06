@@ -22,7 +22,11 @@ description: >-
 {% endhint %}
 
 {% hint style="danger" %}
-**The launch will be exclusive within EVOCSWAP the trade is locked at 99% rate so you will not buy or sell in any way or you will lose your PWE. Wait for the release.**
+**🚨ANTIBOT ACTIVATED🚨**
+
+**BLOCKED TRADE 📵**&#x20;
+
+**Launch will be DEX EvocSwap exclusive, trade is locked at 99% rate, so try not to sell or buy if you trade before launch, you will lose your PWE. Wait for the launch on the 07/04th at 23:00h GMT ‼️**
 {% endhint %}
 
 ## About The Project
