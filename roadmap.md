@@ -35,7 +35,7 @@ description: PROJECT SCRIPT
 * ✅ Marketing on Twitter
 * ✅ CoinMarketCap listing request
 * ✅ Request at Certik
-* ❌ POWER EVOC Launch
+* ✅ POWER EVOC Launch
 * ❌ Pools and Farms in DEX V1
 * ❌ Marketplace NFTs
 *   ❌ TimeSquare Advertising
