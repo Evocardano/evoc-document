@@ -9,24 +9,12 @@ description: >-
 
 **CONTRACT :** 0x39631BE80EBcD356cEA324c663d6732809725f00
 
-{% hint style="info" %}
-### **LAUNCH : 04/07**&#x20;
+{% hint style="success" %}
+### **BUY POWER EVOC** DIRECT LINK&#x20;
 
-### **TIME :** <mark style="color:red;"><mark style="color:green;">23:00 UTC<mark style="color:green;"></mark>
-
-### **PLACE :** [https://evocswap.com/swap](https://evocswap.com/swap)
-
-****
+### **SWAP :** [**https://evocswap.com/swap**](https://evocswap.com/swap)
 
 **LOOK AT THE GRAPHIC :** [https://www.dextools.io/app/bsc/pair-explorer/0x0460c6e6fbc3142953b677068e56b5dbcfb30b00](https://www.dextools.io/app/bsc/pair-explorer/0x0460c6e6fbc3142953b677068e56b5dbcfb30b00)
-{% endhint %}
-
-{% hint style="danger" %}
-**🚨ANTIBOT ACTIVATED🚨**
-
-**BLOCKED TRADE 📵**&#x20;
-
-**Launch will be DEX EvocSwap exclusive, trade is locked at 99% rate, so try not to sell or buy if you trade before launch, you will lose your PWE. Wait for the launch on the 07/04th at 23:00h GMT ‼️**
 {% endhint %}
 
 ## About The Project
