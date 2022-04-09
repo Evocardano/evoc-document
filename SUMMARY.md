@@ -5,6 +5,7 @@
 * [🎯 TOKENOMICS](tokenomics.md)
 * [🔥 POWER EVOC](power-evoc.md)
 * [🎯 TOKENOMICS](tokenomics-1.md)
+* [♻ STAKE POOLS](stake-pools.md)
 * [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
 * [🔁 DECENTRALIZED EXCHANGE](decentralized-exchange.md)
 * [✅ CONNECTING YOUR WALLET](connecting-your-wallet.md)
