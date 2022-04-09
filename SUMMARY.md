@@ -13,7 +13,7 @@
 * [‼ DISCLAIMER](disclaimer.md)
 * [💜 DONATIONS](donations.md)
 
-## Group 1
+## SOCIAL NETWORKS
 
 * [🇵🇹 TELEGRAM PT/BR](https://t.me/evocardanobrasil)
 * [🇱🇷 TELEGRAM EN/GL](https://t.me/evocardanoenglish)
