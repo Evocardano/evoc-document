@@ -10,8 +10,8 @@
 * [✅ CONNECTING YOUR WALLET](connecting-your-wallet.md)
 * [💰 REWARDS](rewards.md)
 * [📈 ROADMAP](roadmap.md)
-* [‼ DISCLAIMER](disclaimer.md)
 * [💜 DONATIONS](donations.md)
+* [‼ DISCLAIMER](disclaimer.md)
 
 ## SOCIAL NETWORKS
 
