@@ -12,4 +12,10 @@
 * [📈 ROADMAP](roadmap.md)
 * [‼ DISCLAIMER](disclaimer.md)
 * [💜 DONATIONS](donations.md)
-* [🌎 SOCIAL NETWORKS](social-networks.md)
+
+## Group 1
+
+* [🇵🇹 TELEGRAM PT/BR](https://t.me/evocardanobrasil)
+* [🇱🇷 TELEGRAM EN/GL](https://t.me/evocardanoenglish)
+* [🐦 TWITTER](https://twitter.com/evocardanoofc)
+* [📸 INSTAGRAM](https://www.instagram.com/evocardanoofc/)
