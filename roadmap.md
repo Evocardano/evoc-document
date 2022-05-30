@@ -36,7 +36,7 @@ description: PROJECT SCRIPT
 * ✅ CoinMarketCap listing request
 * ✅ Request at Certik
 * ✅ POWER EVOC Launch
-* ❌ Pools and Farms in DEX V1
+* ✅ Pools and Farms in DEX V1
 * ❌ Marketplace NFTs
 *   ❌ TimeSquare Advertising
 
