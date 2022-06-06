@@ -79,7 +79,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 * Language linked to phone settings
 * DApps limitados
 
-[**Download Trust Wallet**](https://trustwallet.com) **(automatically detects the device)**&#x20;
+[**Download Trust Wallet**](https://trustwallet.com/) **(automatically detects the device)**&#x20;
 
 ****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
 {% endtab %}
@@ -130,7 +130,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ****[**Download SafePal**](https://safepal.io/download) **(automatically detects the device)**                 &#x20;
 
-****[**Safepal Setup Guide**](https://docs.safepal.io)****
+****[**Safepal Setup Guide**](https://docs.safepal.io/)****
 {% endtab %}
 {% endtabs %}
 

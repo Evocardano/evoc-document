@@ -36,7 +36,7 @@ If you find that you can't connect in step 4, go back to the DApps menu and find
 
 ## **Resources**
 
-****[**Download Trust Wallet** ](https://trustwallet.com)(automatically detects the device)
+****[**Download Trust Wallet** ](https://trustwallet.com/)(automatically detects the device)
 
 ****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
 {% endtab %}
@@ -74,7 +74,7 @@ Open MetaMask and click on the network selector at the top. By default it will s
 
 1 . A window will open. Enter details below.
 
-**Network Name:** Binance Smart Chain                                                                  **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)                                             **Chain ID:** 56                                                                                                   **Currency Symbol (optional):** BNB                                                                       **Block Explorer URL (optional):** [http://bscscan.com](https://bscscan.com)
+**Network Name:** Binance Smart Chain                                                                  **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org/)                                             **Chain ID:** 56                                                                                                   **Currency Symbol (optional):** BNB                                                                       **Block Explorer URL (optional):** [http://bscscan.com](https://bscscan.com/)
 
 ![.](.gitbook/assets/espelho.png)
 
@@ -82,7 +82,7 @@ Open MetaMask and click on the network selector at the top. By default it will s
 
 ![](.gitbook/assets/save.png)
 
-2 . Visit the EvocSwap website. In the bottom corner, you will see the Connect Wallet button. [Click](https://evocswap.com).
+2 . Visit the EvocSwap website. In the bottom corner, you will see the Connect Wallet button. [Click](https://evocswap.com/).
 
 ![](<.gitbook/assets/Connect (1).JPG>)
 
@@ -117,7 +117,7 @@ A window will appear asking you to choose a wallet to connect to. Click on MetaM
 
 ****[**Download Binance Wallet** ](https://www.bnbchain.world/en)**(automatically detects browser).**&#x20;
 
-****[**Binance Wallet Wallet Setup Guide**](https://docs.binance.org)****
+****[**Binance Wallet Wallet Setup Guide**](https://docs.binance.org/)****
 {% endtab %}
 {% endtabs %}
 

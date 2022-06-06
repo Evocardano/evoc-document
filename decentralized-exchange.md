@@ -4,7 +4,7 @@ description: >-
   other  centralized exchange to start using EvocSwap!
 ---
 
-# 🔁 Trocas descentralizadas
+# 🔁 DECENTRALIZED EXCHANGE
 
 EvocSwap is a decentralized application. This means that unlike Binance or other centralized platforms, you don't need to register an account to use it... you just need a crypto wallet. So how can you get crypto on EvocSwap without using a centralized exchange? In this tutorial, we will guide you through the process of using "cross-chain bridges" to transfer your assets to your Binance Smart Chain wallet and start using EvocSwap.&#x20;
 
@@ -26,8 +26,8 @@ In
 2. As Binance Bridge only supports MetaMask and Binance Chain Wallet. If you are using other wallet apps, we recommend that you import your wallet into MetaMask.
 3. Navigate to https://www.binance.org/en/bridge
 4. Connect your MetaMask Wallet or Binance Smart Chain.
-5. Select TRX Network as "From", Binance Smart Chain Network as "To". Then enter the amount of USDT you want to transfer.                                                                                                           ![](.gitbook/assets/1.png)&#x20;
-6. Also, you can ask Binance Bridge to exchange some BNB for you in the process of moving your USDT from TRON to BSC. This is particularly useful when you are new to Binance Smart Chain with a new wallet and need some BNB for gas.                               ![](.gitbook/assets/2.png)&#x20;
+5. Select TRX Network as "From", Binance Smart Chain Network as "To". Then enter the amount of USDT you want to transfer.                                                                                                           <img src=".gitbook/assets/1.png" alt="" data-size="original">&#x20;
+6. Also, you can ask Binance Bridge to exchange some BNB for you in the process of moving your USDT from TRON to BSC. This is particularly useful when you are new to Binance Smart Chain with a new wallet and need some BNB for gas.                               <img src=".gitbook/assets/2.png" alt="" data-size="original">&#x20;
 7. Make sure the "Destination" field is showing the correct address of the Binance Smart Chain wallet you connected.
 8. Click “Next”. And choose the fourth option. NOTICE: **You can only send funds from a blockchain wallet (in this case, TRON). If your funds are on some other centralized exchange, move them to the blockchain wallet first.** ![](.gitbook/assets/3.png)
 9. Check that everything is correct, click “Next”.
