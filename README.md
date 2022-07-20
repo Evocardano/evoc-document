@@ -1,9 +1,9 @@
 ---
-description: gg
+description: EVOCARDANO AUDIT CERTIFICATE
 ---
 
 # 🛡 AUDIT
 
-Evocarano has auditoriums in its market curriculum, transmitted by several analysts until the project is approved. by one of the largest auditoriums in the world (CERTIK). This means the project is serious enough to bring investors world-class security. and bring peace of mind to those who make their investment, don't worry about the asset wallet when connecting your Evocardano dex wallet It's super safe!!
+Evocardano has two audits in its market curriculum, it was promoted by several analysts until the project approved by one of the largest certifications in the world (CERTIK). This means the project is serious enough to bring investors world-class security. and bring peace of mind to those who make their investment, don't worry about the asset wallet when connecting your EvocSwap  dex wallet It's super safe!!
 
-![EVOCARDANO AUDIT CERTIFICATE](<.gitbook/assets/cats (1).jpg>)
+![EVOCARDANO AUDIT CERTIFICATE](<.gitbook/assets/cats (1) (1).jpg>)

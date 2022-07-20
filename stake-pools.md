@@ -23,5 +23,5 @@
 
 **Passo 4 :** Tokens ready and successfully deposited now the tokens that were in your wallet suffering from market volatility, are yielding for you use the harvest button whenever you want to redeem your earnings wait always create your snowball on evocswap and become a whale in the future, think long term.
 
-![](<.gitbook/assets/cats (1) (1).jpg>)
+![](<.gitbook/assets/cats (1) (1) (1).jpg>)
 
