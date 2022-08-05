@@ -12,7 +12,7 @@ description: >-
 {% hint style="success" %}
 ### **BUY EVOCARDANO** DIRECT LINK
 
-**SWAP :** [**https://evocswap.com/swap**](https://evocswap.com/swap)****
+**SWAP :** [**https://evocswap.com/chart**](https://evocswap.com/chart)****
 {% endhint %}
 
 ## About The Project
