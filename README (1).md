@@ -8,7 +8,7 @@ description: >-
 # 🟣 EVOCARDANO PLUS
 
 {% hint style="success" %}
-### **BUY EVOCARDANO** DIRECT LINK
+### ****
 {% endhint %}
 
 ## Sobre o Projeto
@@ -17,7 +17,7 @@ Evocardano Plus é um token que já foi lançado na rede BSC (Binance Smart Chai
 
 &#x20;
 
-## Project Visions
+## Visões do Projeto
 
-Our vision is to implement our ecosystem on Cardano's own blockchain. Doing so, the union of capitalization of the two networks. Like that we can have an extreme valuation with the union of the two networks in EvoCardano and PowerEvoc. The crucial point and the importance of actually being a holder of this project is that after joining the market capitalization of the two networks in our currencies, we can have an extreme appreciation. And it will be there that investors who have always believed in the project, will achieve the goal they always dreamed of.
+Nossa visão é implementar nosso ecossistema na própria blockchain da cardano. Fazendo assim, a união da capitalização das duas redes. Assim podemos ter uma valorização extrema com a união das duas redes em Evocardano Plus. O ponto crucial e a importância de realmente sermos titulares deste projeto é que após juntarmos a capitalização de mercado das duas redes em nossa moeda, podemos ter uma valorização extrema. E será dessa forma que os investidores que sempre acreditaram no projeto, alcançarão o objetivo que sempre sonharam.
 
