@@ -1,8 +1,8 @@
 # Table of contents
 
 * [INFORMATIVO](README.md)
-* [🔄 EVOCSWAP](<README (2).md>)
-* [🟣 EVOCARDANO PLUS](<README (1).md>)
+* [🔄 EVOCSWAP](<README (1).md>)
+* [🟣 EVOCARDANO PLUS](<README (1) (1).md>)
 * [🎯 TOKENOMICS](tokenomics.md)
 * [🔥 POWER EVOC](power-evoc.md)
 * [🎯 TOKENOMICS](tokenomics-1.md)
