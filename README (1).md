@@ -9,6 +9,8 @@ description: >-
 
 {% hint style="danger" %}
 ### ACONTECERÁ UM HARDFORK NO CONTRATO ONDE VAMOS UNIR  EVOCARDANO E PWE EM UM SÓ TOKEN PARA MELHOR ORGANIZAÇÃO DO PROJETO.&#x20;
+
+### OS HOLDERS ANTIGOS IRÃO MIGRAR PARA O NOVO TOKEN.&#x20;
 {% endhint %}
 
 ## Sobre o Projeto
