@@ -5,7 +5,6 @@
 * [🟣 EVOCARDANO PLUS](evocardano-plus/README.md)
   * [TOKENOMICS](evocardano-plus/tokenomics.md)
 * [🎯 TOKENOMICS](tokenomics.md)
-* [🔥 POWER EVOC](power-evoc.md)
 * [🎯 TOKENOMICS](tokenomics-1.md)
 * [👽 STAKE](stake/README.md)
   * [NFT PLUS](stake/page-1.md)
