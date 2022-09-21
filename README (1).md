@@ -7,15 +7,15 @@ description: >-
 
 # 🟣 EVOCARDANO PLUS
 
-{% hint style="success" %}
-### ****
+{% hint style="danger" %}
+### ACONTECERÁ UM HARDFORK NO CONTRATO ONDE VAMOS UNIR  EVOCARDANO E PWE EM UM SÓ TOKEN PARA MELHOR ORGANIZAÇÃO DO PROJETO.&#x20;
 {% endhint %}
 
 ## Sobre o Projeto
 
-Evocardano Plus é um token que já foi lançado na rede BSC (Binance Smart Chain), mas também será ligado a rede Cardano. Onde após a atualização do Alonzo chegar a 100%, será permitido negociar os projetos da Defi no blockchain cardano. Acredita-se na possibilidade de eliminação de bugs e hacks nos projetos do DeFi. Com isso, surge o EvocSwap, que é o desenvolvimento de uma DEX (exchange descentralizada) semelhante ao Pancakeswap  para as duas redes. Onde permitirá que os usuários negociem ativos, de forma rápida, barata e segura.
+Evocardano Plus é um token que já foi lançado na rede BSC (Binance Smart Chain), mas também será ligado a rede Cardano. Onde após a atualização alonzo chegar a 100%, será permitido negociar os projetos da Defi no blockchain cardano. Acredita-se na possibilidade de eliminação de bugs e hacks nos projetos do DeFi. Com isso, surge EvocSwap, que é o desenvolvimento de uma DEX (exchange descentralizada) semelhante ao Pancakeswap  para as duas redes. Onde permitirá que os usuários negociem ativos, de forma rápida, barata e segura.
 
-&#x20;
+Evocardano Plus será o token de governança da dex , o token principal onde os investidores irão receber recompensas básicas nele próprio por criar um par de liquidez e manter seus tokens na plataforma fazendo stake. Ao invés de vender suas moedas você recebe mais delas como forma de juros por ajudar na sustentabilidade da liquidez da moeda. E também pode ganhar muito com a valorização da mesma.
 
 ## Visões do Projeto
 
