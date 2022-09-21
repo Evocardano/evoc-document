@@ -1,11 +1,12 @@
 # Table of contents
 
-* [🟣 EVOCSWAP](README.md)
+* [🔄 EVOCSWAP](README.md)
 * [🟣 EVOCARDANO PLUS](<README (1).md>)
 * [🎯 TOKENOMICS](tokenomics.md)
 * [🔥 POWER EVOC](power-evoc.md)
 * [🎯 TOKENOMICS](tokenomics-1.md)
-* [👽 STAKE NFT](stake-pools.md)
+* [👽 STAKE](stake/README.md)
+  * [Page 1](stake/page-1.md)
 * [🔀 FARMS](farms.md)
 * [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
 * [🔁 DECENTRALIZED EXCHANGE](decentralized-exchange.md)
