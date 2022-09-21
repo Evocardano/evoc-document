@@ -3,7 +3,6 @@ description: >-
   EvoCardano é um token nativo da rede Binance Smart Chain, onde possui sua
   própria DEX (troca descentralizada) atualmente em execução na V1.0 e em breve
   na V2.0 que será executada na rede Cardano.
-coverY: 0
 ---
 
 # 🟣 EVOCARDANO PLUS
