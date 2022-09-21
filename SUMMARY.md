@@ -6,7 +6,7 @@
 * [🔥 POWER EVOC](power-evoc.md)
 * [🎯 TOKENOMICS](tokenomics-1.md)
 * [👽 STAKE](stake/README.md)
-  * [FARMS](stake/farms.md)
+  * [NFT PLUS](stake/nft-plus.md)
   * [Copy of Page 1](stake/copy-of-page-1.md)
 * [🔀 FARMS](farms.md)
 * [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
