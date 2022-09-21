@@ -1,18 +1,12 @@
 ---
 description: >-
-  EvoCardano é um token nativo da rede Binance Smart Chain, onde possui sua
-  própria DEX (troca descentralizada) atualmente em execução na V1.0 e em breve
-  na V2.0 que será executada na rede Cardano.
+  EVOC+ é um token nativo da rede Binance Smart Chain, onde possui sua própria
+  DEX (troca descentralizada) atualmente em execução na V1.0 e em breve na V2.0
+  que será executada na rede Cardano.
 coverY: 0
 ---
 
 # 🟣 EVOCARDANO PLUS
-
-{% hint style="danger" %}
-### ACONTECERÁ UM HARDFORK NO CONTRATO ONDE VAMOS UNIR  EVOCARDANO E PWE EM UM SÓ TOKEN PARA MELHOR ORGANIZAÇÃO DO PROJETO.&#x20;
-
-### OS HOLDERS ANTIGOS IRÃO MIGRAR PARA O NOVO TOKEN.&#x20;
-{% endhint %}
 
 ## Sobre o Projeto
 
@@ -26,4 +20,4 @@ Nossa visão é implementar nosso ecossistema na própria blockchain da cardano.
 
 ## Introdução no mercado NFT
 
-Um dos maiores e crescentes mercados do mundo atualmente é o mercado de NFT's , com isso Evocardano se tornará uma moeda para compra e venda de NFT's onde na rede Binance Smart Chain, a equipe irá introduzir um mercado de NFT's onde qualquer titular pode criar sua NFT, comprar com EVOC+ e ser proprietário das NFT's melhorando ainda mais a sustentabilidade e criando um maior volume de marketcap da moeda.
+Um dos maiores e crescentes mercados do mundo atualmente é o mercado de NFT's , com isso Evocardano se tornará uma moeda para compra e venda de NFT's onde na rede Binance Smart Chain, a equipe irá introduzir um mercado de NFT's onde qualquer titular pode criar sua NFT, comprar com EVOC+ e ser proprietário das NFT's melhorando ainda mais a sustentabilidade e criando um volume maior de marketcap da moeda.
