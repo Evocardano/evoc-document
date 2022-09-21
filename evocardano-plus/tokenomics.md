@@ -2,7 +2,7 @@
 
 ### <mark style="color:purple;background-color:purple;">Distribuição dos Tokens</mark>
 
-**Temos um total de 10.000.000.000 (dez bilhões) de unidades.**&#x20;
+**TEMOS UM TOTAL DE  10.000.000.000 (DEZ BILHÕES) DE UNIDADES.**&#x20;
 
 1\. (4,92%) = 492.000.000 - **** QUATRO CENTOS E NOVENTA E DOIS MILHÕES.
 
@@ -28,4 +28,8 @@
 6\. (70%)  = 7.000.000.000 - SETE BILHÕES
 
 * **FARMS/STAKE**
+
+<!---->
+
+* [x] **70% DO SUPPLY É MINTADO AUTOMATICAMENTE PARA OS STAKE E FARMS , NOSSO SUPPLY TEM UM LIMITE DE 10.000.000.000 DE UNIDADES , APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
 
