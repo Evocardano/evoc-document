@@ -9,7 +9,6 @@
 * [👽 STAKE](stake/README.md)
   * [NFT PLUS](stake/page-1.md)
   * [FARMS](stake/farms.md)
-* [🔀 FARMS](farms.md)
 * [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
 * [🔁 DECENTRALIZED EXCHANGE](decentralized-exchange.md)
 * [✅ CONNECTING YOUR WALLET](connecting-your-wallet.md)
