@@ -4,8 +4,6 @@
 * [🔄 EVOCSWAP](<README (1).md>)
 * [🟣 EVOCARDANO PLUS](evocardano-plus/README.md)
   * [TOKENOMICS](evocardano-plus/tokenomics.md)
-* [🎯 TOKENOMICS](tokenomics.md)
-* [🎯 TOKENOMICS](tokenomics-1.md)
 * [👽 STAKE](stake/README.md)
   * [NFT PLUS](stake/page-1.md)
   * [FARMS](stake/farms.md)
