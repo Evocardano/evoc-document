@@ -4,47 +4,48 @@ description: PROJECT SCRIPT
 
 # 📈 ROADMAP
 
-## **Phase 1**
+## 1º FASE FORK Q1&#x20;
 
-**Design and Construction**
+**Design e construção**&#x20;
 
-* ✅ Social Media Creation
-* ✅ Release website and document
-* ✅ Marketing at launch
-* ✅ Launch on Pancakeswap
-* ✅ Advertising with influencers
+* ✅Nova Logo
+* ✅Redes Sociais
+* ✅Novo Contrato
+* ❌Auditoria
+* ❌Icone na BscScan
+* ❌Whitepaper
+* ❌Parceria com Evocpay
+* ❌Plataforma de troca
+* ❌Hardfork
 
-## **Phase 2**
+## **2**º FASE FORK Q2&#x20;
 
-**Structuring and Elaboration**
+* ❌Lançamento da DEX V1
+* ❌Pré venda PinkSale
+* ❌Pré venda no PIX
+* ❌Marketing Lançamento
+* ❌Lançamento na Pancakeswap
+* ❌Publicidade com influenciadores
+* ❌Publicidade PoocoinAds
+* ❌Publicidade GoogleAds
+* ❌Publicidade FacebookAds
 
-* ✅ Launch of DEX V1
-* ✅ Update from DEX V1
-* ✅ Advertising PoocoinAds
-* ✅ Advertising GoogleAds
-* ❌ BscScan Icons
-* ❌ Icons on TrustWallet
-* ✅ Advertising with Youtubers
+## 3º FASE FORK Q3
 
-## **Phase 3**
+**Avanço**
 
-**Advance**
-
-* ✅ Coingecko listing request
-* ❌ Request for listing on FTX Blockfolio
-* ✅ Marketing on Twitter
-* ✅ CoinMarketCap listing request
-* ✅ Request at Certik
-* ✅ POWER EVOC Launch
-* ✅ Pools and Farms in DEX V1
-* ❌ Marketplace NFTs
-*   ❌ TimeSquare Advertising
-
-
+* ❌Listagem CoinGecko
+* ❌Listagem CoinMarketCap
+* ❌Marketing no Twitter
+* ❌Ativação Stake NFT
+* ❌Ativação Farms
+* ❌Ativação Comunnity Pools
+* ❌Marketplace NFTs
+* ❌Launchpad
 
 ## **Phase 4**
 
-**Innovation and improvements**
+Inovação e melhorias
 
 * ❌ NFT Marketplace
 * ❌ Sales of NFTs
