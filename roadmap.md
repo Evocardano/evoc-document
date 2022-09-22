@@ -17,10 +17,12 @@ description: PROJECT SCRIPT
 * ❌Parceria com Evocpay
 * ❌Plataforma de troca
 * ❌Hardfork
+* ✅Doações
 
 ## **2**º FASE FORK Q2&#x20;
 
 * ❌Lançamento da DEX V1
+* ❌Ativação do Gráfico
 * ❌Pré venda PinkSale
 * ❌Pré venda no PIX
 * ❌Marketing Lançamento
@@ -34,6 +36,8 @@ description: PROJECT SCRIPT
 
 **Avanço**
 
+* ❌Pricebot evocswap
+* ❌Buybot evocswap
 * ❌Listagem CoinGecko
 * ❌Listagem CoinMarketCap
 * ❌Marketing no Twitter
@@ -43,21 +47,28 @@ description: PROJECT SCRIPT
 * ❌Marketplace NFTs
 * ❌Launchpad
 
-## **Phase 4**
+## 4º FASE FORK Q4
 
-Inovação e melhorias
+**Inovação e melhorias**
 
-* ❌ NFT Marketplace
-* ❌ Sales of NFTs
-* ❌ Release of DEX V2
-* ❌ Listings in New Bags
-* ❌ Voluntary donations
+* ❌Contrato na Rede Cardano
+* ❌Pré venda em uma exchange
+* ❌DEX versão V2 (Cardano)
+* ❌Marketing Lançamento
+* ❌Lançamento do token na Rede Cardano
+* ❌Ativação Stake NFT (Cardano)
+* ❌Ativação Farms (Cardano)
+* ❌Ativação Comunnity Pools (Cardano)
+* ❌Novas parcerias
 
-## **Phase 5**
+## 5º FASE FORK Q5
 
-**Turn of the Key**
+**Virada de chave**
 
-* ❌ DEX V2 Update
-* ❌ Launch EvoCardano on DEX V2
-* ❌ POWER EVOC release on DEX V2
-* ❌ Trading tokens on the Cardano network\
+* ❌ Anúncio na Times Square&#x20;
+* ❌ Lançamento em novas redes
+* ❌ Cross Chain
+* ❌ Listagem nas principais exchanges
+* ❌ Marketing Agressivo
+
+\
