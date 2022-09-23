@@ -1,29 +1,31 @@
 ---
 description: >-
-  The dex EvocSwap will run on two networks: Binance Smart Chain and Cardano,
-  soon in version 2.0 after the upgrade from 100% completion.
+  EvocSwap será executada em duas redes: Binance Smart Chain e Cardano NetWork ,
+  na versão 2.0 após a atualização alonzo estiver 100% concluida.
 ---
 
 # 🔄 EVOCSWAP
 
 {% hint style="success" %}
-**EvocSwap helps you to explore your cryptographic negotiations, with a simple and quickly experience in one place.**
+EvocSwap ajudará você a explorar suas negociações criptográficas, com uma experiência simples e rápida em um só lugar.
 {% endhint %}
 
 ## ↔️ Trade
 
-Instantly exchange crypto tokens: no registration or account required.
+{% hint style="info" %}
+Troque instantaneamente suas criptomoedas: sem necessidade de registro com conta.
+{% endhint %}
 
-## Investor’s choice&#x20;
+## Escolha do investidor&#x20;
 
-The token is part of Binance Smart Chain, and has its own DEX network (decentralized exchange) being a fast platform with better usability in the market. It was created with the aim of eliminating many severe mistakes with slow transactions and fees from other exchanges, for that reason we created EVOCSWAP which makes a big difference and a better experience and a better approval of our investor’s.
+O Token faz parte da Binance Smart Chain, e irá possuir sua própria DEX (troca descentralizada) sendo uma plataforma rápida e com melhor usabilidade no mercado. Será criado com o objetivo de eliminar muitos erros graves como transações lentas e taxas muito caras, por isso o que irá  fazer uma grande diferença e uma melhor experiência com aprovação de nossos investidores.
 
-## Fees&#x20;
+## Vantagens
 
-Why pay more? EVOCSWAP is performed on BINANCE SMART CHAIN, a Exchange decentralized with costs of transaction then a pancakewap. The trading fees are also lower than any other networks like ethereum among others which are too expensive, as we came to bring better usability in your transactions.
+Por que pagar mais? As taxas de negociações também serão corrigidas com porcentagens mais baixas do que qualquer outra DEX que são mais caras, pois viemos trazer melhor usabilidade em suas transações com facilidade em suas compras com Evocpay que será uma plataforma ligada ao nosso projeto , você ira fazer compras automáticas por PIX facilitando as compras das principais moedas que serão negociadas em nossa DEX.
 
-## Decentralized&#x20;
+## Descentralização&#x20;
 
-Trade directly from your wallet app. Unlike centralized exchanges like Binance or Coinbase. EvocSwap does not hold your funds when you trade: **you have 100% ownership of your own cryptocurrency.**
+Negocie diretamente do seu aplicativo de carteira. Ao contrário de exchanges centralizadas como Binance ou Coinbase. EvocSwap não retém seus fundos quando você negocia: você tem 100% de propriedade de sua própria criptomoeda.&#x20;
 
 ****
