@@ -4,71 +4,59 @@ description: PROJECT SCRIPT
 
 # 📈 ROADMAP
 
-## 1º FASE FORK Q1&#x20;
+## **Phase 1**
 
-**Design e construção**&#x20;
+**Design and Construction**
 
-* ✅Nova Logo
-* ✅Redes Sociais
-* ✅Novo Contrato
-* ❌Auditoria
-* ❌Icone na BscScan
-* ❌Whitepaper
-* ❌Parceria com Evocpay
-* ❌Plataforma de troca
-* ❌Hardfork
-* ✅Doações
+* ✅ Social Media Creation
+* ✅ Release website and document
+* ✅ Marketing at launch
+* ✅ Launch on Pancakeswap
+* ✅ Advertising with influencers
 
-## **2**º FASE FORK Q2&#x20;
+## **Phase 2**
 
-* ❌Lançamento da DEX V1
-* ❌Ativação Gráfico de Velas
-* ❌Pré venda PinkSale
-* ❌Pré venda no PIX
-* ❌Marketing Lançamento
-* ❌Lançamento na Pancakeswap
-* ❌Publicidade com influenciadores
-* ❌Publicidade PoocoinAds
-* ❌Publicidade GoogleAds
-* ❌Publicidade FacebookAds
+**Structuring and Elaboration**
 
-## 3º FASE FORK Q3
+* ✅ Launch of DEX V1
+* ✅ Update from DEX V1
+* ✅ Advertising PoocoinAds
+* ✅ Advertising GoogleAds
+* ❌ BscScan Icons
+* ❌ Icons on TrustWallet
+* ✅ Advertising with Youtubers
 
-**Avanço**
+## **Phase 3**
 
-* ❌Pricebot evocswap
-* ❌Buybot evocswap
-* ❌Listagem CoinGecko
-* ❌Listagem CoinMarketCap
-* ❌Marketing no Twitter
-* ❌Ativação Stake NFT
-* ❌Ativação Farms
-* ❌Ativação Comunnity Pools
-* ❌Marketplace NFTs
-* ❌Launchpad
+**Advance**
 
-## 4º FASE FORK Q4
+* ✅ Coingecko listing request
+* ❌ Request for listing on FTX Blockfolio
+* ✅ Marketing on Twitter
+* ✅ CoinMarketCap listing request
+* ✅ Request at Certik
+* ✅ POWER EVOC Launch
+* ✅ Pools and Farms in DEX V1
+* ❌ Marketplace NFTs
+*   ❌ TimeSquare Advertising
 
-**Inovação e melhorias**
 
-* ❌Contrato na Rede Cardano
-* ❌Pré venda em uma exchange
-* ❌DEX versão V2 (Cardano)
-* ❌Marketing Lançamento
-* ❌Lançamento do token na Rede Cardano
-* ❌Ativação Stake NFT (Cardano)
-* ❌Ativação Farms (Cardano)
-* ❌Ativação Comunnity Pools (Cardano)
-* ❌Novas parcerias
 
-## 5º FASE FORK Q5
+## **Phase 4**
 
-**Virada de chave**
+**Innovation and improvements**
 
-* ❌ Anúncio na Times Square&#x20;
-* ❌ Lançamento em novas redes
-* ❌ Cross Chain
-* ❌ Listagem nas principais exchanges
-* ❌ Marketing Agressivo
+* ❌ NFT Marketplace
+* ❌ Sales of NFTs
+* ❌ Release of DEX V2
+* ❌ Listings in New Bags
+* ❌ Voluntary donations
 
-\
+## **Phase 5**
+
+**Turn of the Key**
+
+* ❌ DEX V2 Update
+* ❌ Launch EvoCardano on DEX V2
+* ❌ POWER EVOC release on DEX V2
+* ❌ Trading tokens on the Cardano network\
