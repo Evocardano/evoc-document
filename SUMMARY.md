@@ -5,7 +5,7 @@
 * [🟣 EVOCARDANO PLUS](evocardano-plus/README.md)
   * [➡ TOKENOMICS](evocardano-plus/tokenomics.md)
 * [🪙 STAKE](stake/README.md)
-  * [STAKE NFT](stake/stake-nft.md)
+  * [NFT PLUS](stake/nft-plus.md)
   * [FARMS](stake/farms.md)
   * [COMMUNITY POOLS](stake/community-pools.md)
 * [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
