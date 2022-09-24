@@ -1,2 +1,2 @@
-# 👽 STAKE NFT
+# 🪙 STAKE
 

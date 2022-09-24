@@ -18,7 +18,7 @@ Troque instantaneamente suas criptomoedas: sem necessidade de registro com conta
 
 ## Escolha do investidor&#x20;
 
-O Token faz parte da Binance Smart Chain, e irá possuir sua própria DEX (troca descentralizada) sendo uma plataforma rápida e com melhor usabilidade no mercado. Será criado com o objetivo de eliminar muitos erros graves como transações lentas e taxas muito caras, por isso o que irá  fazer uma grande diferença e uma melhor experiência com aprovação de nossos investidores.
+O Token faz parte da Binance Smart Chain, e irá possuir sua própria DEX (troca descentralizada) sendo uma plataforma rápida e com melhor usabilidade no mercado. Será criado com o objetivo de eliminar muitos erros graves como transações lentas e taxas muito caras, isso irá  fazer uma grande diferença e uma melhor experiência com aprovação de nossos investidores.
 
 ## Vantagens
 

@@ -1,4 +1,4 @@
-# TOKENOMICS
+# ➡ TOKENOMICS
 
 ### <mark style="color:purple;background-color:purple;">Distribuição dos Tokens</mark>
 
@@ -34,7 +34,7 @@
 * [x] **70% DO SUPPLY É MINTADO AUTOMATICAMENTE PARA OS STAKES E FARMS , NOSSO SUPPLY TEM UM LIMITE DE 10.000.000.000 DE UNIDADES , APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
 
 {% hint style="danger" %}
-**ATENÇÃO MEDIDA ANTI BOT E ANTI DESPEJO !!**
+**ATENÇÃO MEDIDA ANTI BOT E ANTI DESPEJOS !!**
 
 1º SEMANA : TAXA DE VENDA 40%
 
@@ -49,7 +49,7 @@
 
 ## <mark style="color:purple;background-color:purple;">Taxas de transação:</mark> <mark style="color:purple;"></mark>&#x20;
 
-#### <mark style="color:purple;">1. Dos 8% em compras serão distribuídos:</mark>&#x20;
+#### 1. Dos 8% em compras serão distribuídos: <mark style="color:purple;"></mark>&#x20;
 
 <mark style="background-color:green;">**3% Renda Passiva**</mark> : Dessas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens e receba cardano a cada nova distribuição que você tiver.
 
@@ -59,7 +59,7 @@
 
 &#x20;<mark style="background-color:green;">**1% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilidade do preço e garantindo que aquele valor nunca será vendido.
 
-<mark style="color:purple;">**2. Dos 40% em vendas serão distribuídos:**</mark>&#x20;
+**2. Dos 40% em vendas serão distribuídos:**&#x20;
 
 <mark style="background-color:green;">**10% Renda Passiva**</mark> : Dessas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens e receba cardano a cada nova distribuição que você tiver.
 
@@ -68,4 +68,12 @@
 &#x20;<mark style="background-color:green;">**5% Liquidez**</mark> : É alocado ao pool de liquidez. A liquidez agregada ao pool promove a estabilidade de preços, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas.
 
 &#x20;<mark style="background-color:green;">**5% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilidade do preço e garantindo que aquele valor nunca será vendido.
+
+## <mark style="color:purple;background-color:purple;">Liquidez bloqueada:</mark>&#x20;
+
+Para a segurança de todos os titulares que deram um voto de confiança e para aqueles que querem fazer parte do sucesso do projeto colhendo frutos no futuro. Decidimos bloquear a liquidez para que eles possam ter a total confiança da equipe de desenvolvimento EVOC+ A liquidez é <mark style="background-color:purple;">**bloqueada por 2 anos via PinkSale**</mark><mark style="color:purple;">**,**</mark> que é uma das melhores no campo para bloqueios de liquidez. Viemos para combater a maioria dos projetos onde eles acabam destruindo os próprios projetos. E estamos falando de excelentes projetos que poderiam tomar proporções gigantescas.
+
+## <mark style="color:purple;background-color:purple;">**Fornecimento contínuo:**</mark>
+
+Os tokens mintable(mintados) são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são principalmente cunhos (criados) em plataformas de contratos inteligentes, como o Ethereum sendo o maior e mais popular para minerar novos tokens. Em um nível granular, os contratos inteligentes têm a função de cunhar novos tokens de acordo com a oferta predeterminada para os farms e recompensas. Assim que a função é acionada, novos tokens são criados, que são distribuídos no mercado. Temos um fornecimento total de 3.000.000.000 bilhões de moedas e um fornecimento total para ser mintado de 7.000.000.000 bilhões de moedas , após atingir esse limite não será possível mintar mais nenhum token.
 
