@@ -17,7 +17,7 @@ EvocSwap ajudará você a explorar suas negociações criptográficas, com uma e
 Troque instantaneamente suas criptomoedas: sem necessidade de registro com conta.
 {% endhint %}
 
-## Escolha do investidor&#x20;
+## A Melhor Escolha&#x20;
 
 O Token faz parte da Binance Smart Chain, e irá possuir sua própria DEX (troca descentralizada) sendo uma plataforma rápida e com melhor usabilidade no mercado. Será criado com o objetivo de eliminar muitos erros graves como transações lentas e taxas muito caras, isso irá  fazer uma grande diferença e trará uma melhor experiência para os nossos investidores.
 
