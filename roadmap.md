@@ -22,8 +22,8 @@ description: PROJECT SCRIPT
 
 * ❌Lançamento da DEX V1
 * ❌Ativação Gráfico de Velas
-* ❌Pré venda PinkSale
 * ❌Pré venda no PIX
+* ❌Pré venda PinkSale
 * ❌Marketing Lançamento
 * ❌Lançamento na Pancakeswap
 * ❌Publicidade com influenciadores
