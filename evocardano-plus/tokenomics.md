@@ -2,37 +2,36 @@
 
 ### <mark style="color:purple;background-color:purple;">Distribuição dos Tokens</mark>
 
-**TEMOS UM TOTAL INICIAL DE  3.000.000.000 (TRÊS BILHÕES) DE UNIDADES.**&#x20;
+**TEMOS UM TOTAL DE  10.000.000.000 (DEZ BILHÕES) DE UNIDADES.**&#x20;
 
-1\. (16,4%) = 492.000.000 - **** QUATRO CENTOS E NOVENTA E DOIS MILHÕES.
+1\. (4,92%) = 492.000.000 - **** QUATRO CENTOS E NOVENTA E DOIS MILHÕES.
 
 * **ANTIGOS HOLDERS/HARDFORK**
 
-2\. (53,60%) = 1.608.000.000 - UM BILHÃO SEIS CENTOS E OITO MILHÕES.
+2\. (16,08%) = 1.608.000.000 - UM BILHÃO SEIS CENTOS E OITO MILHÕES.
 
 * **PRÉ SALE/PINKSALE**
 * **LIQUIDEZ**
 
-3\. (10%)  = 300.000.000 - TREZENTOS MILHÕES
+3\. (3%)  = 300.000.000 - TREZENTOS MILHÕES
 
 * **PRÉ VENDA NO PIX**
 
-4\. (10%)  = 300.000.000 - TREZENTOS MILHÕES
+4\. (3%)  = 300.000.000 - TREZENTOS MILHÕES
 
 * **MARKETING**
 
-5\. (10%)  = 300.000.000 - TREZENTOS MILHÕES
+5\. (3%)  = 300.000.000 - TREZENTOS MILHÕES
 
 * **DESENVOLVEDORES**&#x20;
 
-6\. (FORNECIMENTO CONTÍNUO)  = 7.000.000.000 - SETE BILHÕES
+6\. (70%)  = 7.000.000.000 - SETE BILHÕES
 
-* **FARMS/STAKING**
-* **STAKING NFT**
+* **FARMS/STAKE**
 
 <!---->
 
-* [x] **70% DO FORNECIMENTO TOTAL É MINTADO AUTOMATICAMENTE PARA OS STAKING E FARMS , NOSSO FORNECIMENTO TOTAL TEM UM LIMITE DE 10.000.000.000 DE UNIDADES APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
+* [x] **70% DO SUPPLY É MINTADO AUTOMATICAMENTE PARA OS STAKES E FARMS , NOSSO SUPPLY TEM UM LIMITE DE 10.000.000.000 DE UNIDADES , APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
 
 {% hint style="danger" %}
 **ATENÇÃO MEDIDA ANTI BOT E ANTI DESPEJOS !!**
@@ -52,23 +51,23 @@
 
 #### 1. Dos 8% em compras serão distribuídos: <mark style="color:purple;"></mark>&#x20;
 
-<mark style="background-color:green;">**3% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
+<mark style="background-color:green;">**3% Renda Passiva**</mark> : Dessas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens e receba cardano a cada nova distribuição que você tiver.
 
-<mark style="background-color:green;">**3% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas no assunto.
+<mark style="background-color:green;">**3% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialista no assunto.
 
-&#x20;<mark style="background-color:green;">**1% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas.
+&#x20;<mark style="background-color:green;">**1% Liquidez**</mark> : É alocado ao pool de liquidez. A liquidez agregada ao pool promove a estabilidade de preços, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas.
 
-&#x20;<mark style="background-color:green;">**1% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
+&#x20;<mark style="background-color:green;">**1% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilidade do preço e garantindo que aquele valor nunca será vendido.
 
 **2. Dos 40% em vendas serão distribuídos:**&#x20;
 
-<mark style="background-color:green;">**10% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
+<mark style="background-color:green;">**10% Renda Passiva**</mark> : Dessas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens e receba cardano a cada nova distribuição que você tiver.
 
-<mark style="background-color:green;">**20% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas no mundo cripto.
+<mark style="background-color:green;">**20% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialista no assunto.
 
-&#x20;<mark style="background-color:green;">**5% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável assim evitando problemas na hora de fazer compras e vendas.
+&#x20;<mark style="background-color:green;">**5% Liquidez**</mark> : É alocado ao pool de liquidez. A liquidez agregada ao pool promove a estabilidade de preços, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas.
 
-&#x20;<mark style="background-color:green;">**5% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
+&#x20;<mark style="background-color:green;">**5% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilidade do preço e garantindo que aquele valor nunca será vendido.
 
 ## <mark style="color:purple;background-color:purple;">Liquidez bloqueada:</mark>&#x20;
 
@@ -76,5 +75,5 @@ Para a segurança de todos os titulares que deram um voto de confiança e para a
 
 ## <mark style="color:purple;background-color:purple;">**Fornecimento contínuo:**</mark>
 
-Os tokens mintable(mintados) são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são principalmente cunhos (criados) em plataformas de contratos inteligentes, como o Ethereum sendo o maior e mais popular para minerar novos tokens. Em um nível granular, os contratos inteligentes têm a função de cunhar novos tokens de acordo com a oferta predeterminada para os farms e recompensas. Assim que a função é acionada, novos tokens são criados, que são distribuídos no mercado. Temos um fornecimento total inicial de  3.000.000.000 bilhões de moedas e um fornecimento total para ser mintado de 7.000.000.000 bilhões de moedas , após atingir esse limite não será possível mintar mais nenhum token.
+Os tokens mintable(mintados) são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são principalmente cunhos (criados) em plataformas de contratos inteligentes, como o Ethereum sendo o maior e mais popular para minerar novos tokens. Em um nível granular, os contratos inteligentes têm a função de cunhar novos tokens de acordo com a oferta predeterminada para os farms e recompensas. Assim que a função é acionada, novos tokens são criados, que são distribuídos no mercado. Temos um fornecimento total de 3.000.000.000 bilhões de moedas e um fornecimento total para ser mintado de 7.000.000.000 bilhões de moedas , após atingir esse limite não será possível mintar mais nenhum token.
 
