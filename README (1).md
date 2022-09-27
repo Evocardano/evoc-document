@@ -2,6 +2,7 @@
 description: >-
   EvocSwap será executada em duas redes: Binance Smart Chain e Cardano NetWork ,
   na versão 2.0 após a atualização alonzo estiver 100% concluida.
+coverY: -1284.0378548895899
 ---
 
 # 🔄 EVOCSWAP
