@@ -1,3 +1,7 @@
+---
+description: Conheça um pouco mais sobre staking!
+---
+
 # 🪙 STAKING
 
 ### O QUE É STAKING?
