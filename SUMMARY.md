@@ -2,7 +2,7 @@
 
 * [ℹ INFORMATIVO](README.md)
 * [🔄 EVOCSWAP](<README (1).md>)
-  * [MARKETPLACE NFT](evocswap/marketplace-nft.md)
+  * [➡ MARKETPLACE NFT](evocswap/marketplace-nft.md)
   * [➡ LAUNCHPAD](evocswap/launchpad.md)
 * [🟣 EVOCARDANO PLUS](evocardano-plus/README.md)
   * [➡ TOKENOMICS](evocardano-plus/tokenomics.md)
