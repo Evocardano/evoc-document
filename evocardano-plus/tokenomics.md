@@ -54,7 +54,7 @@
 
 <mark style="background-color:green;">**3% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
 
-<mark style="background-color:green;">**3% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialista no assunto.
+<mark style="background-color:green;">**3% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas no assunto.
 
 &#x20;<mark style="background-color:green;">**1% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas.
 
