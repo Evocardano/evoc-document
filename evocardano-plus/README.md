@@ -16,7 +16,7 @@ Evocardano Plus será o token de governança da dex , o token principal onde os 
 
 ## Visões do Projeto
 
-Nossa visão é implementar nosso ecossistema na própria blockchain da cardano. Fazendo assim, a união da capitalização das duas redes. Assim podemos ter uma valorização extrema com a união das duas redes em Evocardano Plus. O ponto crucial e a importância de realmente sermos titulares deste projeto é que após juntarmos a capitalização de mercado das duas redes em nossa moeda, podemos ter uma valorização extrema. E será dessa forma que os investidores que sempre acreditaram no projeto, alcançarão o objetivo que sempre esperou.
+Nossa visão é implementar nosso ecossistema na própria blockchain da cardano. Fazendo assim, a união da capitalização das duas redes. Assim podemos ter uma valorização extrema com a união das duas redes em Evocardano Plus. O ponto crucial e a importância de realmente sermos titulares deste projeto é que após juntarmos a capitalização de mercado das duas redes em nossa moeda, podemos ter uma valorização extrema. E será dessa forma que os investidores que sempre acreditaram no projeto, vão alcançar o objetivo que sempre esperou.
 
 ## Introdução no mercado NFT
 
