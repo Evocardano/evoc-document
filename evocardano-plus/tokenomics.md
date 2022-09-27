@@ -32,7 +32,7 @@
 
 <!---->
 
-* [x] **70% DO SUPPLY É MINTADO AUTOMATICAMENTE PARA OS STAKING E FARMS , NOSSO SUPPLY TEM UM LIMITE DE 10.000.000.000 DE UNIDADES , APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
+* [x] **70% DO FORNECIMENTO TOTAL É MINTADO AUTOMATICAMENTE PARA OS STAKING E FARMS , NOSSO FORNECIMENTO TOTAL TEM UM LIMITE DE 10.000.000.000 DE UNIDADES APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
 
 {% hint style="danger" %}
 **ATENÇÃO MEDIDA ANTI BOT E ANTI DESPEJOS !!**
@@ -52,23 +52,23 @@
 
 #### 1. Dos 8% em compras serão distribuídos: <mark style="color:purple;"></mark>&#x20;
 
-<mark style="background-color:green;">**3% Renda Passiva**</mark> : Dessas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens e receba cardano a cada nova distribuição que você tiver.
+<mark style="background-color:green;">**3% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
 
 <mark style="background-color:green;">**3% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialista no assunto.
 
-&#x20;<mark style="background-color:green;">**1% Liquidez**</mark> : É alocado ao pool de liquidez. A liquidez agregada ao pool promove a estabilidade de preços, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas.
+&#x20;<mark style="background-color:green;">**1% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas.
 
-&#x20;<mark style="background-color:green;">**1% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilidade do preço e garantindo que aquele valor nunca será vendido.
+&#x20;<mark style="background-color:green;">**1% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
 
 **2. Dos 40% em vendas serão distribuídos:**&#x20;
 
-<mark style="background-color:green;">**10% Renda Passiva**</mark> : Dessas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens e receba cardano a cada nova distribuição que você tiver.
+<mark style="background-color:green;">**10% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
 
-<mark style="background-color:green;">**20% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialista no assunto.
+<mark style="background-color:green;">**20% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas no mundo cripto.
 
-&#x20;<mark style="background-color:green;">**5% Liquidez**</mark> : É alocado ao pool de liquidez. A liquidez agregada ao pool promove a estabilidade de preços, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas.
+&#x20;<mark style="background-color:green;">**5% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável assim evitando problemas na hora de fazer compras e vendas.
 
-&#x20;<mark style="background-color:green;">**5% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilidade do preço e garantindo que aquele valor nunca será vendido.
+&#x20;<mark style="background-color:green;">**5% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
 
 ## <mark style="color:purple;background-color:purple;">Liquidez bloqueada:</mark>&#x20;
 
