@@ -1,5 +1,19 @@
 # ➡ TOKENOMICS
 
+{% hint style="danger" %}
+**ATENÇÃO MEDIDA ANTI BOT E ANTI DESPEJOS  APÓS O LANÇAMENTO!!**
+
+1º SEMANA : TAXA DE VENDA 40%
+
+2º SEMANA : TAXA DE VENDA 30%
+
+3º SEMANA : TAXA DE VENDA 25%
+
+4º SEMANA : TAXA DE VENDA 20%
+
+<mark style="color:red;background-color:red;">**5º SEMANA : TAXA DE VENDA  FINAL 15% !!**</mark>
+{% endhint %}
+
 ### <mark style="color:purple;background-color:purple;">Distribuição dos Tokens</mark>
 
 **TEMOS UM TOTAL INICIAL DE  3.000.000.000 (TRÊS BILHÕES) DE UNIDADES.**&#x20;
@@ -8,7 +22,7 @@
 
 * **ANTIGOS HOLDERS/HARDFORK**
 
-2\. (53,60%) = 1.608.000.000 - UM BILHÃO SEIS CENTOS E OITO MILHÕES.
+2\. (53,6%) = 1.608.000.000 - UM BILHÃO SEIS CENTOS E OITO MILHÕES.
 
 * **PRÉ SALE/PINKSALE**
 * **LIQUIDEZ**
