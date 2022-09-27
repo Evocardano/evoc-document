@@ -2,36 +2,37 @@
 
 ### <mark style="color:purple;background-color:purple;">Distribuição dos Tokens</mark>
 
-**TEMOS UM TOTAL DE  10.000.000.000 (DEZ BILHÕES) DE UNIDADES.**&#x20;
+**TEMOS UM TOTAL INICIAL DE  3.000.000.000 (TRÊS BILHÕES) DE UNIDADES.**&#x20;
 
-1\. (4,92%) = 492.000.000 - **** QUATRO CENTOS E NOVENTA E DOIS MILHÕES.
+1\. (16,4%) = 492.000.000 - **** QUATRO CENTOS E NOVENTA E DOIS MILHÕES.
 
 * **ANTIGOS HOLDERS/HARDFORK**
 
-2\. (16,08%) = 1.608.000.000 - UM BILHÃO SEIS CENTOS E OITO MILHÕES.
+2\. (53,60%) = 1.608.000.000 - UM BILHÃO SEIS CENTOS E OITO MILHÕES.
 
 * **PRÉ SALE/PINKSALE**
 * **LIQUIDEZ**
 
-3\. (3%)  = 300.000.000 - TREZENTOS MILHÕES
+3\. (10%)  = 300.000.000 - TREZENTOS MILHÕES
 
 * **PRÉ VENDA NO PIX**
 
-4\. (3%)  = 300.000.000 - TREZENTOS MILHÕES
+4\. (10%)  = 300.000.000 - TREZENTOS MILHÕES
 
 * **MARKETING**
 
-5\. (3%)  = 300.000.000 - TREZENTOS MILHÕES
+5\. (10%)  = 300.000.000 - TREZENTOS MILHÕES
 
 * **DESENVOLVEDORES**&#x20;
 
-6\. (70%)  = 7.000.000.000 - SETE BILHÕES
+6\. (FORNECIMENTO CONTÍNUO)  = 7.000.000.000 - SETE BILHÕES
 
-* **FARMS/STAKE**
+* **FARMS/STAKING**
+* **STAKING NFT**
 
 <!---->
 
-* [x] **70% DO SUPPLY É MINTADO AUTOMATICAMENTE PARA OS STAKES E FARMS , NOSSO SUPPLY TEM UM LIMITE DE 10.000.000.000 DE UNIDADES , APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
+* [x] **70% DO SUPPLY É MINTADO AUTOMATICAMENTE PARA OS STAKING E FARMS , NOSSO SUPPLY TEM UM LIMITE DE 10.000.000.000 DE UNIDADES , APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
 
 {% hint style="danger" %}
 **ATENÇÃO MEDIDA ANTI BOT E ANTI DESPEJOS !!**
@@ -75,5 +76,5 @@ Para a segurança de todos os titulares que deram um voto de confiança e para a
 
 ## <mark style="color:purple;background-color:purple;">**Fornecimento contínuo:**</mark>
 
-Os tokens mintable(mintados) são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são principalmente cunhos (criados) em plataformas de contratos inteligentes, como o Ethereum sendo o maior e mais popular para minerar novos tokens. Em um nível granular, os contratos inteligentes têm a função de cunhar novos tokens de acordo com a oferta predeterminada para os farms e recompensas. Assim que a função é acionada, novos tokens são criados, que são distribuídos no mercado. Temos um fornecimento total de 3.000.000.000 bilhões de moedas e um fornecimento total para ser mintado de 7.000.000.000 bilhões de moedas , após atingir esse limite não será possível mintar mais nenhum token.
+Os tokens mintable(mintados) são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são principalmente cunhos (criados) em plataformas de contratos inteligentes, como o Ethereum sendo o maior e mais popular para minerar novos tokens. Em um nível granular, os contratos inteligentes têm a função de cunhar novos tokens de acordo com a oferta predeterminada para os farms e recompensas. Assim que a função é acionada, novos tokens são criados, que são distribuídos no mercado. Temos um fornecimento total inicial de  3.000.000.000 bilhões de moedas e um fornecimento total para ser mintado de 7.000.000.000 bilhões de moedas , após atingir esse limite não será possível mintar mais nenhum token.
 
