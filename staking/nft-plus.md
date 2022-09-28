@@ -12,9 +12,9 @@ Idealizada exclusivamente pelo projeto Evocardano serão NFT's lançadas diretam
 
 **Exemplo:**
 
-* NFT RARA🔵
-* NFT RUBY🔴
-* NFT LENDÁRIA🟠
+* **NFT RARA**🔵
+* **NFT RUBY**🔴
+* **NFT LENDÁRIA**🟠
 
 <div>
 
