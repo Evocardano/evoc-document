@@ -15,7 +15,7 @@
 
 _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CENTOS E NOVENTA E OITO MIL..._
 
-* [x] <mark style="background-color:purple;">**1**</mark><mark style="background-color:purple;">º</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**FASE**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;"></mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**PRÉ VENDA NO PIX ( PARCEIRO BUYPAYMENTS )**</mark>
+* [x] <mark style="background-color:purple;">**1**</mark><mark style="background-color:purple;">º</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**FASE**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;"></mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**PRÉ VENDA EVOCLAUNCH ( PARCEIRO BUYPAYMENTS )**</mark>
 
 4\. _(10%)  = 300.000.000 - TREZENTOS MILHÕES_
 
