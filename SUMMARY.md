@@ -3,9 +3,18 @@
 * [ℹ information](README.md)
 * [🌏 Overview](overview.md)
 
-## Group 1
+## EVOCSWAP ECOSYSTEM
 
-* [Page 1](group-1/page-1.md)
+* [🔂 EvocSwap](evocswap-ecosystem/evocswap.md)
+* [↪ Stake NFT](evocswap-ecosystem/stake-nft.md)
+* [↪ Farms](evocswap-ecosystem/farms.md)
+* [↪ Community Pools](evocswap-ecosystem/community-pools.md)
+* [🏬 Marketplace](evocswap-ecosystem/marketplace.md)
+
+## EVOCARDANO PLUS TOKEN
+
+* [➡ Tokenomics](evocardano-plus-token/tokenomics.md)
+* [➡ Contract](evocardano-plus-token/contract.md)
 
 ***
 
