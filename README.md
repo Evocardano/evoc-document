@@ -17,7 +17,9 @@ Com o tamanho do problema que pegamos qualquer outro projeto inventaria uma desc
 {% hint style="success" %}
 Mais a equipe Evocardano pensa diferente não queremos prejudicar ninguém a vida de milhares de pessoas podem ser mudadas por apenas uma única moeda Evocardano Plus.
 
-Estamos vindo com uma nova estrutura , um novo objetivo para continuar a nossa história e não será diferente construímos a nossa plataforma com uma função exclusiva •HARDFORK• que já está em vigor em ( [evoclaunch.com](https://www.evoclaunch.com/) ) e muitas pessoas já estão trocando suas moedas antigas pelas novas , essa função foi criada para facilitar a vida dos desenvolvedores na web 3.0 ela será bem utilizada pelos projetos que precisam atualizar o seu contrato e fazer a migração de contratos antigos para novos.
+O contrato já está preparado atualizado e corrigido estamos vindo com uma nova estrutura , um novo objetivo para continuar a nossa história e não será diferente construímos uma plataforma com uma função exclusiva •HARDFORK• que já está em vigor em
+
+&#x20;( [evoclaunch.com](https://www.evoclaunch.com/) ) e muitas pessoas já estão trocando suas moedas antigas pelas novas , essa função foi criada para facilitar a vida dos desenvolvedores na web 3.0 ela será bem utilizada pelos projetos que precisam atualizar o seu contrato e fazer a migração de contratos antigos para novos.
 
 Estamos vindo com diversas novidades , mas não podemos falar nesse momento 😎 aguardem... e apoie o projeto estaremos juntos até os primeiros 100 milhões de marketcap em 24 horas 🚀
 
