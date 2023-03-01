@@ -1,2 +1,3 @@
-# ↪ Stake NFT
+# 🪙 Stake NFT
 
+## In progress

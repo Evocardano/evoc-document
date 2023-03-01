@@ -48,7 +48,13 @@ Smartphones/mobile wallets allow you to access your cryptocurrencies virtually p
 
 This comparison table provides an overview of the most popular mobile wallets used with EvocSwap.
 
-<table><thead><tr><th>In</th><th>Trust Wallet</th><th>Metamask</th><th>SafePal</th><th data-hidden>Pocket Token</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td>Support for Binance Smart Chain</td><td>✅</td><td>⚠️</td><td>✅</td><td>✅</td><td></td><td></td></tr><tr><td>Integrated dApp browser</td><td><p>✅ Android</p><p>⚠️ iOS</p></td><td>➖</td><td>✅</td><td>✅</td><td></td><td></td></tr><tr><td>Hardware wallet compatible</td><td>➖</td><td>✅</td><td>🔶</td><td>➖</td><td></td><td></td></tr><tr><td>Open code (auditability))</td><td>✅</td><td>✅</td><td>➖</td><td>✅</td><td></td><td></td></tr><tr><td>Interact with BscScan (for advanced users!)</td><td>➖</td><td>✅</td><td>➖</td><td>➖</td><td></td><td></td></tr></tbody></table>
+| In                                          | Trust Wallet                  | Metamask | SafePal | Pocket Token |   |   |
+| ------------------------------------------- | ----------------------------- | -------- | ------- | ------------ | - | - |
+| Support for Binance Smart Chain             | ✅                             | ⚠️       | ✅       | ✅            |   |   |
+| Integrated dApp browser                     | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅       | ✅            |   |   |
+| Hardware wallet compatible                  | ➖                             | ✅        | 🔶      | ➖            |   |   |
+| Open code (auditability))                   | ✅                             | ✅        | ➖       | ✅            |   |   |
+| Interact with BscScan (for advanced users!) | ➖                             | ✅        | ➖       | ➖            |   |   |
 
 ⚠️ requires some configuration
 
@@ -136,7 +142,13 @@ Desktop wallets are available on your home computer or laptop. Wallets on your c
 
 This comparison table provides an overview of the most popular wallets used with EvocSwap.
 
-<table><thead><tr><th>Text</th><th>MetaMask</th><th>Carteira Binance</th><th data-hidden>Token Pocket</th></tr></thead><tbody><tr><td>Support for BNB Smart Chain</td><td>⚠️</td><td>✅</td><td>⚠️</td></tr><tr><td>Integrated DApp Browser</td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅</td><td>➖</td></tr><tr><td>Open source (audibility)</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Interacom BscScan (for advanced users)</td><td>✅</td><td>➖</td><td>➖</td></tr></tbody></table>
+| Text                                   | MetaMask | Carteira Binance | Token Pocket |
+| -------------------------------------- | -------- | ---------------- | ------------ |
+| Support for BNB Smart Chain            | ⚠️       | ✅                | ⚠️           |
+| Integrated DApp Browser                | ➖        | ➖                | ✅            |
+| Hardware wallet compatible             | ✅        | ✅                | ➖            |
+| Open source (audibility)               | ✅        | ✅                | ✅            |
+| Interacom BscScan (for advanced users) | ✅        | ➖                | ➖            |
 
 ⚠️ Requires some configuration.
 
