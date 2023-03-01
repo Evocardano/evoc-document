@@ -32,8 +32,6 @@
 
 ***
 
-* [🟣 EVOCARDANO PLUS](evocardano-plus/README.md)
-  * [➡ TOKENOMICS](evocardano-plus/tokenomics.md)
 * [🪙 STAKING](staking/README.md)
   * [➡ NFT PLUS](staking/nft-plus.md)
   * [➡ FARMS](staking/farms.md)

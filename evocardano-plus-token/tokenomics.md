@@ -17,18 +17,18 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 
 * [x] <mark style="background-color:purple;">**PRÉ VENDA NO PIX ( PARCEIRO BUYPAYMENTS )**</mark>
 
-4\. (10%)  = 300.000.000 - TREZENTOS MILHÕES
+4\. _(10%)  = 300.000.000 - TREZENTOS MILHÕES_
 
 * [x] <mark style="background-color:purple;">**MARKETING**</mark>
 
-5\. (10%)  = 300.000.000 - TREZENTOS MILHÕES
+5\. _(10%)  = 300.000.000 - TREZENTOS MILHÕES_
 
 * <mark style="background-color:purple;">**DESENVOLVEDORES**</mark>&#x20;
 
-6\. (FORNECIMENTO CONTÍNUO)  = 7.000.000.000 - SETE BILHÕES
+6\. _(FORNECIMENTO CONTÍNUO)  = 7.000.000.000 - SETE BILHÕES_
 
-* [x] **FARMS/STAKING**
-* [x] **STAKING NFT**
+* [x] <mark style="background-color:purple;">**FARMS/STAKING**</mark>
+* [x] <mark style="background-color:purple;">**STAKING NFT**</mark>
 
 ****
 
