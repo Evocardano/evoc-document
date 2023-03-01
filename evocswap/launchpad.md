@@ -1,3 +1,0 @@
-# ➡ LAUNCHPAD
-
-## EM DESENVOLVIMENTO...

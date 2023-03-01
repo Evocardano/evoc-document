@@ -15,12 +15,10 @@
 
 * [➡ Tokenomics](evocardano-plus-token/tokenomics.md)
 * [➡ Contract](evocardano-plus-token/contract.md)
+* [➡ Buy EvocPlus](evocardano-plus-token/buy-evocplus.md)
 
 ***
 
-* [🔄 EVOCSWAP](<README (1).md>)
-  * [➡ MARKETPLACE NFT](evocswap/marketplace-nft.md)
-  * [➡ LAUNCHPAD](evocswap/launchpad.md)
 * [🟣 EVOCARDANO PLUS](evocardano-plus/README.md)
   * [➡ TOKENOMICS](evocardano-plus/tokenomics.md)
 * [🪙 STAKING](staking/README.md)
