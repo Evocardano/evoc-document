@@ -4,7 +4,7 @@ description: Visão geral detalhada , do projeto evocardano plus.
 
 # 🌏 Overview
 
-Evocswap exchange descentralizada (DEX) é uma plataforma de negociação de criptomoedas que não depende de uma autoridade centralizada para gerenciar as transações. Em vez disso, as transações ocorrem diretamente entre os usuários, sem a necessidade de intermediários como bancos ou corretoras. Além disso possui o seu token principal Evocardano Plus esse token será responsável por governar a DEX trazendo maior volume de liquidez e transações , também tem o objetivo de trabalhar em várias redes atualmente rodando na rede bscscan evocardano plus busca o seu objetivo principal ser lançado dentro da rede Cardanoscan e assim se expandir em várias outras.
+Evocswap exchange descentralizada (DEX) é uma plataforma de negociação de criptomoedas que não depende de uma autoridade centralizada para gerenciar as transações. Em vez disso, as transações ocorrem diretamente entre os usuários, sem a necessidade de intermediários como bancos ou corretoras. Além disso possui sua criptomoeda principal Evocardano Plus esse token será responsável por governar a DEX trazendo maior volume de liquidez e transações , também tem o objetivo de trabalhar em várias redes atualmente rodando na rede bscscan evocardano plus busca o seu objetivo principal ser lançado dentro da rede Cardanoscan e assim se expandir em várias outras.
 
 A principal característica de uma DEX é que ela é construída em uma blockchain, geralmente na Ethereum, e usa contratos inteligentes para automatizar as operações de negociação. Esses contratos inteligentes executam as negociações de forma confiável e transparente, garantindo que as transações ocorram conforme as condições definidas pelos usuários.
 
@@ -22,6 +22,7 @@ O Mercado de criptomoedas é super crescente , todo ano existe milhares de pesso
 * Pré vendas manuais
 * Pré venda via PIX
 * KYC  AUDIT  SAFU&#x20;
+* Sistema de afiliados
 
 O interessante disso tudo é que todo esse sistema está ligado a evocardano plus a criptomoeda principal da DEX evocswap , e com o crescente volume de pessoas utilizando nossa plataforma nossa liquidez também será aumentada  pois quanto mais projetos lançados pela nossa plataforma maior será a valorização da nossa criptomoeda.
 
