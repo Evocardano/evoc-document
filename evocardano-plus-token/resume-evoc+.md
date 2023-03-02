@@ -4,7 +4,7 @@ description: >-
   na V1.0 e em breve na V2.0 que será executada na rede Cardanoscan.
 ---
 
-# ➡ Resume
+# ➡ Resume EVOC+
 
 ## Sobre o Projeto
 
@@ -14,7 +14,7 @@ Evocardano Plus será o token de governança , o token principal onde os investi
 
 ## Visão do Projeto
 
-Nossa visão inicial é construir o projeto na rede bscscan e ter estrutura suficiente para implementar nosso ecossistema na própria blockchain da cardano. Fazendo assim, a união da capitalização das duas redes , construindo estrutura para lançar em outras redes. Assim podemos ter uma valorização extrema com a união de várias redes em Evocardano Plus. O ponto crucial e a importância de realmente sermos titulares deste projeto é que após juntarmos a capitalização de mercado de várias redes em nossa moeda, podemos ter uma valorização extrema. E será dessa forma que os investidores que sempre acreditaram no projeto, vão alcançar o objetivo que sempre esperou.
+Nossa visão inicial é construir o projeto na rede bscscan e ter estrutura suficiente para implementar nosso ecossistema na própria blockchain da cardano. Fazendo assim, a união da capitalização das duas redes visando também construir estrutura para lançar em outras redes. Assim podemos ter uma valorização extrema com a união de várias redes em Evocardano Plus. O ponto crucial e a importância de realmente sermos titulares deste projeto é que após juntarmos a capitalização de mercado de várias redes em nossa moeda, podemos ter uma valorização extrema. E será dessa forma que os investidores que sempre acreditaram no projeto, vão alcançar o objetivo que sempre esperou.
 
 ## Introdução no mercado NFT
 

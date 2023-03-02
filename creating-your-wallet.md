@@ -100,32 +100,6 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 
 ****[**MetaMask guide settings**](https://docs.metamask.io/guide/#account-management)****
 {% endtab %}
-
-{% tab title="SafePal" %}
-![](.gitbook/assets/SafaPal.png)
-
-
-
-
-
-
-
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create and ready to ship BEP2 (Binin Chain) and BEP2 (BNB Smart Chain) wallet0 right away.&#x20;
-
-
-
-* Easily switch between multiple encryption networks
-* Offers 25% discount on fee when paying with BNB (login required)
-* Has the option for Google Authenticator built in
-* Support a large number of languages
-* The setup process is very simple
-* It is available as a software and hardware wallet (works together)
-* Supports NFTs on BSC and ETH networks
-
-****[**Download SafePal**](https://safepal.io/download) **(automatically detects the device)**                 &#x20;
-
-****[**Safepal Setup Guide**](https://docs.safepal.io/)****
-{% endtab %}
 {% endtabs %}
 
 ## **Desktop/Web Browser Wallets**

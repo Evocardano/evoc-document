@@ -1,12 +1,12 @@
 ---
 description: >-
-  Criada na rede Binance Smart Chain destinada a rede Cardanoscan uma DEX:
-  descentralizada com o objetivo de se expandir em várias redes.
+  Criada na rede Bscscan destinada a rede Cardanoscan uma DEX: descentralizada
+  com o objetivo de se expandir em várias redes.
 ---
 
 # 🔂 EvocSwap
 
-Focada em trabalhar na rede Cardanoscan a evocswap foi criada na rede Binance Smart Chain com o objetivo de se tornar uma DEX completa com funcionalidades inovadoras e eficaz em várias redes , o objetivo maior é fazer bridge com a rede Cardanoscan uma ponte onde será possivel negociar tokens das duas redes.
+Focada em trabalhar na rede Cardanoscan a evocswap foi criada na rede Bscscan com o objetivo de se tornar uma DEX completa com funcionalidades inovadoras e eficaz em várias redes , o objetivo maior é fazer bridge com a rede Cardanoscan uma ponte onde será possivel negociar tokens não só da rede cardano mais também de outras redes.
 
 {% hint style="success" %}
 EvocSwap ajudará você a explorar suas negociações criptográficas, com uma experiência simples e rápida em um só lugar.

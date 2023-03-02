@@ -13,7 +13,7 @@
 
 ## EVOCARDANO PLUS TOKEN
 
-* [➡ Resume Token](evocardano-plus-token/resume-token.md)
+* [➡ Resume EVOC+](evocardano-plus-token/resume-evoc+.md)
 * [➡ Tokenomics](evocardano-plus-token/tokenomics.md)
 * [➡ Contract](evocardano-plus-token/contract.md)
 * [➡ Buy EvocPlus](evocardano-plus-token/buy-evocplus.md)
@@ -32,10 +32,6 @@
 
 ***
 
-* [🪙 STAKING](staking/README.md)
-  * [➡ NFT PLUS](staking/nft-plus.md)
-  * [➡ FARMS](staking/farms.md)
-  * [➡ COMMUNITY POOLS](staking/community-pools.md)
 * [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
 * [🔁 DECENTRALIZED EXCHANGE](decentralized-exchange.md)
 * [✅ Connecting Your Wallet](connecting-your-wallet.md)

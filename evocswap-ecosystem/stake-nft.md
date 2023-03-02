@@ -39,5 +39,5 @@ Idealizada exclusivamente pelo projeto serão NFT's lançadas diretamente pelo p
 </div>
 
 {% hint style="info" %}
-Cada NFT Plus tem um preço inicial para o investidor comprar  e também existe uma porcentagem de recompensas pela utilidade delas, todas as artes lançadas pelo projeto são colecionáveis e você pode utilizar quantas você quiser em seu staking para aumentar os seus rendimentos. Quanto maior for o valor alocado em NFT's menor será a APR% mais a vantagem é que nem sempre serão lançadas as NFT Plus , o projeto poderá levar meses para lançar uma coleção , o que fortalece a escassez pelas artes e o que da força a elas no mercado de NFTs.
+Cada NFT Plus tem um preço inicial para o investidor comprar  e também existe uma porcentagem de recompensas pela utilidade delas, todas as artes lançadas pelo projeto são colecionáveis e você pode utilizar quantas você quiser em seu stake para aumentar os seus ganhos. Quanto maior for o valor alocado em NFT's menor será a APR% mais a vantagem é que nem sempre serão lançadas as NFT Plus , o projeto poderá levar meses para lançar uma coleção , o que fortalece a escassez pelas artes e o que da força a elas no mercado de NFTs.
 {% endhint %}
