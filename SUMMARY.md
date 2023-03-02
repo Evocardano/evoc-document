@@ -39,12 +39,6 @@
 
 * [💜 Donations](social-action/donations.md)
 
-***
-
-* [📈 ROADMAP](roadmap.md)
-* [💜 DONATIONS](donations.md)
-* [‼ DISCLAIMER](disclaimer.md)
-
 ## SOCIAL NETWORKS
 
 * [🇵🇹 TELEGRAM PT/BR](https://t.me/evocardanobrasil)

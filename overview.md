@@ -16,13 +16,13 @@ Apesar dessas limitações, as DEXs têm se tornado cada vez mais populares nos 
 
 O Mercado de criptomoedas é super crescente , todo ano existe milhares de pessoas no mundo que vão se adaptando ao mercado e vão  se tornando grandes investidores e também desenvolvedores , com essa visão decidimos criar uma Launchpad ICO que trata-se de uma plataforma de lançamentos onde qualquer desenvolvedor poderá fazer o lançamento do seu projeto com segurança e uma variedade de funções.
 
-* Lançamentos de tokens
-* Hardfork atualizações de projetos
-* Pré venda automática&#x20;
-* Pré vendas manuais
-* Pré venda via PIX
-* KYC  AUDIT  SAFU&#x20;
-* Sistema de afiliados em prevendas
+* _Lançamentos de tokens_
+* _Hardfork atualizações de projetos_
+* _Pré venda automática_&#x20;
+* _Pré vendas manuais_
+* _Pré venda via PIX_
+* _KYC  AUDIT  SAFU_&#x20;
+* _Sistema de afiliados em prevendas_
 
 O interessante disso tudo é que todo esse sistema está ligado a evocardano plus a criptomoeda principal da DEX evocswap , e com o crescente volume de pessoas utilizando nossa plataforma nossa liquidez também será aumentada  pois quanto mais projetos lançados pela nossa plataforma maior será a valorização da nossa criptomoeda.
 
