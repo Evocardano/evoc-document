@@ -21,7 +21,7 @@
 ## LAUNCHPAD ICO EVOCARDANO PLUS
 
 * [🔀 HardFork](launchpad-ico-evocardano-plus/hardfork.md)
-* [🤩 Launchs](launchpad-ico-evocardano-plus/launchs.md)
+* [🚀 Launchs](launchpad-ico-evocardano-plus/launchs.md)
 * [🫂 Affiliate System](launchpad-ico-evocardano-plus/affiliate-system.md)
 
 ## SECURITY OF THE ECOSYSTEM
