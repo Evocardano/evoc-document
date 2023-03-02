@@ -13,7 +13,7 @@
 
 ## EVOCARDANO PLUS TOKEN
 
-* [➡ Resume](evocardano-plus-token/resume.md)
+* [➡ Resume Token](evocardano-plus-token/resume-token.md)
 * [➡ Tokenomics](evocardano-plus-token/tokenomics.md)
 * [➡ Contract](evocardano-plus-token/contract.md)
 * [➡ Buy EvocPlus](evocardano-plus-token/buy-evocplus.md)
