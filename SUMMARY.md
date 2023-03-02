@@ -13,10 +13,10 @@
 
 ## EVOCARDANO PLUS TOKEN
 
-* [🟣 Resume EvocPlus](evocardano-plus-token/resume-evocplus.md)
+* [🟣 Resume EvocPlus](evocardano-plus-token/resume.md)
 * [🐳 Tokenomics](evocardano-plus-token/tokenomics.md)
 * [📃 Contract](evocardano-plus-token/contract.md)
-* [📶 Buy and EvocPlus](evocardano-plus-token/buy-and-evocplus.md)
+* [📶 Buy and EvocPlus](evocardano-plus-token/buy-evocplus.md)
 
 ## LAUNCHPAD ICO EVOCARDANO PLUS
 
@@ -27,6 +27,10 @@
 ## WALLET SETTINGS
 
 * [☑ Creating Your Wallet](wallet-settings/creating-your-wallet.md)
+
+## SOCIAL ACTION
+
+* [💜 Donations](social-action/donations.md)
 
 ***
 
