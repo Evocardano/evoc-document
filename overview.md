@@ -22,13 +22,15 @@ O Mercado de criptomoedas é super crescente , todo ano existe milhares de pesso
 * Pré vendas manuais
 * Pré venda via PIX
 * KYC  AUDIT  SAFU&#x20;
-* Sistema de afiliados
+* Sistema de afiliados em prevendas
 
 O interessante disso tudo é que todo esse sistema está ligado a evocardano plus a criptomoeda principal da DEX evocswap , e com o crescente volume de pessoas utilizando nossa plataforma nossa liquidez também será aumentada  pois quanto mais projetos lançados pela nossa plataforma maior será a valorização da nossa criptomoeda.
 
 ## MERCADO NFT
 
 O mercado de NFTs (Non-Fungible Tokens ou Tokens Não Fungíveis) é uma categoria relativamente nova de ativos digitais que tem atraído muita atenção nos últimos anos. A Evocswap está trazendo esse mercado para dentro do seu ecossistema nosso mercado NFT será único e exclusivo nunca visto no mercado atualmente com formas de aumentar os seus ganhos no stake com as artes que estarão a venda no marketplace.  NFTs são representações digitais únicas de um item, seja ele um arquivo de mídia, um tweet, um vídeo ou qualquer outro tipo de conteúdo digital. Eles são construídos usando a tecnologia blockchain, o que significa que cada NFT é autenticado como único e registrado publicamente em uma rede descentralizada.
+
+<figure><img src=".gitbook/assets/Block 1.jpg" alt=""><figcaption></figcaption></figure>
 
 Os NFTs permitem que os criadores de conteúdo monetizem seus trabalhos de maneira nova e emocionante. Eles oferecem aos compradores uma maneira de possuir e negociar itens digitais exclusivos e valiosos. O mercado de NFTs tem atraído artistas, músicos, atletas, celebridades e muitos outros, e tem sido responsável por algumas vendas notáveis. Por exemplo, em março de 2021, uma obra de arte digital do artista Beeple foi vendida por mais de US$ 69 milhões em um leilão da casa de leilões Christie's.
 

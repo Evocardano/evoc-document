@@ -13,7 +13,7 @@
 
 ## EVOCARDANO PLUS TOKEN
 
-* [➡ Resume EVOC+](evocardano-plus-token/resume-evoc+.md)
+* [➡ Resume EVOC+](evocardano-plus-token/resume.md)
 * [➡ Tokenomics](evocardano-plus-token/tokenomics.md)
 * [➡ Contract](evocardano-plus-token/contract.md)
 * [➡ Buy EvocPlus](evocardano-plus-token/buy-evocplus.md)
@@ -27,14 +27,9 @@
 ## WALLET SETTINGS
 
 * [Creating Your Wallet](wallet-settings/creating-your-wallet.md)
-* [Decentralized Exchange](wallet-settings/decentralized-exchange.md)
-* [Connecting Your Wallet](wallet-settings/connecting-your-wallet.md)
 
 ***
 
-* [🗃 CREATING YOUR WALLET](creating-your-wallet.md)
-* [🔁 DECENTRALIZED EXCHANGE](decentralized-exchange.md)
-* [✅ Connecting Your Wallet](connecting-your-wallet.md)
 * [📈 ROADMAP](roadmap.md)
 * [💜 DONATIONS](donations.md)
 * [‼ DISCLAIMER](disclaimer.md)
