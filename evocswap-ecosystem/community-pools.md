@@ -1,3 +1,3 @@
 # ↪ Community Pools
 
-## In progress
+## In Progress

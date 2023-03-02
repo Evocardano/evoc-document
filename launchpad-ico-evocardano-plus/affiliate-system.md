@@ -1,2 +1,2 @@
-# Affiliate System
+# 🫂 Affiliate System
 

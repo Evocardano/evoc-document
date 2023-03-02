@@ -1,3 +1,3 @@
-# ➡ Contract
+# 📃 Contract
 
 ## In progress

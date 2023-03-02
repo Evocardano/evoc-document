@@ -4,7 +4,7 @@ description: >-
   na V1.0 e em breve na V2.0 que será executada na rede Cardanoscan.
 ---
 
-# ➡ Resume EVOC+
+# 🟣 Resume EvocPlus
 
 ## Sobre o Projeto
 

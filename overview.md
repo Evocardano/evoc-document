@@ -4,7 +4,7 @@ description: Visão geral detalhada , do projeto evocardano plus.
 
 # 🌏 Overview
 
-Evocswap exchange descentralizada (DEX) é uma plataforma de negociação de criptomoedas que não depende de uma autoridade centralizada para gerenciar as transações. Em vez disso, as transações ocorrem diretamente entre os usuários, sem a necessidade de intermediários como bancos ou corretoras. Além disso possui sua criptomoeda principal Evocardano Plus esse token será responsável por governar a DEX trazendo maior volume de liquidez e transações , também tem o objetivo de trabalhar em várias redes atualmente rodando na rede bscscan evocardano plus busca o seu objetivo principal ser lançado dentro da rede Cardanoscan e assim se expandir em várias outras.
+Evocswap exchange descentralizada (DEX) é uma plataforma de negociação de criptomoedas que não depende de uma autoridade centralizada para gerenciar as transações. Em vez disso, as transações ocorrem diretamente entre os usuários, sem a necessidade de intermediários como bancos ou corretoras. Além disso possui sua criptomoeda principal Evocardano Plus esse cripto será responsável por governar a DEX trazendo maior volume de liquidez e transações , também tem o objetivo de trabalhar em várias redes atualmente rodando na rede bscscan evocardano plus busca o seu objetivo principal ser lançado dentro da rede Cardanoscan e assim se expandir em várias outras redes.
 
 A principal característica de uma DEX é que ela é construída em uma blockchain, geralmente na Ethereum, e usa contratos inteligentes para automatizar as operações de negociação. Esses contratos inteligentes executam as negociações de forma confiável e transparente, garantindo que as transações ocorram conforme as condições definidas pelos usuários.
 
@@ -33,6 +33,8 @@ O mercado de NFTs (Non-Fungible Tokens ou Tokens Não Fungíveis) é uma categor
 <figure><img src=".gitbook/assets/Block 1.jpg" alt=""><figcaption></figcaption></figure>
 
 Os NFTs permitem que os criadores de conteúdo monetizem seus trabalhos de maneira nova e emocionante. Eles oferecem aos compradores uma maneira de possuir e negociar itens digitais exclusivos e valiosos. O mercado de NFTs tem atraído artistas, músicos, atletas, celebridades e muitos outros, e tem sido responsável por algumas vendas notáveis. Por exemplo, em março de 2021, uma obra de arte digital do artista Beeple foi vendida por mais de US$ 69 milhões em um leilão da casa de leilões Christie's.
+
+<figure><img src=".gitbook/assets/3cd9879b37e0237cf86e2f13e9ae594c.png" alt=""><figcaption></figcaption></figure>
 
 Embora o mercado de NFTs ainda esteja em sua infância, ele está crescendo rapidamente e atraindo muita atenção. Os NFTs já estão sendo usados em uma variedade de setores, incluindo jogos, música, esportes, moda e muito mais. O futuro do mercado de NFTs é incerto, mas muitos especialistas acreditam que ele tem o potencial de se tornar uma nova classe de ativos digitais que pode mudar a maneira como as pessoas pensam sobre propriedade digital e colecionismo.
 

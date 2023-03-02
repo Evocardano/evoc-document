@@ -13,20 +13,20 @@
 
 ## EVOCARDANO PLUS TOKEN
 
-* [➡ Resume EVOC+](evocardano-plus-token/resume.md)
-* [➡ Tokenomics](evocardano-plus-token/tokenomics.md)
-* [➡ Contract](evocardano-plus-token/contract.md)
-* [➡ Buy EvocPlus](evocardano-plus-token/buy-evocplus.md)
+* [🟣 Resume EvocPlus](evocardano-plus-token/resume-evocplus.md)
+* [🐳 Tokenomics](evocardano-plus-token/tokenomics.md)
+* [📃 Contract](evocardano-plus-token/contract.md)
+* [📶 Buy and EvocPlus](evocardano-plus-token/buy-and-evocplus.md)
 
 ## LAUNCHPAD ICO EVOCARDANO PLUS
 
-* [HardFork](launchpad-ico-evocardano-plus/hardfork.md)
-* [Launchs](launchpad-ico-evocardano-plus/launchs.md)
-* [Affiliate System](launchpad-ico-evocardano-plus/affiliate-system.md)
+* [🔀 HardFork](launchpad-ico-evocardano-plus/hardfork.md)
+* [🤩 Launchs](launchpad-ico-evocardano-plus/launchs.md)
+* [🫂 Affiliate System](launchpad-ico-evocardano-plus/affiliate-system.md)
 
 ## WALLET SETTINGS
 
-* [Creating Your Wallet](wallet-settings/creating-your-wallet.md)
+* [☑ Creating Your Wallet](wallet-settings/creating-your-wallet.md)
 
 ***
 

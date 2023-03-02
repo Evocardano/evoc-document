@@ -1,4 +1,0 @@
-# ➡ Buy EvocPlus
-
-## In progress
-
