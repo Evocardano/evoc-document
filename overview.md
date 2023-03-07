@@ -38,6 +38,12 @@ Os NFTs permitem que os criadores de conteúdo monetizem seus trabalhos de manei
 
 Embora o mercado de NFTs ainda esteja em sua infância, ele está crescendo rapidamente e atraindo muita atenção. Os NFTs já estão sendo usados em uma variedade de setores, incluindo jogos, música, esportes, moda e muito mais. O futuro do mercado de NFTs é incerto, mas muitos especialistas acreditam que ele tem o potencial de se tornar uma nova classe de ativos digitais que pode mudar a maneira como as pessoas pensam sobre propriedade digital e colecionismo.
 
+## EVOCLAUNCH IA
 
+Inteligência Artificial (IA) é um ramo da ciência da computação que se concentra no desenvolvimento de sistemas capazes de executar tarefas que normalmente exigiriam inteligência humana para serem realizadas. Esses sistemas são projetados para simular o comportamento humano, incluindo a capacidade de aprender, raciocinar, perceber, compreender e interagir com o ambiente.&#x20;
 
-&#x20;
+A IA pode ser aplicada em diversas áreas, como em jogos, robótica, sistemas de recomendação, reconhecimento de voz, processamento de imagem, análise de dados e muito mais. Existem diferentes abordagens para o desenvolvimento de sistemas de IA, incluindo a programação lógica, a aprendizagem de máquina e as redes neurais.
+
+Nosso plano é introduzir uma função inteligente onde todos os investidores serão notificados quando houver um lançamento com uma boa probabilidade de ser um sucesso , com a ajuda da Inteligência Artificial pode ser possível também notificar quando um projeto que estiver para lançar com um nível baixo de confiança todos os investidores serem notificados também. Assim reduziremos a possibilidade de golpistas (Scam) obterem vantagens lezando as pessoas e trazendo ainda mais confiança para a nossa launchpad !
+
+<figure><img src=".gitbook/assets/ai-cloud-concept-with-robot-arm (1).jpg" alt=""><figcaption></figcaption></figure>
