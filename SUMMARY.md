@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ℹ INFORMATION](README.md)
+* [ℹ Information](README.md)
 * [🌏 Overview](overview.md)
 
 ## EVOCSWAP ECOSYSTEM
