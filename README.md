@@ -5,7 +5,7 @@ description: ⚠ ATENÇÃO HOLDERS
 # ℹ information
 
 {% hint style="danger" %}
-O projeto Evocardano , passou por uma longa atualização de contrato e está melhorando a DEX que será  também uma plataforma de lançamentos ICO  para que possa trazer uma boa liquidez para todos nós. Pedimos desculpas a todos pela demora mais essas alterações foram necessárias quem está no projeto dês do começo sabe toda a nossa história nosso comprometimento , dedicação e transparência  , conseguimos várias conquistas como:
+O projeto Evocardano , passou por uma longa atualização de contrato e está melhorando a DEX vamos ser também uma plataforma de lançamentos ICO  para que possa trazer uma boa liquidez para todos nós. Pedimos desculpas a todos pela demora mais essas alterações foram necessárias quem está no projeto dês do começo sabe toda a nossa história nosso comprometimento , dedicação e transparência  , conseguimos várias conquistas como:
 
 • CMC • CG • BigONE • CertiK • Cardanoscan •&#x20;
 
