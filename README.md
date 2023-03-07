@@ -1,7 +1,7 @@
 ---
 description: ⚠ ATENÇÃO HOLDERS
 cover: .gitbook/assets/wvc.png
-coverY: -14
+coverY: -32.05486284289277
 ---
 
 # ℹ information
