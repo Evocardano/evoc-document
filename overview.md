@@ -48,4 +48,4 @@ A IA pode ser aplicada em diversas áreas, como em jogos, robótica, sistemas de
 
 Nosso plano é introduzir uma função inteligente onde todos os investidores serão notificados quando houver um lançamento com uma boa probabilidade de ser um sucesso , com a ajuda da Inteligência Artificial pode ser possível também notificar quando um projeto que estiver para lançar com um nível baixo de confiança todos os investidores serem notificados também. Assim reduziremos a possibilidade de golpistas (Scam) obterem vantagens lezando as pessoas e trazendo ainda mais confiança para a nossa launchpad !
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ai-cloud-concept-with-robot-arm.jpg" alt=""><figcaption></figcaption></figure>
