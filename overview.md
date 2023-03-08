@@ -4,9 +4,11 @@ description: Visão geral detalhada , do projeto evocardano plus.
 
 # 🌏 Overview
 
-Evocswap exchange descentralizada (DEX) é uma plataforma de negociação de criptomoedas que não depende de uma autoridade centralizada para gerenciar as transações. Em vez disso, as transações ocorrem diretamente entre os usuários, sem a necessidade de intermediários como bancos ou corretoras. Além disso possui sua criptomoeda principal Evocardano Plus esse cripto será responsável por governar a DEX trazendo maior volume de liquidez e transações , também tem o objetivo de trabalhar em várias redes atualmente rodando na rede bscscan evocardano plus busca o seu objetivo principal ser lançado dentro da rede Cardanoscan e assim se expandir em várias outras redes.
+Evocswap exchange descentralizada (DEX) é uma plataforma de negociação de criptomoedas que não depende de uma autoridade centralizada para gerenciar as transações. Em vez disso, as transações ocorrem diretamente entre os usuários, sem a necessidade de intermediários como bancos ou corretoras. Além disso possui sua criptomoeda principal evocardano plus essa cripto será responsável por governar a DEX trazendo maior volume de liquidez e transações , também tem o objetivo de trabalhar em várias redes atualmente rodando na rede bscscan evocardano plus busca o seu objetivo principal ser lançado dentro da rede Cardanoscan e assim se expandir em várias outras redes.
 
-A principal característica de uma DEX é que ela é construída em uma blockchain, geralmente na Ethereum, e usa contratos inteligentes para automatizar as operações de negociação. Esses contratos inteligentes executam as negociações de forma confiável e transparente, garantindo que as transações ocorram conforme as condições definidas pelos usuários.
+A principal característica de uma DEX é que ela é construída em uma blockchain, geralmente na Ethereum, e usa contratos inteligentes para automatizar as operações de negociação. Esses contratos inteligentes executam as negociações de forma confiável e transparente, garantindo que as transações ocorram conforme as condições definidas pelos usuários. Todos os contratos envolvidos no projeto evocardano plus são seguros e verificados , e possui funções Proof-of-Stake capaz de ser ativada ou desativada a qualquer momento essa função traz a possibilidade dos investidores receber renda passiva a cada nova transação de compra e de venda!
+
+<figure><img src=".gitbook/assets/png.png" alt=""><figcaption></figcaption></figure>
 
 Uma das principais vantagens de uma DEX é a segurança e a privacidade que ela oferece. Como as transações ocorrem diretamente entre os usuários, não há necessidade de fornecer informações pessoais ou confidenciais para ter acesso à plataforma. Além disso, como as negociações são executadas automaticamente pelos contratos inteligentes, não há risco de manipulação de mercado ou de hacks que possam afetar o funcionamento da plataforma.
 
@@ -46,4 +48,4 @@ A IA pode ser aplicada em diversas áreas, como em jogos, robótica, sistemas de
 
 Nosso plano é introduzir uma função inteligente onde todos os investidores serão notificados quando houver um lançamento com uma boa probabilidade de ser um sucesso , com a ajuda da Inteligência Artificial pode ser possível também notificar quando um projeto que estiver para lançar com um nível baixo de confiança todos os investidores serem notificados também. Assim reduziremos a possibilidade de golpistas (Scam) obterem vantagens lezando as pessoas e trazendo ainda mais confiança para a nossa launchpad !
 
-<figure><img src=".gitbook/assets/ai-cloud-concept-with-robot-arm (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
