@@ -11,8 +11,6 @@ A equipe está localizada no  Brasil e na França , todos trabalham remotamente 
 ## INTRODUCING OUR TEAM&#x20;
 
 {% hint style="success" %}
-EQUIPE :
-
 • CFO - Oliver
 
 • CEO - Igor Leão ( President )
