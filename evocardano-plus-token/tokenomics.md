@@ -1,8 +1,14 @@
+---
+description: >-
+  Abaixo você encontra todos os detalhes das distribuições dos tokens do
+  projeto.
+---
+
 # 🐳 Tokenomics
 
-## Distribuição dos Tokens
+## <mark style="color:purple;">DISTRIBUTION OF TOKENS</mark>
 
-<figure><img src="../.gitbook/assets/area-de-traballho.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tokenomics.png" alt=""><figcaption></figcaption></figure>
 
 **TEMOS UM TOTAL INICIAL DE  3.000.000.000 (TRÊS BILHÕES) DE UNIDADES.**&#x20;
 
@@ -50,7 +56,7 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 <mark style="color:red;background-color:red;">**5º SEMANA : TAXA DE VENDA  FINAL 15% !!**</mark>
 {% endhint %}
 
-## Taxas de transação: <mark style="color:purple;"></mark>&#x20;
+## <mark style="color:purple;">TRANSACTION FEES</mark>&#x20;
 
 #### 1. Dos 8% em compras serão distribuídos: <mark style="color:purple;"></mark>&#x20;
 
@@ -72,10 +78,10 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 
 <mark style="background-color:red;">**5% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
 
-## Liquidez bloqueada:&#x20;
+## <mark style="color:purple;">BLOCKED LIQUIDITY</mark>&#x20;
 
 Para a segurança de todos os titulares que deram um voto de confiança e para aqueles que querem fazer parte do sucesso do projeto colhendo frutos no futuro. Decidimos bloquear a liquidez para que eles possam ter a total confiança da equipe de desenvolvimento EVOC+ A liquidez é <mark style="background-color:green;">**bloqueada por 2 anos via PinkSale**</mark><mark style="color:purple;">**,**</mark> que é uma das melhores no campo para bloqueios de liquidez. Viemos para combater a maioria dos projetos onde eles acabam destruindo os próprios projetos. E estamos falando de excelentes projetos que poderiam tomar proporções gigantescas.
 
-## **Fornecimento contínuo:**
+## <mark style="color:purple;">CONTINUOUS SUPPLY</mark>
 
 Os tokens mintable(mintados) são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são principalmente cunhos (criados) em plataformas de contratos inteligentes, como o Ethereum sendo o maior e mais popular para minerar novos tokens. Em um nível granular, os contratos inteligentes têm a função de cunhar novos tokens de acordo com a oferta predeterminada para os farms e recompensas. Assim que a função é acionada, novos tokens são criados, que são distribuídos no mercado. Temos um fornecimento total inicial de  3.000.000.000 bilhões de moedas e um fornecimento total para ser mintado de 7.000.000.000 bilhões de moedas , após atingir esse limite não será possível mintar mais nenhum token.
