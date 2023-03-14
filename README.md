@@ -4,7 +4,7 @@ cover: .gitbook/assets/wvc.png
 coverY: -32.05486284289277
 ---
 
-# ℹ information
+# ℹ Information
 
 {% hint style="danger" %}
 O projeto Evocardano , passou por uma longa atualização de contrato e está melhorando a DEX vamos ser também uma plataforma de lançamentos ICO  para que possa trazer uma boa liquidez para todos nós. Pedimos desculpas a todos pela demora mais essas alterações foram necessárias quem está no projeto dês do começo sabe toda a nossa história nosso comprometimento , dedicação e transparência  , conseguimos várias conquistas como:
@@ -19,7 +19,7 @@ Com o tamanho do problema que pegamos qualquer outro projeto inventaria uma desc
 {% hint style="success" %}
 Mais a equipe Evocardano pensa diferente não queremos prejudicar ninguém a vida de milhares de pessoas podem ser mudadas por apenas uma única moeda Evocardano Plus.
 
-O contrato já está preparado atualizado e corrigido estamos vindo com uma nova estrutura , um novo objetivo para continuar a nossa história e não será diferente construímos uma plataforma com uma função exclusiva •HARDFORK• que já está em vigor em
+O contrato já está preparado atualizado e corrigido estamos vindo com uma nova estrutura , um novo objetivo para continuar a nossa história e não será diferente construímos uma plataforma com uma função exclusiva •HARDFORK• que já está em vigor.
 
 &#x20;( [evoclaunch.com](https://www.evoclaunch.com/) ) e muitas pessoas já estão trocando suas moedas antigas pelas novas , essa função foi criada para facilitar a vida dos desenvolvedores na web 3.0 ela será bem utilizada pelos projetos que precisam atualizar o seu contrato e fazer a migração de contratos antigos para novos.
 
