@@ -1,7 +1,5 @@
 ---
-description: >-
-  Abaixo você encontra todos os detalhes das distribuições dos tokens do
-  projeto.
+description: Abaixo você encontra todos os detalhes da distribuição de tokens do projeto.
 ---
 
 # 🐳 Tokenomics
