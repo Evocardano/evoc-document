@@ -2,7 +2,7 @@
 
 ## QUEM CRIOU A EVOCARDANO PLUS?
 
-O Projeto Evocardano Plus foi fundado pelo CFO - Oliver atualmente experiente no mercado de criptoativos  sórcio e administrador geral do projeto.&#x20;
+O Projeto Evocardano Plus foi fundado pelo CFO - Oliver atualmente experiente no mercado de criptoativos  e administrador geral do projeto.&#x20;
 
 ## DE ONDE É A EQUIPE ?
 
