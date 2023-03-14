@@ -80,7 +80,7 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 
 ## <mark style="color:purple;">BLOCKED LIQUIDITY</mark>&#x20;
 
-Para a segurança de todos os titulares que deram um voto de confiança e para aqueles que querem fazer parte do sucesso do projeto colhendo frutos no futuro. Decidimos bloquear a liquidez para que eles possam ter a total confiança da equipe de desenvolvimento EVOC+ A liquidez é <mark style="background-color:green;">**bloqueada por 2 anos via PinkSale**</mark><mark style="color:purple;">**,**</mark> que é uma das melhores no campo para bloqueios de liquidez. Viemos para combater a maioria dos projetos onde eles acabam destruindo os próprios projetos. E estamos falando de excelentes projetos que poderiam tomar proporções gigantescas.
+Para a segurança de todos os titulares que deram um voto de confiança e para aqueles que querem fazer parte do sucesso do projeto colhendo frutos no futuro. Decidimos bloquear a liquidez para que eles possam ter a total confiança da equipe de desenvolvimento EVOC+ A liquidez é <mark style="background-color:green;">**bloqueada por 2 anos via PinkSale**</mark>, que é uma das melhores no campo para bloqueios de liquidez. Viemos para combater a maioria dos projetos onde eles acabam destruindo os próprios projetos. E estamos falando de excelentes projetos que poderiam tomar proporções gigantescas.
 
 ## <mark style="color:purple;">CONTINUOUS SUPPLY</mark>
 
