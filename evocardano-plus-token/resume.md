@@ -22,4 +22,4 @@ Nossa visão inicial é construir o projeto na rede bscscan e ter estrutura sufi
 
 <figure><img src="../.gitbook/assets/6619937.jpg" alt=""><figcaption></figcaption></figure>
 
-Um dos maiores e crescentes mercados do mundo atualmente é o mercado de NFT's , com isso Evocardano Plus se tornará uma moeda para compra de  NFT's onde na rede bscscan, a equipe irá introduzir um mercado de NFT's onde qualquer titular pode criar sua NFT, comprar com EVOC+ e ser proprietário melhorando ainda mais a sustentabilidade e criando um volume maior de marketcap da moeda e também poderá vende-las quando quiser.
+Um dos maiores e crescentes mercados do mundo atualmente é o mercado de NFT's , com isso Evocardano Plus se tornará uma moeda para compra de  NFT's onde na rede bscscan, a equipe irá introduzir um mercado de NFT's onde qualquer titular pode criar sua NFT, comprar com EVOC+ e ser proprietário melhorando ainda mais a sustentabilidade e criando um volume maior de marketcap da moeda e também poderá vendê-las quando quiser.
