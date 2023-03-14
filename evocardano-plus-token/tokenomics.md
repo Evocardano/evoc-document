@@ -2,6 +2,8 @@
 
 ## Distribuição dos Tokens
 
+<figure><img src="../.gitbook/assets/area-de-traballho.png" alt=""><figcaption></figcaption></figure>
+
 **TEMOS UM TOTAL INICIAL DE  3.000.000.000 (TRÊS BILHÕES) DE UNIDADES.**&#x20;
 
 1. _(18,07%) = 542.101.625,28 - QUIENTOS E QUARENTA E DOIS MILHÕES CENTO E UM MIL SEIS CENTOS E VINTE E CINCO._
@@ -70,12 +72,10 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 
 <mark style="background-color:red;">**5% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
 
-## [Liquidez bloqueada:](#user-content-fn-1)[^1]&#x20;
+## Liquidez bloqueada:&#x20;
 
 Para a segurança de todos os titulares que deram um voto de confiança e para aqueles que querem fazer parte do sucesso do projeto colhendo frutos no futuro. Decidimos bloquear a liquidez para que eles possam ter a total confiança da equipe de desenvolvimento EVOC+ A liquidez é <mark style="background-color:green;">**bloqueada por 2 anos via PinkSale**</mark><mark style="color:purple;">**,**</mark> que é uma das melhores no campo para bloqueios de liquidez. Viemos para combater a maioria dos projetos onde eles acabam destruindo os próprios projetos. E estamos falando de excelentes projetos que poderiam tomar proporções gigantescas.
 
 ## **Fornecimento contínuo:**
 
 Os tokens mintable(mintados) são os tipos de tokens criados sem realizar nenhuma atividade relacionada ao consenso subjacente. Esses tokens são principalmente cunhos (criados) em plataformas de contratos inteligentes, como o Ethereum sendo o maior e mais popular para minerar novos tokens. Em um nível granular, os contratos inteligentes têm a função de cunhar novos tokens de acordo com a oferta predeterminada para os farms e recompensas. Assim que a função é acionada, novos tokens são criados, que são distribuídos no mercado. Temos um fornecimento total inicial de  3.000.000.000 bilhões de moedas e um fornecimento total para ser mintado de 7.000.000.000 bilhões de moedas , após atingir esse limite não será possível mintar mais nenhum token.
-
-[^1]: 
