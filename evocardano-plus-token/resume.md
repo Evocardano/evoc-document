@@ -1,7 +1,7 @@
 ---
 description: >-
-  EVOC+ criado na rede Bscscan, possui sua própria DEX  atualmente em execução
-  na V1.0 e em breve na V2.0 que será executada na rede Cardanoscan.
+  EVOC+ was created on the Bscscan network and has its own DEX currently running
+  on V1.0 and soon on V2.0, which will run on the Cardanoscan network.
 ---
 
 # 🟣 Resume EvocPlus
