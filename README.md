@@ -7,23 +7,11 @@ coverY: -32.05486284289277
 # ℹ Information
 
 {% hint style="danger" %}
-O projeto Evocardano , passou por uma longa atualização de contrato e está melhorando a DEX vamos ser também uma plataforma de lançamentos ICO  para que possa trazer uma boa liquidez para todos nós. Pedimos desculpas a todos pela demora mais essas alterações foram necessárias quem está no projeto dês do começo sabe toda a nossa história nosso comprometimento , dedicação e transparência  , conseguimos várias conquistas como:
-
-• CMC • CG • BigONE • CertiK • Cardanoscan •&#x20;
-
-Atingimos um milhão de USDT negociados em 24 horas trazendo muito lucro e valorização a todos. Mais uma dessas listagens nos trouxe muito problema por ser uma corretora fantasma. Com o apoio da comunidade e influência da mesma conseguimos 500 cadastros pedidos pela BigONE para ser listado o que parecia ser uma listagem grátis saiu muito caro sugaram parte do nosso caixa e ficamos com poucos USDT para dar continuidade ao marketing e a conclusão do projeto pois todo dinheiro que foi gasto na listagem BigONE não teve resultado. Outro grande problema era o nosso contrato que não tinha funções necessárias para segurar a venda e ter o controle  que fazia a distribuição das ADAS aos investidores.&#x20;
-
-Com o tamanho do problema que pegamos qualquer outro projeto inventaria uma desculpa e acabaria com o sonho de todos.
+The Evocardano project has undergone a lengthy contract update and is improving the DEX. We will also be a platform for ICO launches to bring good liquidity to all of us. We apologize to everyone for the delay, but these changes were necessary. Those who have been with the project since the beginning know our entire history, our commitment, dedication, and transparency. We have achieved several accomplishments, such as CMC, CG, BigONE, CertiK, and Cardanoscan. We reached one million USDT traded in 24 hours, bringing much profit and appreciation to everyone. However, one of these listings brought us a lot of problems because it was a ghost exchange. With the support and influence of the community, we managed to get 500 signups requested by BigONE to be listed, which seemed like a free listing but ended up being very expensive. They drained some of our funds, leaving us with little USDT to continue marketing and concluding the project because all the money spent on the BigONE listing had no results. Another major problem was our contract, which lacked necessary functions to hold the sale and have control over the distribution of ADA rewards to investors. With the size of the problem we faced, any other project would invent an excuse and end the dream for everyone.
 {% endhint %}
 
 {% hint style="success" %}
-Mais a equipe Evocardano pensa diferente não queremos prejudicar ninguém a vida de milhares de pessoas podem ser mudadas por apenas uma única moeda Evocardano Plus.
-
-O contrato já está preparado atualizado e corrigido estamos vindo com uma nova estrutura , um novo objetivo para continuar a nossa história e não será diferente construímos uma plataforma com uma função exclusiva •HARDFORK• que já está em vigor.
-
-&#x20;( [evoclaunch.com](https://www.evoclaunch.com/) ) e muitas pessoas já estão trocando suas moedas antigas pelas novas , essa função foi criada para facilitar a vida dos desenvolvedores na web 3.0 ela será bem utilizada pelos projetos que precisam atualizar o seu contrato e fazer a migração de contratos antigos para novos.
-
-Estamos vindo com diversas novidades , mas não podemos falar nesse momento 😎 aguardem... e apoie o projeto estaremos juntos até os primeiros 100 milhões de marketcap em 24 horas 🚀
+The Evocardano team thinks differently. We don't want to harm anyone, and the lives of thousands of people can be changed by just one coin, Evocardano Plus. The contract is already prepared, updated, and corrected, and we're coming with a new structure and a new goal to continue our story. It won't be different. We built a platform with a unique function, HARD FORK, which is already in effect ([evoclaunch.com](https://www.evoclaunch.com/)), and many people are already exchanging their old coins for the new ones. This function was created to make the lives of developers in web 3.0 easier and will be well-utilized by projects that need to update their contract and migrate from old contracts to new ones. We're coming with many exciting things, but we can't talk about them at the moment 😎. Please wait and support the project. We'll be together until the first 100 million market cap in 24 hours 🚀.
 
 
 {% endhint %}
