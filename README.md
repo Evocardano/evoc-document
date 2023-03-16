@@ -1,5 +1,5 @@
 ---
-description: ⚠ ATENÇÃO HOLDERS
+description: ⚠ ATTENTION HOLDERS ⚠
 cover: .gitbook/assets/wvc.png
 coverY: -32.05486284289277
 ---
