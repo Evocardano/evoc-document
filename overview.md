@@ -4,48 +4,40 @@ description: Visão geral detalhada , do projeto evocardano plus.
 
 # 🌏 Overview
 
-Evocswap exchange descentralizada (DEX) é uma plataforma de negociação de criptomoedas que não depende de uma autoridade centralizada para gerenciar as transações. Em vez disso, as transações ocorrem diretamente entre os usuários, sem a necessidade de intermediários como bancos ou corretoras. Além disso possui sua criptomoeda principal evocardano plus essa cripto será responsável por governar a DEX trazendo maior volume de liquidez e transações , também tem o objetivo de trabalhar em várias redes atualmente rodando na rede bscscan evocardano plus busca o seu objetivo principal ser lançado dentro da rede Cardanoscan e assim se expandir em várias outras redes.
+Evocswap is a decentralized cryptocurrency trading platform that doesn't rely on a centralized authority to manage transactions. Instead, transactions occur directly between users without the need for intermediaries such as banks or brokerages. Additionally, it has its own main cryptocurrency called evocardano plus, which is responsible for governing the DEX, bringing in greater liquidity and transactions, and aims to work on multiple networks. Currently running on the Bscscan network, evocardano plus aims to be launched within the Cardanoscan network and expand to various other networks.
 
-A principal característica de uma DEX é que ela é construída em uma blockchain, geralmente na Ethereum, e usa contratos inteligentes para automatizar as operações de negociação. Esses contratos inteligentes executam as negociações de forma confiável e transparente, garantindo que as transações ocorram conforme as condições definidas pelos usuários. Todos os contratos envolvidos no projeto evocardano plus são seguros e verificados , e possui funções Proof-of-Stake capaz de ser ativada ou desativada a qualquer momento essa função traz a possibilidade dos investidores receber renda passiva a cada nova transação de compra e de venda!
+The main characteristic of a DEX is that it is built on a blockchain, usually on Ethereum, and uses smart contracts to automate trading operations. These smart contracts execute trades reliably and transparently, ensuring that transactions occur according to the conditions set by users. All contracts involved in the evocardano plus project are secure and verified, and have Proof-of-Stake functions that can be activated or deactivated at any time. This function brings the possibility of investors receiving passive income with each new buy and sell transaction!
 
 <figure><img src=".gitbook/assets/png.png" alt=""><figcaption></figcaption></figure>
 
-Uma das principais vantagens de uma DEX é a segurança e a privacidade que ela oferece. Como as transações ocorrem diretamente entre os usuários, não há necessidade de fornecer informações pessoais ou confidenciais para ter acesso à plataforma. Além disso, como as negociações são executadas automaticamente pelos contratos inteligentes, não há risco de manipulação de mercado ou de hacks que possam afetar o funcionamento da plataforma.
+One of the main advantages of a DEX is the security and privacy it offers. As transactions occur directly between users, there is no need to provide personal or confidential information to access the platform. Additionally, since trades are executed automatically by smart contracts, there is no risk of market manipulation or hacks that could affect the platform's functioning.
 
-Apesar dessas limitações, as DEXs têm se tornado cada vez mais populares nos últimos anos, principalmente por conta das preocupações crescentes em relação à segurança e privacidade dos dados pessoais. Além disso, as DEXs também estão ajudando a promover a descentralização do ecossistema de criptomoedas, permitindo que os usuários tenham mais controle sobre suas transações e investimentos.
+Despite these limitations, DEXs have become increasingly popular in recent years, mainly due to growing concerns regarding the security and privacy of personal data. Furthermore, DEXs are also helping to promote the decentralization of the cryptocurrency ecosystem, allowing users to have more control over their transactions and investments.
 
 ## A EXPANSÃO&#x20;
 
-O Mercado de criptomoedas é super crescente , todo ano existe milhares de pessoas no mundo que vão se adaptando ao mercado e vão  se tornando grandes investidores e também desenvolvedores , com essa visão decidimos criar uma Launchpad ICO que trata-se de uma plataforma de lançamentos onde qualquer desenvolvedor poderá fazer o lançamento do seu projeto com segurança e uma variedade de funções.
+The cryptocurrency market is booming, with thousands of people around the world adapting to the market and becoming big investors and developers every year. With this vision in mind, we decided to create an ICO Launchpad, which is a launch platform where any developer can launch their project with security and a variety of functions.
 
-* _Lançamentos de tokens_
-* _Hardfork atualizações de contratos_
-* _Pré venda automática_&#x20;
-* _Pré vendas manuais_
-* _Pré venda via PIX_
-* _KYC  AUDIT  SAFU_&#x20;
-* _Sistema de afiliados em pré vendas_
-
-O interessante disso tudo é que todo esse sistema está ligado a evocardano plus a criptomoeda principal da DEX evocswap , e com o crescente volume de pessoas utilizando nossa plataforma nossa liquidez também será aumentada  pois quanto mais projetos lançados pela nossa plataforma maior será a valorização da nossa criptomoeda.
+These functions include token launches, hardfork updates to contracts, automatic and manual pre-sales, pre-sales via PIX, KYC, AUDIT, SAFU, and an affiliate system for pre-sales. What's interesting is that this entire system is connected to Evocardano Plus, the main cryptocurrency of the Evocswap DEX. As more and more projects are launched on our platform, our liquidity will also increase, as the value of our cryptocurrency will increase as well.
 
 ## MERCADO NFT
 
-O mercado de NFTs (Non-Fungible Tokens ou Tokens Não Fungíveis) é uma categoria relativamente nova de ativos digitais que tem atraído muita atenção nos últimos anos. A Evocswap está trazendo esse mercado para dentro do seu ecossistema nosso mercado NFT será único e exclusivo nunca visto no mercado atualmente com formas de aumentar os seus ganhos no stake com as artes que estarão a venda no marketplace.  NFTs são representações digitais únicas de um item, seja ele um arquivo de mídia, um tweet, um vídeo ou qualquer outro tipo de conteúdo digital. Eles são construídos usando a tecnologia blockchain, o que significa que cada NFT é autenticado como único e registrado publicamente em uma rede descentralizada.
+The NFT (Non-Fungible Tokens) market is a relatively new category of digital assets that has attracted a lot of attention in recent years. Evocswap is bringing this market into its ecosystem and our NFT market will be unique and exclusive, never seen before in the current market, with ways to increase your stake earnings through the art that will be for sale on the marketplace. NFTs are unique digital representations of an item, whether it be a media file, a tweet, a video, or any other type of digital content. They are built using blockchain technology, which means that each NFT is authenticated as unique and publicly registered on a decentralized network.
 
 <figure><img src=".gitbook/assets/Block 1.jpg" alt=""><figcaption></figcaption></figure>
 
-Os NFTs permitem que os criadores de conteúdo monetizem seus trabalhos de maneira nova e emocionante. Eles oferecem aos compradores uma maneira de possuir e negociar itens digitais exclusivos e valiosos. O mercado de NFTs tem atraído artistas, músicos, atletas, celebridades e muitos outros, e tem sido responsável por algumas vendas notáveis. Por exemplo, em março de 2021, uma obra de arte digital do artista Beeple foi vendida por mais de US$ 69 milhões em um leilão da casa de leilões Christie's.
+NFTs allow content creators to monetize their work in a new and exciting way. They offer buyers a way to own and trade unique and valuable digital items. The NFT market has attracted artists, musicians, athletes, celebrities, and many others, and has been responsible for some notable sales. For example, in March 2021, a digital artwork by artist Beeple was sold for over $69 million in an auction by Christie's auction house.
 
 <figure><img src=".gitbook/assets/3cd9879b37e0237cf86e2f13e9ae594c.png" alt=""><figcaption></figcaption></figure>
 
-Embora o mercado de NFTs ainda esteja em sua infância, ele está crescendo rapidamente e atraindo muita atenção. Os NFTs já estão sendo usados em uma variedade de setores, incluindo jogos, música, esportes, moda e muito mais. O futuro do mercado de NFTs é incerto, mas muitos especialistas acreditam que ele tem o potencial de se tornar uma nova classe de ativos digitais que pode mudar a maneira como as pessoas pensam sobre propriedade digital e colecionismo.
+Although the NFT market is still in its infancy, it is growing rapidly and attracting a lot of attention. NFTs are already being used in a variety of industries, including gaming, music, sports, fashion, and more. The future of the NFT market is uncertain, but many experts believe that it has the potential to become a new class of digital assets that can change the way people think about digital ownership and collecting.
 
 ## EVOCLAUNCH  AI
 
-Inteligência Artificial (IA) é um ramo da ciência da computação que se concentra no desenvolvimento de sistemas capazes de executar tarefas que normalmente exigiriam inteligência humana para serem realizadas. Esses sistemas são projetados para simular o comportamento humano, incluindo a capacidade de aprender, raciocinar, perceber, compreender e interagir com o ambiente.&#x20;
+Artificial Intelligence (AI) is a branch of computer science that focuses on the development of systems capable of performing tasks that would typically require human intelligence to be carried out. These systems are designed to simulate human behavior, including the ability to learn, reason, perceive, comprehend, and interact with the environment.
 
-A IA pode ser aplicada em diversas áreas, como em jogos, robótica, sistemas de recomendação, reconhecimento de voz, processamento de imagem, análise de dados e muito mais. Existem diferentes abordagens para o desenvolvimento de sistemas de IA, incluindo a programação lógica, a aprendizagem de máquina e as redes neurais.
+AI can be applied in various fields such as gaming, robotics, recommendation systems, speech recognition, image processing, data analysis, and more. There are different approaches to the development of AI systems, including logical programming, machine learning, and neural networks.
 
-Nosso plano é introduzir uma função inteligente onde todos os investidores serão notificados quando houver um lançamento com uma boa probabilidade de ser um sucesso , com a ajuda da Inteligência Artificial pode ser possível também notificar quando um projeto que estiver para lançar com um nível baixo de confiança todos os investidores serem notificados também. Assim reduziremos a possibilidade de golpistas (Scam) obterem vantagens lezando as pessoas e trazendo ainda mais confiança para a nossa launchpad !
+Our plan is to introduce an intelligent function where all investors will be notified when there is a launch with a good probability of success. With the help of Artificial Intelligence, it may also be possible to notify all investors when a project is about to launch with a low level of confidence. This will reduce the possibility of scammers taking advantage of people and bring even more confidence to our launchpad!
 
 <figure><img src=".gitbook/assets/ai-cloud-concept-with-robot-arm.jpg" alt=""><figcaption><p>EVOCLAUNCH AI</p></figcaption></figure>
