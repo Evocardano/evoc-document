@@ -1,5 +1,5 @@
 ---
-description: Visão geral detalhada , do projeto evocardano plus.
+description: Detailed Overview of Evocardano Plus Project.
 ---
 
 # 🌏 Overview
