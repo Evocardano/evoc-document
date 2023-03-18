@@ -25,7 +25,7 @@ O Sistema possui uma inteligência artificial (AI) capaz de você próprio criar
 * Faça a aprovação da sua carteira , irá voltar para mesma tela após a aprovação , cole o contrato novamente e click em ( Check Approve ) mais uma vez.
 * Coloque o contrato do token novo para aprovar e automatizar o recebimento dos antigos tokens.
 
-<figure><img src="../.gitbook/assets/hardfork3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/hardfork3.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
 * Você será redirecionado a uma nova tela para o cadastramento do seu hardfork , a taxa de custo é 2 BNBs.
 * Preencha o formulário de acordo com as informações , traduza a página caso esteja difícil de identificar as informações.
