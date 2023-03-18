@@ -21,9 +21,9 @@ O Sistema possui uma inteligência artificial (AI) capaz de você próprio criar
 
 <figure><img src="../.gitbook/assets/hardfork 2.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
+* Coloque o contrato do token novo para aprovar e automatizar o recebimento dos antigos tokens.
 * Click em ( Check Approve )
 * Faça a aprovação da sua carteira , irá voltar para mesma tela após a aprovação , cole o contrato novamente e click em ( Check Approve ) mais uma vez.
-* Coloque o contrato do token novo para aprovar e automatizar o recebimento dos antigos tokens.
 
 <figure><img src="../.gitbook/assets/hardfork3.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
