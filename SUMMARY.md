@@ -20,8 +20,12 @@
 
 ## LAUNCHPAD ICO EVOCARDANO PLUS
 
-* [🔀 HardFork](launchpad-ico-evocardano-plus/hardfork.md)
-* [🚀 Launchpad](launchpad-ico-evocardano-plus/launchpad.md)
+* [🔀 HardFork](launchpad-ico-evocardano-plus/hardfork/README.md)
+  * [Tutorial de Participação](launchpad-ico-evocardano-plus/hardfork/tutorial-de-participacao.md)
+* [🚀 Launchpad](launchpad-ico-evocardano-plus/launchpad/README.md)
+  * [SAFU](launchpad-ico-evocardano-plus/launchpad/safu.md)
+  * [KYC](launchpad-ico-evocardano-plus/launchpad/kyc.md)
+  * [AUDIT](launchpad-ico-evocardano-plus/launchpad/audit.md)
 * [🫂 Affiliate System](launchpad-ico-evocardano-plus/affiliate-system.md)
 
 ## SECURITY OF THE ECOSYSTEM

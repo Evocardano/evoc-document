@@ -13,18 +13,18 @@ O Sistema possui uma inteligência artificial (AI) capaz de você próprio criar
 * Faça a conexão da sua carteira owner em ( Wallet Connect )
 * Clique na opção a qual você deseja criar o hardfork , você só irá ver as opções para criação se sua carteira estiver conectada.
 
-<figure><img src="../.gitbook/assets/hardfork1.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardfork1.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
 * Você verá no canto direito a opção ( Create Now Hardfork ) click e siga para o próximo passo.&#x20;
 * Se você já possui um hardfork irá aparecer abaixo para você apenas editar.
 
-<figure><img src="../.gitbook/assets/hardfork 2.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardfork 2.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
 * Coloque o contrato do token novo para aprovar e automatizar o recebimento dos antigos tokens.
 * Click em ( Check Approve )
 * Faça a aprovação da sua carteira , irá voltar para mesma tela após a aprovação , cole o contrato novamente e click em ( Check Approve ) mais uma vez.
 
-<figure><img src="../.gitbook/assets/hardfork3.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardfork3.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
 * Você será redirecionado a uma nova tela para o cadastramento do seu hardfork , a taxa de custo é 2 BNBs.
 * Preencha o formulário de acordo com as informações , traduza a página caso esteja difícil de identificar as informações.
@@ -32,11 +32,11 @@ O Sistema possui uma inteligência artificial (AI) capaz de você próprio criar
 
 <div>
 
-<figure><img src="../.gitbook/assets/hardfork 4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardfork 4.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/launch5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/launch5.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
