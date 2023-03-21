@@ -45,4 +45,4 @@ O Sistema possui uma inteligência artificial (AI) capaz de você próprio criar
 ### CONTATO PARA SUPORTE
 
 * Grupo  para suporte : [https://t.me/+iBiJv0Mc1ko2ZGYx](https://t.me/+iBiJv0Mc1ko2ZGYx)
-* Entre e marque algum dos admin : @oliverevoc @Alenaldo
+* Entre e marque algum dos admin : @oliverevoc @Alenaldo e aguarde ser atendido.
