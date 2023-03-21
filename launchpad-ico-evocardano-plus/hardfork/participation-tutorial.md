@@ -1,4 +1,4 @@
-# Tutorial de Participação
+# Participation Tutorial
 
 ## PARTICIPANDO DO HARDFORK PC.
 
@@ -20,7 +20,7 @@
 * Após você ter aprovado a sua carteira , a página irá atualizar e você deve clikar em EVOC+ novamente.
 * Vai aparecer um campo para você digitar a quantidade de tokens antigas que você tem em sua wallet.
 * &#x20;No canto esquerdo você consegue identificar a quantidade de tokens antigas que você tem para trocar pelas novas.&#x20;
-* Faça a troca e depois click em ( Switch Currency ) para finalizar a transação você ganha um bônus a mais de tokens se caso o seu projeto definir uma porcentagem. Como pode ver na imagem abaixo:
+* Digite a quantidade de tokens antigos que você tem ,  e depois click em   ( Switch Currency ) para finalizar a transação você ganha um bônus a mais de tokens se caso o seu projeto definir uma porcentagem. Como pode ver na imagem abaixo:
 
 <figure><img src="../../.gitbook/assets/tuto06.jpg" alt=""><figcaption></figcaption></figure>
 
