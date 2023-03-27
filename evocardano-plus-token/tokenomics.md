@@ -43,15 +43,11 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 {% hint style="danger" %}
 **ATENÇÃO MEDIDA ANTI BOT E ANTI DESPEJOS !!**
 
-1º SEMANA : TAXA DE VENDA 40%
+1º MÊS  : TAXA DE VENDA 15%
 
-2º SEMANA : TAXA DE VENDA 30%
+<mark style="color:red;background-color:red;">**5º MÊS  : TAXA DE VENDA FINAL 10%**</mark>
 
-3º SEMANA : TAXA DE VENDA 25%
 
-4º SEMANA : TAXA DE VENDA 20%
-
-<mark style="color:red;background-color:red;">**5º SEMANA : TAXA DE VENDA  FINAL 15% !!**</mark>
 {% endhint %}
 
 ## <mark style="color:purple;">TRANSACTION FEES</mark>&#x20;
@@ -68,13 +64,13 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 
 **2. Dos 40% em vendas serão distribuídos:**&#x20;
 
-<mark style="background-color:red;">**10% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
+<mark style="background-color:red;">**3% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
 
-<mark style="background-color:red;">**20% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas no mundo cripto.
+<mark style="background-color:red;">**8% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas.
 
-<mark style="background-color:red;">**5% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável assim evitando problemas na hora de fazer compras e vendas.
+<mark style="background-color:red;">**3% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável assim evitando problemas na hora de fazer compras e vendas.
 
-<mark style="background-color:red;">**5% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
+<mark style="background-color:red;">**1% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
 
 ## <mark style="color:purple;">BLOCKED LIQUIDITY</mark>&#x20;
 
