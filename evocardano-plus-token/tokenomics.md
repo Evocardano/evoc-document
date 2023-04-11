@@ -62,13 +62,13 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 
 &#x20;<mark style="background-color:green;">**1% Buyback**</mark> : _Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido._
 
-**2. Dos 40% em vendas serão distribuídos:**&#x20;
+**2. Dos 15% em vendas serão distribuídos:**&#x20;
 
-<mark style="background-color:red;">**3% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
+<mark style="background-color:red;">**4% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
 
 <mark style="background-color:red;">**8% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas.
 
-<mark style="background-color:red;">**3% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável assim evitando problemas na hora de fazer compras e vendas.
+<mark style="background-color:red;">**2% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável assim evitando problemas na hora de fazer compras e vendas.
 
 <mark style="background-color:red;">**1% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
 
