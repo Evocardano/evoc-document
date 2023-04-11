@@ -15,8 +15,6 @@ A equipe está localizada no  Brasil e na França , todos trabalham remotamente 
 
 • CEO - Igor Leão ( President )
 
-• COO - Gustavo ( Chief Operations Officer)
-
 • DEV - Alenaldo  ( Programador TI - Dev )
 
 • CMO - Carlos ( Chief Marketing Officer )
