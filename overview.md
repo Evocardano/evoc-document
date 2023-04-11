@@ -14,13 +14,13 @@ One of the main advantages of a DEX is the security and privacy it offers. As tr
 
 Despite these limitations, DEXs have become increasingly popular in recent years, mainly due to growing concerns regarding the security and privacy of personal data. Furthermore, DEXs are also helping to promote the decentralization of the cryptocurrency ecosystem, allowing users to have more control over their transactions and investments.
 
-## A EXPANSÃO&#x20;
+## THE EXPANSION&#x20;
 
 The cryptocurrency market is booming, with thousands of people around the world adapting to the market and becoming big investors and developers every year. With this vision in mind, we decided to create an ICO Launchpad, which is a launch platform where any developer can launch their project with security and a variety of functions.
 
 These functions include token launches, hardfork updates to contracts, automatic and manual pre-sales, pre-sales via PIX, KYC, AUDIT, SAFU, and an affiliate system for pre-sales. What's interesting is that this entire system is connected to Evocardano Plus, the main cryptocurrency of the Evocswap DEX. As more and more projects are launched on our platform, our liquidity will also increase, as the value of our cryptocurrency will increase as well.
 
-## MERCADO NFT
+## NFT MARKET
 
 The NFT (Non-Fungible Tokens) market is a relatively new category of digital assets that has attracted a lot of attention in recent years. Evocswap is bringing this market into its ecosystem and our NFT market will be unique and exclusive, never seen before in the current market, with ways to increase your stake earnings through the art that will be for sale on the marketplace. NFTs are unique digital representations of an item, whether it be a media file, a tweet, a video, or any other type of digital content. They are built using blockchain technology, which means that each NFT is authenticated as unique and publicly registered on a decentralized network.
 
