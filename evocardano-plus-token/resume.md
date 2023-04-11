@@ -12,14 +12,14 @@ Evocardano Plus is a token that will be launched on the Bscscan network, but it 
 
 <figure><img src="../.gitbook/assets/2190995726288.jpg" alt=""><figcaption></figcaption></figure>
 
-Evocardano Plus será o token de governança , o token principal onde os investidores irão receber recompensas básicas nele próprio por criar um par de liquidez e manter seus tokens na plataforma fazendo stake. Ao invés de vender suas moedas você recebe mais delas como forma de juros por ajudar na sustentabilidade da liquidez da moeda. E também pode ganhar muito com a valorização da mesma.
+Evocardano Plus will be the governance token, the main token where investors will receive basic rewards for creating a liquidity pair and staking their tokens on the platform, rather than selling their coins. By doing so, they will receive more tokens as interest for helping sustain the coin's liquidity. Additionally, investors can potentially earn a lot through the appreciation of the token's value.
 
 ## PROJECT VISION
 
-Nossa visão inicial é construir o projeto na rede bscscan e ter estrutura suficiente para implementar nosso ecossistema na própria blockchain da cardano. Fazendo assim, a união da capitalização das duas redes visando também construir estrutura para lançar em outras redes. Assim podemos ter uma valorização extrema com a união de várias redes em Evocardano Plus. O ponto crucial e a importância de realmente sermos titulares deste projeto é que após juntarmos a capitalização de mercado de várias redes em nossa moeda, podemos ter uma valorização extrema. E será dessa forma que os investidores que sempre acreditaram no projeto, vão alcançar o objetivo que sempre esperou.
+Our initial vision is to build the project on the Bscscan network and have sufficient structure to implement our ecosystem on the Cardano blockchain itself. By doing so, we aim to unite the capitalization of the two networks and also build structure to launch on other networks. This way, we can achieve extreme valuation through the union of various networks in Evocardano Plus. The crucial point and the importance of actually being holders of this project is that after we combine the market capitalization of various networks in our coin, we can achieve extreme valuation. This is how investors who have always believed in the project will achieve the goal they have always waited for.
 
 ## INTRODUCTION IN THE NFT MARKET
 
 <figure><img src="../.gitbook/assets/6619937.jpg" alt=""><figcaption></figcaption></figure>
 
-Um dos maiores e crescentes mercados do mundo atualmente é o mercado de NFT's , com isso Evocardano Plus se tornará uma moeda para compra de  NFT's onde na rede bscscan, a equipe irá introduzir um mercado de NFT's onde qualquer titular pode criar sua NFT, comprar com EVOC+ e ser proprietário melhorando ainda mais a sustentabilidade e criando um volume maior de marketcap da moeda e também poderá vendê-las quando quiser.
+One of the biggest and fastest-growing markets in the world today is the NFT market, and Evocardano Plus will become a currency for purchasing NFTs. On the Bscscan network, the team will introduce an NFT marketplace where any holder can create their own NFT, purchase it with EVOC+, and become the owner, thus improving sustainability and creating a larger market cap volume for the coin. Holders can also sell their NFTs whenever they want.
