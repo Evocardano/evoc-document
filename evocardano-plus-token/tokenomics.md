@@ -21,7 +21,7 @@ description: Abaixo você encontra todos os detalhes da distribuição de tokens
 
 _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CENTOS E NOVENTA E OITO MIL..._
 
-* [x] <mark style="background-color:purple;">**1**</mark><mark style="background-color:purple;">º</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**FASE**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;"></mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**PRÉ VENDA EVOCLAUNCH ( PARCEIRO BUYPAYMENTS )**</mark>
+* [x] <mark style="background-color:purple;">**1**</mark><mark style="background-color:purple;">º</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**FASE**</mark> <mark style="background-color:purple;">**PRÉ VENDA EVOCLAUNCH ( PARCEIRO BUYPAYMENTS )**</mark>
 
 4\. _(10%)  = 300.000.000 - TREZENTOS MILHÕES_
 
@@ -36,7 +36,7 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 * [x] <mark style="background-color:purple;">**FARMS/STAKING**</mark>
 * [x] <mark style="background-color:purple;">**STAKING NFT**</mark>
 
-****
+
 
 * [x] **70% DO FORNECIMENTO TOTAL É MINTADO AUTOMATICAMENTE PARA OS STAKING E FARMS , NOSSO FORNECIMENTO TOTAL TEM UM LIMITE DE 10.000.000.000 DE UNIDADES APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
 
@@ -45,14 +45,14 @@ _3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CEN
 
 1º MÊS  : TAXA DE VENDA 15%
 
-<mark style="color:red;background-color:red;">**5º MÊS  : TAXA DE VENDA FINAL 10%**</mark>
+<mark style="color:green;background-color:green;">**A TAXA PODERÁ SER REDUZIDA EM BREVE**</mark>
 
 
 {% endhint %}
 
 ## <mark style="color:purple;">TRANSACTION FEES</mark>&#x20;
 
-#### 1. Dos 8% em compras serão distribuídos: <mark style="color:purple;"></mark>&#x20;
+#### 1. Dos 8% em compras serão distribuídos:&#x20;
 
 <mark style="background-color:green;">**3% Renda Passiva**</mark> : _Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver._
 
