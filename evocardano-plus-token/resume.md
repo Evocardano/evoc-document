@@ -6,19 +6,19 @@ description: >-
 
 # 🟣 Resume EvocPlus
 
-## SOBRE O PROJETO
+## ABOUT THE PROJECT
 
-Evocardano Plus é um token que será lançado na rede Bscscan , mas também será ligado a rede Cardanoscan o contrato possui função Proof-of-Stake e no lançamento do token você irá ganhar renda passiva automática em ADA(Cardano) .  Após a atualização alonzo chegar a 100% e os bugs estiverem corrigidos, será permitido negociar os projetos Defi's na blockchain da cardano. Acredita-se na possibilidade de eliminação de bugs e hacks nos projetos Defi's. Com isso, surge **EVOCSWAP**, que é o desenvolvimento de uma DEX (exchange descentralizada) semelhante a Pancakeswap  para as duas redes. Onde permitirá que os usuários negociem ativos, de forma rápida, barata e segura.
+Evocardano Plus is a token that will be launched on the Bscscan network, but it will also be linked to the Cardanoscan network. The contract has a Proof-of-Stake function, and upon token launch, you will earn automatic passive income in ADA (Cardano). After the Alonzo update reaches its peak, releasing Cross-Chain and bugs are fixed, it will be allowed to trade Defi projects on the Cardano blockchain. It is believed that the possibility of eliminating bugs and hacks in Defi projects will arise. With this, EVOCSWAP emerges, which is the development of a DEX (decentralized exchange) similar to Pancakeswap for both networks. This will allow users to trade assets quickly, cheaply, and securely.
 
 <figure><img src="../.gitbook/assets/2190995726288.jpg" alt=""><figcaption></figcaption></figure>
 
 Evocardano Plus será o token de governança , o token principal onde os investidores irão receber recompensas básicas nele próprio por criar um par de liquidez e manter seus tokens na plataforma fazendo stake. Ao invés de vender suas moedas você recebe mais delas como forma de juros por ajudar na sustentabilidade da liquidez da moeda. E também pode ganhar muito com a valorização da mesma.
 
-## VISÃO DO PROJETO
+## PROJECT VISION
 
 Nossa visão inicial é construir o projeto na rede bscscan e ter estrutura suficiente para implementar nosso ecossistema na própria blockchain da cardano. Fazendo assim, a união da capitalização das duas redes visando também construir estrutura para lançar em outras redes. Assim podemos ter uma valorização extrema com a união de várias redes em Evocardano Plus. O ponto crucial e a importância de realmente sermos titulares deste projeto é que após juntarmos a capitalização de mercado de várias redes em nossa moeda, podemos ter uma valorização extrema. E será dessa forma que os investidores que sempre acreditaram no projeto, vão alcançar o objetivo que sempre esperou.
 
-## INTRODUÇÃO NO MERCADO NFT
+## INTRODUCTION IN THE NFT MARKET
 
 <figure><img src="../.gitbook/assets/6619937.jpg" alt=""><figcaption></figcaption></figure>
 
