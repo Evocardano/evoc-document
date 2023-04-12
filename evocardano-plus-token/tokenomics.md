@@ -1,5 +1,5 @@
 ---
-description: Abaixo você encontra todos os detalhes da distribuição de tokens do projeto.
+description: Below you can find all the details of the project's token distribution.
 ---
 
 # 🐳 Tokenomics
@@ -8,33 +8,33 @@ description: Abaixo você encontra todos os detalhes da distribuição de tokens
 
 <figure><img src="../.gitbook/assets/tokenomics.png" alt=""><figcaption></figcaption></figure>
 
-**TEMOS UM TOTAL INICIAL DE  3.000.000.000 (TRÊS BILHÕES) DE UNIDADES.**&#x20;
+**WE HAVE AN INITIAL TOTAL OF 3,000,000,000 (THREE BILLION) UNITS.**
 
-1. _(18,07%) = 542.101.625,28 - QUIENTOS E QUARENTA E DOIS MILHÕES CENTO E UM MIL SEIS CENTOS E VINTE E CINCO._
+1. _(18,07%) = 542.101.625,28_
 
-* [x] <mark style="background-color:purple;">**ANTIGOS HOLDERS/HARDFORK**</mark>
+* [x] <mark style="background-color:purple;">**OLD HOLDERS/HARDFORK**</mark>
 
-2\. _(53,6%) = 1.608.000.000 - UM BILHÃO SEIS CENTOS E OITO MILHÕES._
+_2. (8,329...%) = 249.898.374,72_&#x20;
 
-* [x] <mark style="background-color:purple;">**PRÉ SALE/PINKSALE**</mark>
-* [x] <mark style="background-color:purple;">**LIQUIDEZ**</mark>
+* [ ] <mark style="background-color:purple;">**1º PHASE PRE SALE EVOCLAUNCH**</mark>&#x20;
 
-_3. (8,329...%) = 249.898.374,72 - TREZENTOS E QUARENTA E NOVE MILHÕES OITO CENTOS E NOVENTA E OITO MIL..._
+2\. _(53,6%) = 1.608.000.000_&#x20;
 
-* [x] <mark style="background-color:purple;">**1**</mark><mark style="background-color:purple;">º</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**FASE**</mark> <mark style="background-color:purple;">**PRÉ VENDA EVOCLAUNCH ( PARCEIRO BUYPAYMENTS )**</mark>
+* [ ] <mark style="background-color:purple;">**2**</mark><mark style="background-color:purple;">º</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**PHASE**</mark> <mark style="background-color:purple;">**PRE SALE/PINKSALE**</mark>
+* [ ] <mark style="background-color:purple;">**LIQUIDITY**</mark>
 
-4\. _(10%)  = 300.000.000 - TREZENTOS MILHÕES_
+4\. _(10%)  = 300.000.000_&#x20;
 
-* [x] <mark style="background-color:purple;">**MARKETING**</mark>
+* [ ] <mark style="background-color:purple;">**MARKETING**</mark>
 
-5\. _(10%)  = 300.000.000 - TREZENTOS MILHÕES_
+5\. _(10%)  = 300.000.000_&#x20;
 
-* <mark style="background-color:purple;">**DESENVOLVEDORES**</mark>&#x20;
+* [ ] <mark style="background-color:purple;">**DEVELOPERS**</mark>
 
-6\. _(FORNECIMENTO CONTÍNUO)  = 7.000.000.000 - SETE BILHÕES_
+6\. _(FORNECIMENTO CONTÍNUO)  = 7.000.000.000_&#x20;
 
-* [x] <mark style="background-color:purple;">**FARMS/STAKING**</mark>
-* [x] <mark style="background-color:purple;">**STAKING NFT**</mark>
+* [ ] <mark style="background-color:purple;">**FARMS/STAKING**</mark>
+* [ ] <mark style="background-color:purple;">**STAKING NFT**</mark>
 
 
 
