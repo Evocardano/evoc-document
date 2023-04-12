@@ -41,7 +41,7 @@ _2. (8,329...%) = 249.898.374,72_&#x20;
 * [x] **70% OF THE TOTAL SUPPLY IS MINT AUTOMATICALLY FOR STAKING AND FARMS, OUR TOTAL SUPPLY HAS A LIMIT OF 10,000,000,000 UNITS AFTER FILLING THIS AMOUNT IT WILL NO LONGER BE POSSIBLE TO PROVIDE TOKEN**.
 
 {% hint style="danger" %}
-**ATTENTION ANTI BOT AND ANTI EMPTY MEASURES !!**
+**ATTENTION ANTI BOT AND ANTI SPILL MEASURES!!**
 
 ### 1º MONTH SALES TAX 15%
 
@@ -52,25 +52,25 @@ _2. (8,329...%) = 249.898.374,72_&#x20;
 
 ## <mark style="color:purple;">TRANSACTION FEES</mark>&#x20;
 
-#### 1. Dos 8% em compras serão distribuídos:&#x20;
+#### 1. Of the 8% in purchases will be distributed:&#x20;
 
-<mark style="background-color:green;">**3% Renda Passiva**</mark> : _Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver._
+<mark style="background-color:green;">**3% Reflection**</mark> : _These fees are returned to token holders in the form of an ADA reward (Cardano). hold your EVOC+ tokens and receive ADA(Cardano) with every new distribution you have._
 
-<mark style="background-color:green;">**3% Marketing**</mark> : _Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas no assunto._
+<mark style="background-color:green;">**3% Marketing**</mark> : _It is intended for the marketing portfolio where a good part of them will be used to publicize the project, contract with influencers and various advertisements with companies specialized in the subject._
 
-&#x20;<mark style="background-color:green;">**1% Liquidez**</mark> : _É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável, assim evitando problemas na hora de fazer compras e vendas._
+&#x20;<mark style="background-color:green;">**1% Liquidez**</mark> : _It is allocated to the liquidity pool. Promoting price stability, maintaining a stable price, thus avoiding problems when making purchases and sales._
 
-&#x20;<mark style="background-color:green;">**1% Buyback**</mark> : _Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido._
+&#x20;<mark style="background-color:green;">**1% Buyback**</mark> : _It will be bought on the chart and burned, helping the currency appreciate, stabilizing the price and ensuring that value will never be sold._
 
-**2. Dos 15% em vendas serão distribuídos:**&#x20;
+**2. Of the 15% in sales will be distributed:**&#x20;
 
-<mark style="background-color:red;">**4% Renda Passiva**</mark> : Essas taxas são devolvidas aos titulares na forma de uma recompensa em ADA(Cardano). Segure os seus tokens EVOC+ e receba ADA(Cardano) a cada distribuição que tiver.
+<mark style="background-color:red;">**4% Renda Passiva**</mark> : _These fees are returned to token holders in the form of an ADA reward (Cardano). hold your EVOC+ tokens and receive ADA(Cardano) with every new distribution you have._
 
-<mark style="background-color:red;">**8% Marketing**</mark> : Destina-se à carteira de marketing onde a maior parte dessas taxas serão utilizadas para fazer a divulgação do projeto , contrato com influenciadores e diversos anúncios com empresas especialistas.
+<mark style="background-color:red;">**8% Marketing**</mark> : _It is intended for the marketing portfolio where a good part of them will be used to publicize the project, contract with influencers and various advertisements with companies specialized in the subject._
 
-<mark style="background-color:red;">**2% Liquidez**</mark> : É alocado ao pool de liquidez. Promovendo a estabilidade do preço, mantendo um preço estável assim evitando problemas na hora de fazer compras e vendas.
+<mark style="background-color:red;">**1% Liquidez**</mark> : _It is allocated to the liquidity pool. Promoting price stability, maintaining a stable price, thus avoiding problems when making purchases and sales._
 
-<mark style="background-color:red;">**1% Buyback**</mark> : Será comprado no gráfico e queimado , ajudando na valorização da moeda, estabilizando o preço e garantindo que aquele valor nunca será vendido.
+<mark style="background-color:red;">**2% Buyback**</mark> : _It will be bought on the chart and burned, helping the currency appreciate, stabilizing the price and ensuring that value will never be sold._
 
 ## <mark style="color:purple;">BLOCKED LIQUIDITY</mark>&#x20;
 
