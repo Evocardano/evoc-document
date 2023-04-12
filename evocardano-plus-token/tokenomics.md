@@ -31,21 +31,21 @@ _2. (8,329...%) = 249.898.374,72_&#x20;
 
 * [ ] <mark style="background-color:purple;">**DEVELOPERS**</mark>
 
-6\. _(FORNECIMENTO CONTÍNUO)  = 7.000.000.000_&#x20;
+6\. (**CONTINUOUS SUPPLY**)  _= 7.000.000.000_&#x20;
 
 * [ ] <mark style="background-color:purple;">**FARMS/STAKING**</mark>
 * [ ] <mark style="background-color:purple;">**STAKING NFT**</mark>
 
 
 
-* [x] **70% DO FORNECIMENTO TOTAL É MINTADO AUTOMATICAMENTE PARA OS STAKING E FARMS , NOSSO FORNECIMENTO TOTAL TEM UM LIMITE DE 10.000.000.000 DE UNIDADES APÓS ESSE VALOR SER PREENCHIDO NÃO SERÁ POSSIVEL MAIS SER MINTADO NENHUM TOKEN.**
+* [x] **70% OF THE TOTAL SUPPLY IS MINT AUTOMATICALLY FOR STAKING AND FARMS, OUR TOTAL SUPPLY HAS A LIMIT OF 10,000,000,000 UNITS AFTER THIS VALUE IS FILLED IN, IT WILL NO LONGER BE POSSIBLE TO MINT ANY TOKEN.**
 
 {% hint style="danger" %}
-**ATENÇÃO MEDIDA ANTI BOT E ANTI DESPEJOS !!**
+**ATTENTION ANTI BOT AND ANTI EMPTY MEASURES !!**
 
-1º MÊS  : TAXA DE VENDA 15%
+### 1º MONTH SALES TAX 15%
 
-<mark style="color:green;background-color:green;">**A TAXA PODERÁ SER REDUZIDA EM BREVE**</mark>
+<mark style="color:green;background-color:green;">**FEE MAY BE REDUCED SOON**</mark>
 
 
 {% endhint %}
