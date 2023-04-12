@@ -1,7 +1,7 @@
 ---
 description: >-
-  Utilize suas NFT PLUS para aumentar a porcentagem do seu stake ou comercialize
-  a qualquer momento no marketplace da evocswap!
+  Use your NFT PLUS to increase your bet percentage or trade at any time on the
+  evocswap marketplace!
 ---
 
 # 🪙 Stake NFT
