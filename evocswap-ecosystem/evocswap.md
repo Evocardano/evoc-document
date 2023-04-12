@@ -1,25 +1,25 @@
 ---
 description: >-
-  Criada na rede Bscscan destinada a rede Cardanoscan uma DEX: descentralizada
-  com o objetivo de se expandir em várias redes.
+  Created in the Bscscan network destined for the Cardanoscan network a DEX:
+  decentralized with the objective of expanding in several networks.
 ---
 
 # 🔂 EvocSwap
 
-Focada em trabalhar juntamente com a rede Cardanoscan a evocswap foi criada na rede Bscscan com o objetivo de se tornar uma DEX completa com funcionalidades inovadoras e eficaz em várias redes , o objetivo maior é fazer bridge com a rede Cardanoscan uma ponte onde será possivel negociar tokens não só da rede cardano mais também de outras redes.
+Focused on working together with the Cardanoscan network, Evocswap was created on the Bscscan network with the goal of becoming a comprehensive DEX with innovative and effective functionalities across various networks. The ultimate objective is to create a bridge with the Cardanoscan network, a bridge where it will be possible to trade tokens not only from the Cardano network, but also from other networks.
 
 {% hint style="success" %}
-EvocSwap ajudará você a explorar suas negociações criptográficas, com uma experiência simples e rápida em um só lugar.
+EvocSwap helps you explore your cryptocurrency exchange, with a simple and fast experience in one place.
 {% endhint %}
 
 ## ↔️ TRADE
 
-Troque instantaneamente suas criptomoedas: sem necessidade de registro e conta.
+Instantly exchange your cryptocurrencies: no registration and account required.
 
 ## THE BEST CHOICE&#x20;
 
-O Token faz parte da Binance Smart Chain, e irá possuir sua própria DEX (troca descentralizada) sendo uma plataforma rápida e com melhor usabilidade no mercado. Com o objetivo de eliminar muitos erros graves como transações lentas e taxas muito caras, isso irá  fazer uma grande diferença e trará uma melhor experiência para os nossos investidores.
+The Token is part of the Binance Smart Chain and will have its own DEX (decentralized exchange), being a fast platform with better usability in the market. With the goal of eliminating many serious issues such as slow transactions and high fees, this will make a big difference and bring a better experience for our investors.
 
 ## DECENTRALIZATION&#x20;
 
-Negocie diretamente do seu aplicativo de carteira. Ao contrário de exchanges centralizadas. EvocSwap não retém seus fundos quando você negocia: você tem 100% de propriedade de suas próprias criptomoedas.
+Trade directly from your wallet app. Unlike centralized exchanges. EvocSwap does not hold your funds when you trade: you have 100% ownership of your own cryptocurrencies.
