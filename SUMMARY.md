@@ -23,10 +23,10 @@
 * [🔀 HardFork](launchpad-ico-evocardano-plus/hardfork/README.md)
   * [Tutorial Desktop](launchpad-ico-evocardano-plus/hardfork/tutorial-desktop.md)
   * [Tutorial  Android](launchpad-ico-evocardano-plus/hardfork/tutorial-android.md)
-* [🚀 Launchpad](launchpad-ico-evocardano-plus/launchpad/README.md)
-  * [SAFU](launchpad-ico-evocardano-plus/launchpad/safu.md)
-  * [KYC](launchpad-ico-evocardano-plus/launchpad/kyc.md)
-  * [AUDIT](launchpad-ico-evocardano-plus/launchpad/audit.md)
+* [🚀 Launchpad AI](launchpad-ico-evocardano-plus/launchpad-ai/README.md)
+  * [SAFU](launchpad-ico-evocardano-plus/launchpad-ai/safu.md)
+  * [KYC](launchpad-ico-evocardano-plus/launchpad-ai/kyc.md)
+  * [AUDIT](launchpad-ico-evocardano-plus/launchpad-ai/audit.md)
 * [🫂 Affiliate System](launchpad-ico-evocardano-plus/affiliate-system.md)
 
 ## SECURITY OF THE ECOSYSTEM
