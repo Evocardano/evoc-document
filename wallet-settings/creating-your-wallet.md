@@ -69,7 +69,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 
 [**Download Trust Wallet**](https://trustwallet.com/) **(automatically detects the device)**&#x20;
 
-****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)****
+[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)
 {% endtab %}
 {% endtabs %}
 
@@ -106,9 +106,9 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 * Other additional options to use with BNB Smart Chain and EvocSwap
 * Extra information and settings can confuse beginners
 
-****[**Download MetaMask**](https://metamask.io/download/) **(automatically detect browser)**&#x20;
+[**Download MetaMask**](https://metamask.io/download/) **(automatically detect browser)**&#x20;
 
-****[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)****
+[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Carteira Binance" %}
@@ -131,7 +131,7 @@ Binance Wallet is a browser plugin wallet that natively supports Binance Chain (
 
 &#x20;[**Download Binance Wallet**](https://www.bnbchain.world/en) **(detects device automatically)**   &#x20;
 
-****[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)****
+[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)
 {% endtab %}
 {% endtabs %}
 
