@@ -1,6 +1,6 @@
 # Tutorial Desktop
 
-## PARTICIPANDO DO HARDFORK PC.
+## PARTICIPANDO DO HARDFORK DESKTOP.
 
 ## <mark style="color:purple;">1º PASSO</mark>
 
