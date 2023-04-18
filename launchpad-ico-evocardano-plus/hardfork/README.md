@@ -1,34 +1,32 @@
 ---
-description: 'Acesse : https://www.evoclaunch.com/'
+description: 'Access: https://www.evoclaunch.com/'
 ---
 
 # 🔀 HardFork
 
-Função idealizada exclusivamente pelo projeto para atualizações de contratos inteligentes , a plataforma possui um sistema automatizado onde é responsável por fazer a troca de moedas dos antigos contratos , para novas moedas de um novo contrato ou seja qualquer problema ou erro encontrado em um contrato a plataforma possui suporte suficiente na ajuda da atualização de qualquer projeto fazendo a ligação de um contrato antigo para um novo. Qualquer desenvolvedor pode utilizar criando e pagando uma taxa básica de 2 BNBs para utilizar o serviço na própria plataforma.
+The platform, exclusively designed by the project for smart contract updates, features an automated system that facilitates the exchange of currencies from old contracts to new ones. In other words, if there is any issue or error identified in a contract, the platform provides ample support to update any project by linking an old contract to a new one. Any developer can utilize this service by creating and paying a basic fee of 2 BNBs on the platform. The system also includes an artificial intelligence (AI) capable of creating a hardfork on its own. The creation process involves specifying the old price, new price, start date, end date, and a bonus if you wish to reward your community. You can make edits in the "owner/creator" tab anytime by simply connecting your wallet.
 
-O Sistema possui uma inteligência artificial (AI) capaz de você próprio criar um hardfork a criação se resume em , preço antigo , novo preço , data de inicio , data final e um bônus caso você queira beneficiar sua comunidade você pode fazer uma edição na aba (dono criador)  quando quiser apenas conectando sua carteira.
+## CREATING A HARDFORK&#x20;
 
-## CRIANDO UM HARDFORK&#x20;
-
-* Faça a conexão da sua carteira owner em ( Wallet Connect )
-* Clique na opção a qual você deseja criar o hardfork , você só irá ver as opções para criação se sua carteira estiver conectada.
+* Connect your wallet at ( Wallet Connect )
+* Click on the option you want to create the hardfork for, you will only see the options for creation if your wallet is connected.
 
 <figure><img src="../../.gitbook/assets/hardfork1.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
-* Você verá no canto direito a opção ( Create Now Hardfork ) click e siga para o próximo passo.&#x20;
-* Se você já possui um hardfork irá aparecer abaixo para você apenas editar.
+* You will see in the right corner the option ( Create Now Hardfork ) click and follow to the next step.
+* If you already have a hardfork it will appear below for you to edit.
 
 <figure><img src="../../.gitbook/assets/hardfork 2.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
-* Coloque o contrato do token novo para aprovar e automatizar o recebimento dos antigos tokens.
-* Click em ( Check Approve )
-* Faça a aprovação da sua carteira , irá voltar para mesma tela após a aprovação , cole o contrato novamente e click em ( Check Approve ) mais uma vez.
+* Place the new token contract to approve and automate the receipt of old tokens.
+* Click on (Check Approve)
+* Approve your portfolio, you will return to the same screen after approval, paste the contract again and click on (Verify Approve) once more.
 
 <figure><img src="../../.gitbook/assets/hardfork3.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
-* Você será redirecionado a uma nova tela para o cadastramento do seu hardfork , a taxa de custo é 2 BNBs.
-* Preencha o formulário de acordo com as informações , traduza a página caso esteja difícil de identificar as informações.
-* Após a finalização do cadastramento , finalize a transação e aprove sua wallet.
+* You will be redirected to a new screen to register your hardfork, the cost rate is 2 BNBs.
+* Fill out the form according to the information, translate the page if it is difficult to identify the information.
+* After completing the registration, finalize a transaction and approve your wallet.
 
 <div>
 
@@ -40,9 +38,9 @@ O Sistema possui uma inteligência artificial (AI) capaz de você próprio criar
 
 </div>
 
-* Ao finalizar o seu cadastramento , volte na tela inicial e você verá o seu hardfork registrado e preparado para ser divulgado para a sua comunidade.
+* At the end of your registration, go back to the home screen and you will see your hardfork registered and ready to be released to your community.
 
-### CONTATO PARA SUPORTE
+CONTACT FOR SUPPORT
 
-* Grupo  para suporte : [https://t.me/+iBiJv0Mc1ko2ZGYx](https://t.me/+iBiJv0Mc1ko2ZGYx)
-* Entre e marque algum dos admins e aguarde ser atendido.
+* Support group: [https://t.me/+iBiJv0Mc1ko2ZGYx](https://t.me/+iBiJv0Mc1ko2ZGYx)
+* Enter and tag one of the administrators and wait to be answered.
