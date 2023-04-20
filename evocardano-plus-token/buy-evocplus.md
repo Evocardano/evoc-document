@@ -20,5 +20,6 @@ description: >-
 {% endembed %}
 
 * If it's on your smartphone, copy the link and paste it into your wallet browser to join.
-* Choose the currency pair you want to buy the token
+* Connect your wallet to the platform , to view the information on Web3.
+* Choose the currency pair you want to buy the token.
 * We accept ( • PIX • BNB • BUSD • USDT )
