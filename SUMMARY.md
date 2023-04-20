@@ -48,5 +48,5 @@
 
 * [🇵🇹 TELEGRAM PT/BR](https://t.me/evocardanobrasil)
 * [🇱🇷 TELEGRAM EN/GL](https://t.me/evocardanoenglish)
-* [🐦 TWITTER](https://twitter.com/evocardanoofc)
+* [🐦 TWITTER](https://twitter.com/evocplus)
 * [📸 INSTAGRAM](https://www.instagram.com/evocplus)
