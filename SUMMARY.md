@@ -9,7 +9,7 @@
 * [🪙 Stake NFT](evocswap-ecosystem/stake-nft.md)
 * [↪ Farms](evocswap-ecosystem/farms.md)
 * [↪ Community Pools](evocswap-ecosystem/community-pools.md)
-* [🏪 Marketplace](evocswap-ecosystem/marketplace.md)
+* [🏪 Marketplace NFT](evocswap-ecosystem/marketplace-nft.md)
 
 ## EVOCARDANO PLUS TOKEN
 
