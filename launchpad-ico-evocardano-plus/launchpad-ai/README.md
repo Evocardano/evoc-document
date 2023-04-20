@@ -20,7 +20,5 @@ Estamos estruturando nossa launchpad e nosso objetivo é chegar a ser uma das La
 
 EvocLaunch possui um dos melhores sistemas para a segurança  do seu investimento a plataforma só libera a liquidez para o desenvolvedor após a finalização do claim , ou seja só após as suas moedas estiverem em sua carteira é que eles conseguem ter acesso ao dinheiro aplicado pelos investidores. Também o desenvolvedor é livre para fazer o cancelamento da pré venda e a plataforma devolve todo o dinheiro aplicado pelos investidores liberando o claim para reembolso.
 
-Embora existem muitos desenvolvedores mal intencionados , e você sempre será o total responsável pelo seu investimento , a segurança da plataforma  é garantida  , não garantimos segurança após a liquidez já ter ido para a mão dos desenvolvedores do projeto no qual você está investindo.&#x20;
-
-Por isso sempre tente filtrar todos os projetos que você está investindo , estude o projeto antes de você aplicar o seu dinheiro.&#x20;
+Embora existem muitos desenvolvedores mal intencionados , e você sempre será o total responsável pelo seu investimento , a segurança da plataforma  é garantida  , não garantimos segurança após a liquidez já ter ido para a mão dos desenvolvedores do projeto no qual você está investindo. Por esse motivo sempre tente filtrar todos os projetos que você está investindo , estude o projeto e as pessoas que estão por trás antes de você aplicar o seu dinheiro.&#x20;
 
