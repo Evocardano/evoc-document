@@ -1,70 +1,70 @@
 # 📅 Roadmap
 
-## 1º FASE FORK Q1&#x20;
+## 1st PHASE FORK Q1&#x20;
 
-**Design e construção**&#x20;
+**Design and Construction**
 
-* ✅Nova Logo
-* ✅Redes Sociais
-* ✅Novo Contrato
+* ✅New Logo
+* ✅Social Media
+* ✅New Contract
 * ✅HardFork
-* ❌Auditoria
-* ❌Icone na BscScan
+* ❌Audit
+* ❌Icon in BscScan
 * ❌Whitepaper
-* ✅Parceria com Buypayments
+* ✅Partnership with Buypayments
 * ❌Launchpad&#x20;
-* ✅+5000 membros comunidade português
-* ✅+3000 membros comunidade english
-* ✅Doações
+* ✅+5000 Portuguese community members
+* ✅+3000 English community members
+* ✅Donations
+* ❌Buybot EvocLaunch
 
-## **2**º FASE FORK Q2&#x20;
+## 2st PHASE FORK Q2&#x20;
 
 * ❌Buybot evocswap
 * ❌Pricebot evocswap
-* ❌Lançamento da DEX V1
-* ❌Ativação Gráfico de Velas
-* ❌Pré venda EvocLaunch
-* ❌Pré venda PinkSale
-* ❌Marketing Lançamento
-* ❌Lançamento na Pancakeswap
-* ❌Publicidade com influenciadores
-* ❌Publicidade PoocoinAds
-* ❌Publicidade GoogleAds
-* ❌Publicidade FacebookAds
+* ❌New Design DEX V1
+* ❌Candlestick Chart Activation
+* ❌Pre-sale EvocLaunch
+* ❌Pre-sale PinkSale
+* ❌Marketing Launch
+* ❌Launch on Pancakeswap
+* ❌Advertising With Influencers
+* ❌PoocoinAds Advertising
+* ❌GoogleAds Advertising
+* ❌FacebookAds Advertising
 
-## 3º FASE FORK Q3
+## 3rd PHASE FORK Q3
 
-**Avanço**
+**Advance**
 
-* ❌Listagem CoinGecko
-* ❌Listagem CoinMarketCap
-* ❌Marketing no Twitter
-* ❌Ativação Stake NFT
-* ❌Ativação Farms
-* ❌Ativação Comunnity Pools
+* ❌CoinGecko Listing
+* ❌CoinMarketCap Listing
+* ❌Twitter Marketing
+* ❌NFT Stake Activation
+* ❌Activation Farms
+* ❌Activating Community Pools
 * ❌Marketplace NFTs
-* ❌Launchpad
 
-## 4º FASE FORK Q4
+## 4st PHASE FORK Q4
 
-**Inovação e melhorias**
+**Innovation and improvements**
 
-* ❌Contrato na Rede Cardanoscan
-* ❌Pré venda em uma exchange
-* ❌DEX versão V2 (Cardanoscan)
-* ❌Lançamento do token na Rede Cardanoscan
-* ❌Ativação Stake NFT (Cardanoscan)
-* ❌Ativação Farms (Cardanoscan)
-* ❌Ativação Comunnity Pools (Cardanoscan)
-* ❌Novas parcerias
+* ❌Pre-sale in an exchange
+* ❌Cardanoscan Network Contract
+* ❌Bridge ( Cardanoscan )
+* ❌Contract on the Etherscan Network
+* ❌Bridge ( Etherscan )
+* ❌DEX Bridge ( Multiple Networks )
+* ❌Launching the token on the Cardanoscan Network
+* ❌Launching the Token on the Etherscan Network
+* ❌New PartnerShips
 
-## 5º FASE FORK Q5
+## 5st PHASE FORK Q5
 
-**Virada de chave**
+**key turn**
 
-* ❌ Anúncio na Times Square&#x20;
-* ❌ Lançamento em novas redes
-* ❌ Cross Chain
-* ❌ Bridge
-* ❌ Listagem nas principais exchanges
-* ❌ Marketing Agressivo
+* ❌ Advertising in Times Square
+* ❌ Launch on new networks
+* ❌ Cross Chain with multiple networks
+* ❌ List on major exchanges
+* ❌ Aggressive Marketing
