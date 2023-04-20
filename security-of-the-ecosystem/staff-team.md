@@ -1,23 +1,21 @@
 # 👥 Staff Team
 
-## QUEM CRIOU A EVOCARDANO PLUS?
+## WHO CREATED EVOCARDANO PLUS?
 
-O Projeto Evocardano Plus foi fundado pelo CFO - Oliver atualmente experiente no mercado de criptoativos  e administrador geral do projeto.&#x20;
+The Evocardano Plus Project was founded by CFO Oliver, who is currently experienced in the cryptocurrency market and serves as the project's general administrator. COO Carlos is responsible for all financial operations of the project, as well as having a significant influence in marketing.
 
-## DE ONDE É A EQUIPE ?
+## WHARE IS THE TEAM FORM?
 
-A equipe está localizada no  Brasil e na França , todos trabalham remotamente  e alguns já participaram presencialmente de eventos de criptoativos em Dubai e Paris  já teve contato com CZ Changpeng Zhao e sua equipe amigavelmente.
+The team is based in Brazil and France, with all members working remotely. Some team members have also participated in cryptocurrency events in person in Sao Paulo, Brazil, and Paris, France.
 
 ## INTRODUCING OUR TEAM&#x20;
 
 {% hint style="success" %}
 • CFO - Oliver
 
-• CEO - Igor Leão ( President )
+• COO - Carlos ( Chief Operation Officer )
 
 • DEV - Alenaldo  ( Programador TI - Dev )
-
-• CMO - Carlos ( Chief Marketing Officer )
 
 • CSM - Autielis ( Customer Service Manager )
 
