@@ -12,7 +12,7 @@ Ao participar de um lançamento no Launchpad, os investidores têm acesso anteci
 
 A Taxa que você paga para fazer uma pré venda  do seu projeto em nossa launchpad é 1 BNB + 5% da arrecadação total em BNB da sua pré venda. EvocLaunch não retém porcentagem  dos seus tokens , diferentemente de outras launchpad que retém 2% a 4% e acaba vendendo no lançamento prejudicando o seu projeto. Temos sistema de pagamento PIX integrado na plataforma em parceria com a BuyPayments e estamos bem encaminhados desenvolvendo parcerias com empresas de KYC e Auditorias.
 
-Estamos estruturando nossa launchpad e nosso objetivo é chegar a ser uma das Launchpad mais utilizada no mercado com sistema de AI e  cross-chain com várias redes , Tendo em vista também o nosso token principal EVOC+ todos os mêses 50% do lucro da plataforma vai para liquidez  EVOC+ e será queimado garantindo assim ainda mais valorização para nossa moeda.
+Estamos estruturando nossa launchpad e nosso objetivo é chegar a ser uma das Launchpad mais utilizada no mercado com sistema de AI e  cross-chain com várias redes , Tendo em vista também o nosso token principal EVOC+ todos os mêses 40% do lucro da plataforma vai para liquidez  EVOC+ e será queimado garantindo assim ainda mais valorização para nossa moeda.
 
 {% hint style="success" %}
 ## SEGURANÇA
