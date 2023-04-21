@@ -7,7 +7,7 @@ Additionally, the project development team can benefit from the broad exposure a
 <figure><img src="../../.gitbook/assets/evocplus.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
 {% hint style="success" %}
-## VANTAGEM
+## ADVANTAGE
 {% endhint %}
 
 The fee you pay to conduct a pre-sale of your project on our launchpad is 1 BNB + 5% of the total BNB raised in your pre-sale. EvocLaunch does not retain a percentage of your tokens, unlike other launchpads that retain 2% to 4% and end up selling them during the launch, which can harm your project. We have an integrated PIX payment system on the platform in partnership with buypayments.blog, and we are in the process of developing partnerships with KYC and Audit companies.
