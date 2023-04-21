@@ -1,7 +1,7 @@
 ---
 description: >-
-  Created in the Bscscan network destined for the Cardanoscan network a DEX:
-  decentralized with the objective of expanding in several networks.
+  Developed on the Bscscan network, EvocSwap aims to create a bridge with the
+  Cardano network and expand to several other networks !
 ---
 
 # 🔂 EvocSwap
