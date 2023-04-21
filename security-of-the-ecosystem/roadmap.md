@@ -18,7 +18,9 @@
 * ✅Donations
 * ❌Buybot EvocLaunch
 
-## 2st PHASE FORK Q2&#x20;
+## 2st PHASE FORK Q2
+
+**Preparation**&#x20;
 
 * ❌Buybot evocswap
 * ❌Pricebot evocswap
