@@ -1,8 +1,8 @@
 # 🚀 Launchpad AI
 
-EvocLaunch é uma  plataforma de lançamento de novos projetos de criptomoedas em um ambiente seguro e controlado. Qualquer pessoa poderá desenvolver e utilizar a plataforma para criar o seu próprio projeto.
+EvocLaunch is a secure and controlled platform for launching new cryptocurrency projects. Anyone can use the platform to develop and launch their own project. By participating in a launch on the Launchpad, investors gain early access to the new cryptocurrency and the opportunity to purchase tokens at a discount.&#x20;
 
-Ao participar de um lançamento no Launchpad, os investidores têm acesso antecipado à nova criptomoeda e a oportunidade de comprar tokens com desconto. Além disso, a equipe de desenvolvimento do projeto pode se beneficiar da ampla exposição e credibilidade que a plataforma de lançamento oferece, o que pode ajudar a aumentar a adoção e o sucesso da criptomoeda no mercado.
+Additionally, the project development team can benefit from the broad exposure and credibility that the launch platform offers, which can help increase the adoption and success of the cryptocurrency in the market.
 
 <figure><img src="../../.gitbook/assets/evocplus.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
 
@@ -10,15 +10,18 @@ Ao participar de um lançamento no Launchpad, os investidores têm acesso anteci
 ## VANTAGEM
 {% endhint %}
 
-A Taxa que você paga para fazer uma pré venda  do seu projeto em nossa launchpad é 1 BNB + 5% da arrecadação total em BNB da sua pré venda. EvocLaunch não retém porcentagem  dos seus tokens , diferentemente de outras launchpad que retém 2% a 4% e acaba vendendo no lançamento prejudicando o seu projeto. Temos sistema de pagamento PIX integrado na plataforma em parceria com a [buypayments.blog](https://www.buypayments.blog/) e estamos bem encaminhados desenvolvendo parcerias com empresas de KYC e Auditorias.
+The fee you pay to conduct a pre-sale of your project on our launchpad is 1 BNB + 5% of the total BNB raised in your pre-sale. EvocLaunch does not retain a percentage of your tokens, unlike other launchpads that retain 2% to 4% and end up selling them during the launch, which can harm your project. We have an integrated PIX payment system on the platform in partnership with buypayments.blog, and we are in the process of developing partnerships with KYC and Audit companies.
 
-Estamos estruturando nossa launchpad e nosso objetivo é chegar a ser uma das Launchpad mais utilizada no mercado com sistema de AI e  cross-chain com várias redes , Tendo em vista também o nosso token principal EVOC+ todos os mêses 40% do lucro da plataforma vai para liquidez  EVOC+ e será queimado garantindo assim ainda mais valorização para nossa moeda.
+We are structuring our launchpad with the goal of becoming one of the most utilized launchpads in the market, with AI systems and cross-chain capabilities across various networks. Additionally, our main token, EVOC+, will have 40% of the platform's profits allocated to its liquidity pool and burned every month, ensuring further appreciation of our currency.
 
 {% hint style="success" %}
 ## SEGURANÇA
 {% endhint %}
 
-EvocLaunch possui um dos melhores sistemas para a segurança  do seu investimento a plataforma só libera a liquidez para o desenvolvedor após a finalização do claim , ou seja só após as suas moedas estiverem em sua carteira é que eles conseguem ter acesso ao dinheiro aplicado pelos investidores. Também o desenvolvedor é livre para fazer o cancelamento da pré venda e a plataforma devolve todo o dinheiro aplicado pelos investidores liberando o claim para reembolso.
+EvocLaunch has one of the best systems for securing your investment. The platform only releases liquidity to the developer after the completion of the claim process, meaning that they only gain access to the invested funds after the coins are in your wallet. Additionally, the developer has the freedom to cancel the pre-sale, and the platform will refund all the funds invested by the users by releasing the claim for reimbursement.
 
-Embora existem muitos desenvolvedores mal intencionados , e você sempre será o total responsável pelo seu investimento , a segurança da plataforma  é garantida  , não garantimos segurança após a liquidez já ter ido para a mão dos desenvolvedores do projeto no qual você está investindo. Por esse motivo sempre tente filtrar todos os projetos que você está investindo , estude o projeto e as pessoas que estão por trás antes de você aplicar o seu dinheiro.&#x20;
+* TO ACTIVATE THE PURCHASE METHOD VIA (PIX), THE PROJECT MUST UNDERGO KYC AND AUDIT ON THE EVOCLAUNCH PLATFORM.
+* PROJECTS THAT ACT IN BAD FAITH AND ARE PROVEN BY ANALYSTS TO HAVE COMMITTED FRAUD, DESPITE HAVING THE KYC SEAL ON THE PLATFORM, WILL HAVE ALL DATA EXPLAINED TO BOTH COMMUNITIES.
+
+While there may be malicious developers, and you are always fully responsible for your investment, the security of the platform is guaranteed. However, we do not guarantee security once liquidity has been transferred to the developers of the project in which you are investing. For this reason, always try to filter all the projects you are investing in, study the project and the people behind it before you invest your money.
 
