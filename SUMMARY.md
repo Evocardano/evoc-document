@@ -50,3 +50,5 @@
 * [🇱🇷 TELEGRAM EN/GL](https://t.me/evocardanoenglish)
 * [🐦 TWITTER](https://twitter.com/evocplus)
 * [📸 INSTAGRAM](https://www.instagram.com/evocplus)
+* [⁉ PORTUGUESE NEWS CHANNEL](https://t.me/evocardanoinfopt)
+* [⁉ ENGLISH NEWS CHANNEL](https://t.me/evocardanoinfoen)
