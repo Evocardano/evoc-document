@@ -1,7 +1,7 @@
 ---
 description: >-
   Developed on the Bscscan network, EvocSwap aims to create a bridge with the
-  Cardano network and expand to several other networks !
+  Cardanoscan network and expand to several other networks !
 ---
 
 # 🔂 EvocSwap
