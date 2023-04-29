@@ -1,56 +1,56 @@
 # Tutorial  Android
 
-## PARTICIPANDO DO HARDFORK ANDROID.
+## PARTICIPATING IN HARDFORK ANDROID.
 
-## <mark style="color:purple;">1º PASSO</mark>
+## <mark style="color:purple;">1º STEP</mark>
 
-* Abra a sua carteira e vá na opção navegador da sua carteira !
-* Digite o endereço da plataforma evoclaunch.com e acesse pelo navegador da sua carteira !
+* Open your wallet and go to your wallet's browser option!
+* Enter the [evoclaunch.com](https://www.evoclaunch.com/) platform address and access it through your wallet's browser!
 
 <figure><img src="../../.gitbook/assets/Img1.jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">2º PASSO</mark>
+## <mark style="color:purple;">2º STEP</mark>
 
-* Role para baixo e encontre a opção hardfork ( Switch of Tokens ).
-* Analise de qual projeto você deseja participar do hardfork.
-* Click em ( Participate )  para abrir as configurações para a troca das suas moedas.
+* Scroll down and find the hardfork option ( Switch of Tokens ).
+* Review which project you want to participate in the hardfork.
+* Click on (Participate) to open your currency exchange settings.
 
 <figure><img src="../../.gitbook/assets/Img2.jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">3º PASSO</mark>
+## <mark style="color:purple;">3º STEP</mark>
 
-* Veja em qual rede sua carteira está conectada no canto superior direito , é necessário está na rede ( Binance Smart Chain  )  para conectar a carteira corretamente.
-* Após estar na rede correta click em ( Wallet Connect )
+* See which network your wallet is connected to in the top right corner, you need to be on the network (Binance Smart Chain) to connect the wallet correctly.
+* After being on the correct network, click on (Wallet Connect).
 
 <figure><img src="../../.gitbook/assets/Img3.jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">4º PASSO</mark>
+## <mark style="color:purple;">4º STEP</mark>
 
-* Após sua carteira está conectada , click em  ( EVOC+ )
-* Aprove a sua carteira para a rede reconhecer.
-* Você irá pagar uma pequena taxa de gás da rede pela aprovação.
+* After your wallet is connected , click on ( EVOC+ )
+* Approve your wallet for the network to recognize.
+* You will pay a small utility gas fee for approval.
 
 <figure><img src="../../.gitbook/assets/Img4 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">5º PASSO</mark>
+## <mark style="color:purple;">5º STEP</mark>
 
-* Agora click no botão ( EVOC+ ) novamente , vai abrir um campo para você digitar as quantidades antigas das suas moedas.
-* Se você não tiver as moedas desejadas nessa carteira , você irá se deparar com ( Insufficient balance )
-* Coloque a quantidade de moeda que você deseja trocar.
-* Se o projeto definir um bônus para você , você vai notar que existe uma notificação com a porcentagem a mais de tokens que você vai receber.
-* Click em ( Switch Currency ) e aprove a transação.
+* Now click on the button ( EVOC+ ) again, it will open a field for you to type the old amounts of your coins.
+* If you do not have the desired coins in this wallet , you will see ( Insufficient Balance )
+* Put the amount of currency you want to exchange.
+* If the project sets a bonus for you, you will notice that there is a notification with the percentage of extra tokens you will receive.
+* Click ( Change Currency ) and approve a transaction.
 
 <figure><img src="../../.gitbook/assets/Img5.jpg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">6º PASSO</mark>
+## <mark style="color:purple;">6º STEP</mark>
 
-* Pronto , seus tokens antigos foram trocados por novos tokens.
-* Role para cima e a plataforma irá informar os tokens trocados.
-* Não esqueça de registrar o novo contrato da moeda na carteira para conferir se está lá.
+* That's it, your old tokens were exchanged for new tokens.
+* Scroll up and the platform will report the exchanged tokens.
+* Do not forget to register the new currency contract in the wallet to verify that it is there.
 
 <figure><img src="../../.gitbook/assets/img6.jpg" alt=""><figcaption></figcaption></figure>
 
-### CONTATO PARA SUPORTE
+## CONTACT FOR SUPPORT
 
-* Grupo  para suporte : [https://t.me/+iBiJv0Mc1ko2ZGYx](https://t.me/+iBiJv0Mc1ko2ZGYx)
-* Entre e marque algum dos admins responsaveis pelo projeto
+* Support Group: [https://t.me/+iBiJv0Mc1ko2ZGYx](https://t.me/+iBiJv0Mc1ko2ZGYx)
+* Enter and tag any of the admins responsible for the project.
