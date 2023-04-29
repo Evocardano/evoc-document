@@ -6,12 +6,14 @@ The Evocardano Plus Project was founded by CFO Oliver, who is currently experien
 
 ## WHARE IS THE TEAM FORM?
 
-The team is based in Brazil and France, with all members working remotely. Some team members have also participated in cryptocurrency events in person in Sao Paulo, Brazil, and Paris France.
+The team is based in Brazil and Inglaterra, with all members working remotely. Some team members have also participated in cryptocurrency events in person in Sao Paulo, Brazil, and Paris France.
 
 ## INTRODUCING OUR TEAM&#x20;
 
 {% hint style="success" %}
-• CFO - Oliver
+• CFO - Oliver ( Chief Financial Officer )
+
+• CEO - Silvano ( Chief Executive Officer )
 
 • COO - Carlos ( Chief Operation Officer )
 
