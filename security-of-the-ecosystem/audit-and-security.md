@@ -1,3 +1,5 @@
 # 🛡 Audit and Security
 
-Nosso contrato é (Aprovado e Auditado) pela CyberScops , emitindo transparência&#x20;
+{% hint style="success" %}
+* [x] Our contract is (Approved and Audited) by CyberScops, ensuring transparency and security.
+{% endhint %}
