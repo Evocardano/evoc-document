@@ -15,7 +15,7 @@ The team is based in Brazil and Inglaterra, with all members working remotely. S
 
 • CEO - Silvano ( Chief Executive Officer )
 
-• COO - Carlos ( Chief Operation Officer )
+• COO - Antônio Carlos ( Chief Operation Officer )
 
 • DEV - Alenaldo  ( Programador TI - Dev )
 
