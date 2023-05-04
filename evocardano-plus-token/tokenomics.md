@@ -64,7 +64,7 @@ _2. (8,329...%) = 249.898.374,72_&#x20;
 
 **2. Of the 15% in sales will be distributed:**&#x20;
 
-<mark style="background-color:red;">**4% Renda Passiva**</mark> : _These fees are returned to token holders in the form of an ADA reward (Cardano). hold your EVOC+ tokens and receive ADA(Cardano) with every new distribution you have._
+<mark style="background-color:red;">**4% Reflection**</mark> : _These fees are returned to token holders in the form of an ADA reward (Cardano). hold your EVOC+ tokens and receive ADA(Cardano) with every new distribution you have._
 
 <mark style="background-color:red;">**8% Marketing**</mark> : _It is intended for the marketing portfolio where a good part of them will be used to publicize the project, contract with influencers and various advertisements with companies specialized in the subject._
 
