@@ -16,7 +16,7 @@
 * [🟣 Resume EvocPlus](evocardano-plus-token/resume.md)
 * [🐳 Tokenomics](evocardano-plus-token/tokenomics.md)
 * [📃 Contract](evocardano-plus-token/contract.md)
-* [📶 Buy EvocPlus](evocardano-plus-token/buy-evocplus.md)
+* [📶 Buy EVOC+](evocardano-plus-token/buy-evoc+.md)
 
 ## LAUNCHPAD ICO EVOCARDANO PLUS
 
