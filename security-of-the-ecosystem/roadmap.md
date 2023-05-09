@@ -8,11 +8,11 @@
 * ✅Social Media
 * ✅New Contract
 * ✅HardFork
-* ❌Audit
+* ✅Audit
 * ❌Icon in BscScan
 * ❌Whitepaper
 * ✅Partnership with Buypayments
-* ❌Launchpad&#x20;
+* ✅Launchpad ICO
 * ✅+5000 Portuguese community members
 * ✅+3000 English community members
 * ✅Donations
