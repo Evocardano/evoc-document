@@ -10,7 +10,7 @@
 * ✅HardFork
 * ✅Audit
 * ❌Icon in BscScan
-* ❌Whitepaper
+* ✅Whitepaper 2.0
 * ✅Partnership with Buypayments
 * ✅Launchpad ICO
 * ✅+5000 Portuguese community members
