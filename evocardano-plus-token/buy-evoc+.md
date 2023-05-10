@@ -5,9 +5,9 @@ description: >-
   ✅Marketplace NFT ✅Stake NFT ✅Bridge with multiple.
 ---
 
-# 📶 Buy EvocPlus
+# 📶 Buy EVOC+
 
-## 🎉FIRST PHASE OF PRE-SALE🎉
+## 🎉PRE-ORDER STARTS SOON🎉
 
 ✅ **SOFTCAP : 500 BNB**&#x20;
 
