@@ -5,3 +5,5 @@
 {% endhint %}
 
 {% embed url="https://github.com/cyberscope-io/audits/blob/main/evoc/audit.pdf" %}
+
+### ✅ After the organization of the project , the contract will be renounced with small fees guaranteeing even more security for all investors !!
