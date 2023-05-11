@@ -136,7 +136,7 @@ Binance Wallet is a browser plugin wallet that natively supports Binance Chain (
 {% endtabs %}
 
 {% hint style="danger" %}
-**\*\* NEVER, under any circumstances, you should give someone your private key or recovery phrase ("start phrase"). This will give someone full access to your cryptocurrency!**
+**\*\* NEVER, under any circumstances, you should give someone your private key or recovery phrase ("private phrase"). This will give someone full access to your cryptocurrency!**
 
 **The genuine website and team will never ask you to enter your private phrase.\*\***
 {% endhint %}
