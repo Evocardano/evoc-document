@@ -4,9 +4,7 @@ description: Below you can find all the details of the project's token distribut
 
 # 🐳 Tokenomics
 
-## <mark style="color:purple;">DISTRIBUTION OF TOKENS</mark>
-
-<figure><img src="../.gitbook/assets/tokenomics.png" alt=""><figcaption></figcaption></figure>
+## <mark style="color:orange;">DISTRIBUTION OF TOKENS</mark>
 
 **TOTAL OF 970.000.000.000.000 ( NINE HUNDRED AND SEVENTY TRILLION ) UNITS.**
 
@@ -25,9 +23,7 @@ description: Below you can find all the details of the project's token distribut
 <mark style="background-color:green;">**18,3%**</mark>   = Ecosystem ( 97 trillion )\
 
 
-
-
-## <mark style="color:purple;">TRANSACTION FEES</mark>&#x20;
+## <mark style="color:orange;">TRANSACTION FEES</mark>&#x20;
 
 **BUY TAX: **<mark style="background-color:green;">**5%**</mark>
 
@@ -55,6 +51,6 @@ description: Below you can find all the details of the project's token distribut
 
 
 
-## <mark style="color:purple;">BLOCKED LIQUIDITY</mark>&#x20;
+### <mark style="color:red;"><mark style="color:purple;">BLOCKED LIQUIDITY<mark style="color:purple;"></mark>&#x20;
 
 For the safety of all token holders who have given a vote of confidence and for those who want to be part of the project's success by reaping benefits in the future, we have decided to lock liquidity so that they can have the full trust of the **Pinscher Coin** development team. Liquidity is <mark style="color:green;background-color:green;">**locked for 2 years**</mark> via PinkSale, which is one of the best in the field for liquidity locks.
