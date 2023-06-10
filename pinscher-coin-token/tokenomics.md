@@ -49,8 +49,6 @@ description: Below you can find all the details of the project's token distribut
 
 <mark style="background-color:red;">**1% liquidity**</mark> : used to ensure greater longevity of the project, increasing liquidity and keeping the chart more stable to generate greater convenience and security for investors
 
-
-
-### <mark style="color:red;"><mark style="color:purple;">BLOCKED LIQUIDITY<mark style="color:purple;"></mark>&#x20;
+## <mark style="color:orange;">BLOCKED LIQUIDITY</mark>&#x20;
 
 For the safety of all token holders who have given a vote of confidence and for those who want to be part of the project's success by reaping benefits in the future, we have decided to lock liquidity so that they can have the full trust of the **Pinscher Coin** development team. Liquidity is <mark style="color:green;background-color:green;">**locked for 2 years**</mark> via PinkSale, which is one of the best in the field for liquidity locks.
