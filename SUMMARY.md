@@ -43,7 +43,7 @@
 
 ## SOCIAL ACTION
 
-* [💜 Donations](social-action/donations.md)
+* [🐶 Donations](social-action/donations.md)
 
 ## SOCIAL NETWORKS
 
