@@ -1,7 +1,7 @@
 ---
 description: >-
   Use your NFT PLUS to increase your bet percentage or trade at any time on the
-  evocswap marketplace!
+  PinscherSwap marketplace!
 ---
 
 # 🪙 Stake NFT
@@ -16,7 +16,7 @@ Staking has become a very common way to profit from cryptocurrencies without tra
 
 ## NFT PLUS
 
-Exclusively designed by the project, NFTs with valuable artworks and special rarities will be launched directly by the project, with utility for you to increase the percentage of your stake within the platform and receive EVOC+ as a reward. There will be three types of rarities: Rare, Ruby, and Legendary. With each collection launched, you can become the sole owner of any NFT, which will have an initial value for you to purchase and specific APR% percentages to increase your earnings.
+Exclusively designed by the project, NFTs with valuable artworks and special rarities will be launched directly by the project, with utility for you to increase the percentage of your stake within the platform and receive **Pinscher Coin** as a reward. There will be three types of rarities: Rare, Ruby, and Legendary. With each collection launched, you can become the sole owner of any NFT, which will have an initial value for you to purchase and specific APR% percentages to increase your earnings.
 
 <div>
 

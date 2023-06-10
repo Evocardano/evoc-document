@@ -1,15 +1,40 @@
 ---
-description: ⚠ ATTENTION HOLDERS ⚠
+description: Detailed Overview of Pinscher Coin Project.
+coverY: 0
 ---
 
-# ℹ Information
+# 🌏 Overview
 
-{% hint style="danger" %}
-The Evocardano project has undergone a lengthy contract update and is improving the DEX. We will also be a platform for ICO launches to bring good liquidity to all of us. We apologize to everyone for the delay, but these changes were necessary. Those who have been with the project since the beginning know our entire history, our commitment, dedication, and transparency. We have achieved several accomplishments, such as CMC, CG, BigONE, CertiK, and Cardanoscan. We reached one million USDT traded in 24 hours, bringing much profit and appreciation to everyone. However, one of these listings brought us a lot of problems because it was a ghost exchange. With the support and influence of the community, we managed to get 500 signups requested by BigONE to be listed, which seemed like a free listing but ended up being very expensive. They drained some of our funds, leaving us with little USDT to continue marketing and concluding the project because all the money spent on the BigONE listing had no results. Another major problem was our contract, which lacked necessary functions to hold the sale and have control over the distribution of ADA rewards to investors. With the size of the problem we faced, any other project would invent an excuse and end the dream for everyone.
-{% endhint %}
+**PinscherSwap** is a decentralized cryptocurrency trading platform that doesn't rely on a centralized authority to manage transactions. Instead, transactions occur directly between users without the need for intermediaries such as banks or brokerages. Additionally, it has its own main cryptocurrency called **Pinscher Coin**, which is responsible for governing the DEX, bringing in greater liquidity and transactions, and aims to work on multiple networks. Currently running on the Bscscan network, **Pinscher Coin** aims to be launched within the **Pinscherscan** network and expand to various other networks.
 
-{% hint style="success" %}
-The Evocardano team thinks differently. We don't want to harm anyone, and the lives of thousands of people can be changed by just one coin, Evocardano Plus. The contract is already prepared, updated, and corrected, and we're coming with a new structure and a new goal to continue our story. It won't be different. We built a platform with a unique function, HARD FORK, which is already in effect ([evoclaunch.com](https://www.evoclaunch.com/)), and many people are already exchanging their old coins for the new ones. This function was created to make the lives of developers in web 3.0 easier and will be well-utilized by projects that need to update their contract and migrate from old contracts to new ones. We're coming with many exciting things, but we can't talk about them at the moment 😎. Please wait and support the project. We'll be together until the first 100 million market cap in 24 hours 🚀.
+&#x20;All contracts involved in the **Pinscher Coin** project are secure and verified, and have Proof-of-Stake functions that can be activated or deactivated at any time. This function brings the possibility of investors receiving passive income with each new buy and sell transaction!
 
+<figure><img src=".gitbook/assets/png.png" alt=""><figcaption></figcaption></figure>
 
-{% endhint %}
+## THE EXPANSION&#x20;
+
+The cryptocurrency market is booming, with thousands of people around the world adapting to the market and becoming big investors and developers every year. With this vision in mind, we decided to create an ICO Launchpad, which is a launch platform where any developer can launch their project with security and a variety of functions.
+
+These functions include token launches, hardfork updates to contracts, automatic and manual pre-sales, pre-sales via PIX, KYC, AUDIT, SAFU, and an affiliate system for pre-sales. What's interesting is that this entire system is connected to **Pinscher Coin**, the main cryptocurrency of the **PinscherSwap** Dex. As more and more projects are launched on our platform, our liquidity will also increase, as the value of our cryptocurrency will increase as well.
+
+## NFT MARKET
+
+The NFT (Non-Fungible Tokens) market is a relatively new category of digital assets that has attracted a lot of attention in recent years. **PinscherSwap** is bringing this market into its ecosystem and our NFT marketplace will be unique and exclusive, never seen before in the current market, with ways to increase your stake earnings through the art that will be for sale on the marketplace. NFTs are unique digital representations of an item, whether it be a media file, a tweet, a video, or any other type of digital content. They are built using blockchain technology, which means that each NFT is authenticated as unique and publicly registered on a decentralized network.
+
+<figure><img src=".gitbook/assets/Block 1.jpg" alt=""><figcaption></figcaption></figure>
+
+NFTs allow content creators to monetize their work in a new and exciting way. They offer buyers a way to own and trade unique and valuable digital items. The NFT market has attracted artists, musicians, athletes, celebrities, and many others, and has been responsible for some notable sales. For example, in March 2021, a digital artwork by artist Beeple was sold for over $69 million in an auction by Christie's auction house.
+
+<figure><img src=".gitbook/assets/3cd9879b37e0237cf86e2f13e9ae594c.png" alt=""><figcaption></figcaption></figure>
+
+Although the NFT market is still in its infancy, it is growing rapidly and attracting a lot of attention. NFTs are already being used in a variety of industries, including gaming, music, sports, fashion, and more. The future of the NFT market is uncertain, but many experts believe that it has the potential to become a new class of digital assets that can change the way people think about digital ownership and collecting.
+
+## PinscherLaunch  AI
+
+Artificial Intelligence (AI) is a branch of computer science that focuses on the development of systems capable of performing tasks that would typically require human intelligence to be carried out. These systems are designed to simulate human behavior, including the ability to learn, reason, perceive, comprehend, and interact with the environment.
+
+AI can be applied in various fields such as gaming, robotics, recommendation systems, speech recognition, image processing, data analysis, and more. There are different approaches to the development of AI systems, including logical programming, machine learning, and neural networks.
+
+Our plan is to introduce an intelligent function where all investors will be notified when there is a launch with a good probability of success. With the help of Artificial Intelligence, it may also be possible to notify all investors when a project is about to launch with a low level of confidence. This will reduce the possibility of scammers taking advantage of people and bring even more confidence to our launchpad!
+
+<figure><img src=".gitbook/assets/ai-cloud-concept-with-robot-arm.jpg" alt=""><figcaption><p>EVOCLAUNCH AI</p></figcaption></figure>

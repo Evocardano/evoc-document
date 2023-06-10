@@ -1,22 +1,23 @@
 # Table of contents
 
-* [ℹ Information](README.md)
-* [🌏 Overview](overview.md)
+* [🌏 Overview](README.md)
 
-## EVOCSWAP ECOSYSTEM
+## PINSCHESWAP ECOSYSTEM
 
-* [🔂 EvocSwap](evocswap-ecosystem/evocswap.md)
-* [🪙 Stake NFT](evocswap-ecosystem/stake-nft.md)
-* [↪ Farms](evocswap-ecosystem/farms.md)
-* [↪ Community Pools](evocswap-ecosystem/community-pools.md)
-* [🏪 Marketplace NFT](evocswap-ecosystem/marketplace-nft.md)
+* [🔂 PinscherSwap](pinscheswap-ecosystem/pinscherswap.md)
+* [🪙 Stake NFT](pinscheswap-ecosystem/stake-nft.md)
+* [🤖 Pinscher AI](pinscheswap-ecosystem/pinscher-ai.md)
+* [🗽 Pinscher DAO](pinscheswap-ecosystem/pinscher-dao.md)
+* [🏪 Marketplace NFT](pinscheswap-ecosystem/marketplace-nft.md)
+* [↪ Farms](pinscheswap-ecosystem/farms.md)
+* [↪ Community Pools](pinscheswap-ecosystem/community-pools.md)
 
-## EVOCARDANO PLUS TOKEN
+## PINSCHER COIN TOKEN
 
-* [🟣 Resume EvocPlus](evocardano-plus-token/resume.md)
-* [🐳 Tokenomics](evocardano-plus-token/tokenomics.md)
-* [📃 Contract](evocardano-plus-token/contract.md)
-* [📶 Buy EVOC+](evocardano-plus-token/buy-evoc+.md)
+* [🟣 Pinscher Coin Resume](pinscher-coin-token/pinscher-coin-resume.md)
+* [🐳 Tokenomics](pinscher-coin-token/tokenomics.md)
+* [📃 Contract](pinscher-coin-token/contract.md)
+* [📶 Buy Pinscher Coin](pinscher-coin-token/buy-pinscher-coin.md)
 
 ## LAUNCHPAD ICO EVOCARDANO PLUS
 

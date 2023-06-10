@@ -29,14 +29,7 @@ When setting up a wallet, make sure to:
 
 Wallets of Mobile devices and desktops have strengths. Consider which best fits your needs to help decide which type of wallet to use.
 
-| In                                         | Mobile | Workspace |
-| ------------------------------------------ | ------ | --------- |
-| use anywhere                               | ✅      | ➖         |
-| Easy to use                                | ✅      | ➖         |
-| safer                                      | ➖      | ✅         |
-| accessible friendly                        | ➖      | ✅         |
-| Resistant to damage/loss/theft             | ➖      | ✅         |
-| Resistant to power/connection interruption | ✅      | ➖         |
+<table><thead><tr><th width="283">In </th><th width="176">Mobile</th><th>Workspace</th></tr></thead><tbody><tr><td>use anywhere</td><td>✅</td><td>➖</td></tr><tr><td>Easy to use</td><td>✅</td><td>➖</td></tr><tr><td>safer</td><td>➖</td><td>✅</td></tr><tr><td>accessible friendly</td><td>➖</td><td>✅</td></tr><tr><td>Resistant to damage/loss/theft</td><td>➖</td><td>✅</td></tr><tr><td>Resistant to power/connection interruption</td><td>✅</td><td>➖</td></tr></tbody></table>
 
 ## Wallets for Smartphones / Cellphones
 
@@ -44,7 +37,7 @@ Smartphones/mobile wallets allow you to access your cryptocurrencies virtually p
 
 ## Which mobile wallet should I choose?
 
-<table><thead><tr><th>In</th><th>Trust Wallet</th><th>Metamask</th><th data-hidden>Pocket Token</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td>Support for Binance Smart Chain</td><td>✅</td><td>⚠️</td><td>✅</td><td></td><td></td></tr><tr><td>Integrated dApp browser</td><td><p>✅ Android</p><p>⚠️ iOS</p></td><td>➖</td><td>✅</td><td></td><td></td></tr><tr><td>Hardware wallet compatible</td><td>➖</td><td>✅</td><td>➖</td><td></td><td></td></tr><tr><td>Open code (auditability))</td><td>✅</td><td>✅</td><td>✅</td><td></td><td></td></tr><tr><td>Interact with BscScan (for advanced users!)</td><td>➖</td><td>✅</td><td>➖</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="202">In</th><th width="131">Trust Wallet</th><th width="150">Metamask</th><th data-hidden>Pocket Token</th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td>Support for Binance Smart Chain</td><td>✅</td><td>⚠️</td><td>✅</td><td></td><td></td></tr><tr><td>Integrated dApp browser</td><td><p>✅ Android</p><p>⚠️ iOS</p></td><td>➖</td><td>✅</td><td></td><td></td></tr><tr><td>Hardware wallet compatible</td><td>➖</td><td>✅</td><td>➖</td><td></td><td></td></tr><tr><td>Open code (auditability))</td><td>✅</td><td>✅</td><td>✅</td><td></td><td></td></tr><tr><td>Interact with BscScan (for advanced users!)</td><td>➖</td><td>✅</td><td>➖</td><td></td><td></td></tr></tbody></table>
 
 ⚠️ requires some configuration.
 
