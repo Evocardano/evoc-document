@@ -4,8 +4,6 @@ EvocLaunch is a secure and controlled platform for launching new cryptocurrency 
 
 Additionally, the project development team can benefit from the broad exposure and credibility that the launch platform offers, which can help increase the adoption and success of the cryptocurrency in the market.
 
-<figure><img src="../../.gitbook/assets/evocplus.jpg" alt=""><figcaption><p><a href="https://www.evoclaunch.com/">https://www.evoclaunch.com/</a></p></figcaption></figure>
-
 {% hint style="success" %}
 ## ADVANTAGE
 {% endhint %}
