@@ -14,8 +14,8 @@
 
 ## PINSCHER COIN TOKEN
 
-* [🟣 Pinscher Coin Resume](pinscher-coin-token/pinscher-coin-resume.md)
-* [🐳 Tokenomics](pinscher-coin-token/tokenomics.md)
+* [🐶 Pinscher Coin Resume](pinscher-coin-token/pinscher-coin-resume.md)
+* [🍕 Tokenomics](pinscher-coin-token/tokenomics.md)
 * [📃 Contract](pinscher-coin-token/contract.md)
 * [📶 Buy Pinscher Coin](pinscher-coin-token/buy-pinscher-coin.md)
 
@@ -43,7 +43,7 @@
 
 ## SOCIAL ACTION
 
-* [🐶 Donations](social-action/donations.md)
+* [💟 Donations](social-action/donations.md)
 
 ## SOCIAL NETWORKS
 
