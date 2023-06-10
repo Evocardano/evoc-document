@@ -2,7 +2,7 @@
 description: Below you can find all the details of the project's token distribution.
 ---
 
-# 🐳 Tokenomics
+# 🍕 Tokenomics
 
 ## <mark style="color:orange;">DISTRIBUTION OF TOKENS</mark>
 

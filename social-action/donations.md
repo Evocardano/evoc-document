@@ -1,4 +1,4 @@
-# 🐶 Donations
+# 💟 Donations
 
 ##
 

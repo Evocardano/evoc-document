@@ -5,7 +5,7 @@ description: >-
   better speed and taxes.
 ---
 
-# 🟣 Pinscher Coin Resume
+# 🐶 Pinscher Coin Resume
 
 ## ABOUT THE PROJECT
 

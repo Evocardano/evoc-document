@@ -21,9 +21,6 @@
 
 ## LAUNCHPAD ICO EVOCARDANO PLUS
 
-* [🔀 HardFork](launchpad-ico-evocardano-plus/hardfork/README.md)
-  * [Tutorial Desktop](launchpad-ico-evocardano-plus/hardfork/tutorial-desktop.md)
-  * [Tutorial  Android](launchpad-ico-evocardano-plus/hardfork/tutorial-android.md)
 * [🚀 Launchpad AI](launchpad-ico-evocardano-plus/launchpad-ai/README.md)
   * [SAFU](launchpad-ico-evocardano-plus/launchpad-ai/safu.md)
   * [KYC](launchpad-ico-evocardano-plus/launchpad-ai/kyc.md)
