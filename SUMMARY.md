@@ -30,7 +30,7 @@
 ## SECURITY OF THE ECOSYSTEM
 
 * [📅 Roadmap](security-of-the-ecosystem/roadmap.md)
-* [👥 Staff Team](security-of-the-ecosystem/staff-team.md)
+* [🫂 Staff Team](security-of-the-ecosystem/staff-team.md)
 * [🛡 Audit and Security](security-of-the-ecosystem/audit-and-security.md)
 * [‼ Disclaimer](security-of-the-ecosystem/disclaimer.md)
 
