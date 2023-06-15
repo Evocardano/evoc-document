@@ -6,17 +6,13 @@
 
 * ✅New Logo
 * ✅Social Media
-* ✅New Contract
-* ✅HardFork
-* ✅Audit
+* ❌New Contract
+* ❌Audit
 * ❌Icon in BscScan
 * ✅Whitepaper 2.0
-* ✅Partnership with Buypayments
 * ✅Launchpad&#x20;
-* ✅+5000 Portuguese community members
-* ✅+3000 English community members
 * ✅Donations
-* ❌Buybot EvocLaunch
+* ❌Buybot Pinscher Launch
 
 ## 2st PHASE FORK Q2
 
