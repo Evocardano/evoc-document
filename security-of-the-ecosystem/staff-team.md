@@ -2,7 +2,7 @@
 
 ## WHERE DID PINSCHER COIN COME FROM?
 
-Pinscher Coin was founded by CFO Vladimir , who currently has experience in the cryptocurrency market and operates on the binance futures market the meme came from a well-known image on the internet. CEO Silvano president of the project is responsible for the financial operations and marketing of the project.
+Pinscher Coin was founded by CFO Vladimir Santos , who currently has experience in the cryptocurrency market and operates on the binance futures market the meme came from a well-known image on the internet. CEO Silvano president of the project is responsible for the financial operations and marketing of the project.
 
 ## WHERE IS THE PINSCHER TEAM FROM?
 
