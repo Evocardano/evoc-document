@@ -51,13 +51,9 @@
 
 **Innovation and improvements**
 
-* ❌Pre-sale in an exchange
-* ❌Cardanoscan Network Contract
-* ❌Bridge ( Cardanoscan )
 * ❌Contract on the Etherscan Network
 * ❌Bridge ( Etherscan )
 * ❌DEX Bridge ( Multiple Networks )
-* ❌Launching the token on the Cardanoscan Network
 * ❌Launching the Token on the Etherscan Network
 * ❌New PartnerShips
 
