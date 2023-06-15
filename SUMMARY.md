@@ -46,7 +46,6 @@
 
 * [📲 TELEGRAM PT/BR](https://t.me/pinschertokenpt)
 * [📲 TELEGRAM OFFICIAL](https://t.me/pinschertoken)
-* [🐦 TWITTER](https://twitter.com/evocplus)
-* [📸 INSTAGRAM](https://www.instagram.com/evocplus)
-* [⁉ PORTUGUESE NEWS CHANNEL](https://t.me/evocardanoinfopt)
-* [⁉ ENGLISH NEWS CHANNEL](https://t.me/evocardanoinfoen)
+* [🐦 TWITTER](https://twitter.com/pinschertoken)
+* [📸 INSTAGRAM](https://www.instagram.com/pinscher.token)
+* [🔥 HOT NEWS CHANNEL](https://t.me/pinschercoinnews)
