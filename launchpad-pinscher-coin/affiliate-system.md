@@ -8,4 +8,4 @@ Pinscher Launch aims to connect people all over the world in a decentralized mar
 
 ## ADVANTAGE
 
-The Evoc Launch affiliate system brings a strong connection between the investor and their favorite project. If you are enthusiastic about a project launched on the platform and wish to spread the news, use your referral link. Not only will you benefit your favorite project, but you will also earn a bonus in the form of tokens, potentially making significant profits during its launch.
+The Pinscher Launch affiliate system brings a strong connection between the investor and their favorite project. If you are enthusiastic about a project launched on the platform and wish to spread the news, use your referral link. Not only will you benefit your favorite project, but you will also earn a bonus in the form of tokens, potentially making significant profits during its launch.
