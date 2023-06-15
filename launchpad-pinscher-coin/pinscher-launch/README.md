@@ -16,7 +16,7 @@ We are structuring our launchpad with the goal of becoming one of the most utili
 ## SECURITY
 {% endhint %}
 
-EvocLaunch has one of the best systems for securing your investment. The platform only releases liquidity to the developer after the completion of the claim process, meaning that they only gain access to the invested funds after the coins are in your wallet. Additionally, the developer has the freedom to cancel the pre-sale, and the platform will refund all the funds invested by the users by releasing the claim for reimbursement.
+Pinscher Launch has one of the best systems for securing your investment. The platform only releases liquidity to the developer after the completion of the claim process, meaning that they only gain access to the invested funds after the coins are in your wallet. Additionally, the developer has the freedom to cancel the pre-sale, and the platform will refund all the funds invested by the users by releasing the claim for reimbursement.
 
 * TO ACTIVATE THE PURCHASE METHOD VIA (PIX), THE PROJECT MUST UNDERGO KYC AND AUDIT ON THE PINSCHER LAUNCH PLATFORM.
 * PROJECTS THAT ACT IN BAD FAITH AND ARE PROVEN BY ANALYSTS TO HAVE COMMITTED FRAUD, DESPITE HAVING THE KYC SEAL ON THE PLATFORM, WILL HAVE ALL DATA EXPLAINED TO BOTH COMMUNITIES.
