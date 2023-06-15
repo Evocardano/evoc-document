@@ -16,8 +16,8 @@ Staking has become a very common way to profit from cryptocurrencies without tra
 
 ## NFT Stake Fix
 
-Exclusively designed by the project, NFTs with valuable artworks and special rarities will be launched directly by the project, with utility for you to increase the percentage of your stake within the platform and receive **Pinscher Coin** as a reward. There will be three types of rarities: Rare, Ruby, and Legendary. With each collection launched, you can become the sole owner of any NFT, which will have an initial value for you to purchase and specific APR% percentages to increase your earnings.
+Exclusively designed by the project, NFT Stake will be valuable artworks and special rarities that will be released directly by the project, with utility to increase your staking percentage on the platform and receive Pinscher Coin as a reward. There will be five types of rarities: Common, Rare, Epic, Legendary and Ruby. With each collection released, the user will be able to become the sole owner of any NFT, which will have a starting value for purchase and specific APR% to increase their earnings.
 
 {% hint style="info" %}
-Each NFT Plus has an initial price for investors to buy, and there is also a percentage of rewards for their utility. All art released by the project is collectible, and you can use as many as you want in your stake to increase your earnings. The higher the value allocated in NFTs, the lower the APR%, but the advantage is that not all NFT Plus will be released at once. The project may take months to launch a collection, which strengthens the scarcity of the art and gives them strength in the NFT market.
+Each NFT Stake has a starting price for investors to buy, and there is also a percentage reward for its usefulness. All the gear released by the project is collectible, and you can use as many as you like in your stake to increase your earnings. The larger the amount allocated in NFTs, the larger your earnings will be. The project can take months to release a collection, which reinforces the scarcity of the art and gives strength to the NFT market.
 {% endhint %}
