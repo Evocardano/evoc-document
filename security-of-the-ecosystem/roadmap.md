@@ -12,7 +12,7 @@
 * ❌Icon in BscScan
 * ✅Whitepaper 2.0
 * ✅Partnership with Buypayments
-* ✅Launchpad ICO
+* ✅Launchpad&#x20;
 * ✅+5000 Portuguese community members
 * ✅+3000 English community members
 * ✅Donations
