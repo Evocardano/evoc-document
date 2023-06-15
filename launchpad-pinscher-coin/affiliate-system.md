@@ -4,7 +4,7 @@ An affiliate system is an online marketing strategy in which an individual or co
 
 <figure><img src="../.gitbook/assets/conceito-de-rede-variedade-de-naturezas-mortas.jpg" alt=""><figcaption></figcaption></figure>
 
-EvocLaunch aims to connect people all over the world in a decentralized marketplace, and to make this a global reality, we provide a service where you can refer a pre-sale and earn a percentage of bonus as an affiliate, developed by the creator of a sale. You can receive significant rewards by referring a friend or anyone you want to introduce to a project.
+Pinscher Launch aims to connect people all over the world in a decentralized marketplace, and to make this a global reality, we provide a service where you can refer a pre-sale and earn a percentage of bonus as an affiliate, developed by the creator of a sale. You can receive significant rewards by referring a friend or anyone you want to introduce to a project.
 
 ## ADVANTAGE
 
