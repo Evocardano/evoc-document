@@ -21,10 +21,10 @@
 
 ## LAUNCHPAD PINSCHER COIN
 
-* [🚀 Pinscher Launch](launchpad-pinscher-coin/pinscher-launch/README.md)
-  * [SAFU](launchpad-pinscher-coin/pinscher-launch/safu.md)
-  * [KYC](launchpad-pinscher-coin/pinscher-launch/kyc.md)
-  * [AUDIT](launchpad-pinscher-coin/pinscher-launch/audit.md)
+* [🚀 Pinscher Launchs](launchpad-pinscher-coin/pinscher-launchs/README.md)
+  * [SAFU](launchpad-pinscher-coin/pinscher-launchs/safu.md)
+  * [KYC](launchpad-pinscher-coin/pinscher-launchs/kyc.md)
+  * [AUDIT](launchpad-pinscher-coin/pinscher-launchs/audit.md)
 * [🫂 Affiliate System](launchpad-pinscher-coin/affiliate-system.md)
 
 ## SECURITY OF THE ECOSYSTEM
