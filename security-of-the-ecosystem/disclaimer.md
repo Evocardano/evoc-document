@@ -1,4 +1,4 @@
-# ‼ Disclaimer
+# 🚦 Disclaimer
 
 I. General risk information. **PinscherSWAP** is the issuer of tokens with characteristics similar to virtual currencies under Directive (EU) 2018/843 of the European Parliament and of the Council of May 30, 2018 amending Directive (EU) 2015/849 on the prevention of the use of the system for the purpose of money laundering or terrorist financing and amending directives (Official Journal of the European Union, L 156/43).
 

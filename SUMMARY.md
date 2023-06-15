@@ -32,7 +32,7 @@
 * [📅 Roadmap](security-of-the-ecosystem/roadmap.md)
 * [🫂 Staff Team](security-of-the-ecosystem/staff-team.md)
 * [🛡 Audit and Security](security-of-the-ecosystem/audit-and-security.md)
-* [‼ Disclaimer](security-of-the-ecosystem/disclaimer.md)
+* [🚦 Disclaimer](security-of-the-ecosystem/disclaimer.md)
 
 ## WALLET SETTINGS
 
@@ -44,8 +44,8 @@
 
 ## SOCIAL NETWORKS
 
-* [🇵🇹 TELEGRAM PT/BR](https://t.me/evocardanobrasil)
-* [🇱🇷 TELEGRAM EN/GL](https://t.me/evocardanoenglish)
+* [📲 TELEGRAM PT/BR](https://t.me/pinschertokenpt)
+* [📲 TELEGRAM OFFICIAL](https://t.me/pinschertoken)
 * [🐦 TWITTER](https://twitter.com/evocplus)
 * [📸 INSTAGRAM](https://www.instagram.com/evocplus)
 * [⁉ PORTUGUESE NEWS CHANNEL](https://t.me/evocardanoinfopt)
