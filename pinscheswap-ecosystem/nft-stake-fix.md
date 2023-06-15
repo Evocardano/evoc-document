@@ -4,7 +4,7 @@ description: >-
   PinscherSwap marketplace!
 ---
 
-# 🪙 Stake NFT
+# 💹 NFT Stake Fix
 
 ## STAKE VISION
 

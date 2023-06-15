@@ -5,7 +5,7 @@
 ## PINSCHESWAP ECOSYSTEM
 
 * [🔂 PinscherSwap](pinscheswap-ecosystem/pinscherswap.md)
-* [🪙 Stake NFT](pinscheswap-ecosystem/stake-nft.md)
+* [💹 NFT Stake Fix](pinscheswap-ecosystem/nft-stake-fix.md)
 * [🤖 Pinscher AI](pinscheswap-ecosystem/pinscher-ai.md)
 * [🗽 Pinscher DAO](pinscheswap-ecosystem/pinscher-dao.md)
 * [🏪 Marketplace NFT](pinscheswap-ecosystem/marketplace-nft.md)
@@ -19,13 +19,13 @@
 * [📃 Contract](pinscher-coin-token/contract.md)
 * [📶 Buy Pinscher Coin](pinscher-coin-token/buy-pinscher-coin.md)
 
-## LAUNCHPAD ICO EVOCARDANO PLUS
+## LAUNCHPAD PINSCHER COIN
 
-* [🚀 Launchpad AI](launchpad-ico-evocardano-plus/launchpad-ai/README.md)
-  * [SAFU](launchpad-ico-evocardano-plus/launchpad-ai/safu.md)
-  * [KYC](launchpad-ico-evocardano-plus/launchpad-ai/kyc.md)
-  * [AUDIT](launchpad-ico-evocardano-plus/launchpad-ai/audit.md)
-* [🫂 Affiliate System](launchpad-ico-evocardano-plus/affiliate-system.md)
+* [🚀 Pinscher Launch](launchpad-pinscher-coin/pinscher-launch/README.md)
+  * [SAFU](launchpad-pinscher-coin/pinscher-launch/safu.md)
+  * [KYC](launchpad-pinscher-coin/pinscher-launch/kyc.md)
+  * [AUDIT](launchpad-pinscher-coin/pinscher-launch/audit.md)
+* [🫂 Affiliate System](launchpad-pinscher-coin/affiliate-system.md)
 
 ## SECURITY OF THE ECOSYSTEM
 
