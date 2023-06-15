@@ -1,25 +1,23 @@
 # 👥 Staff Team
 
-## WHO CREATED EVOCARDANO PLUS?
+## WHERE DID PINSCHER COIN COME FROM?
 
-The Evocardano Plus Project was founded by CFO Oliver, who is currently experienced in the cryptocurrency market and serves as the project's general administrator. COO Carlos is responsible for all financial operations of the project, as well as having a significant influence in marketing.
+Pinscher Coin was founded by CFO Vladimir , who currently has experience in the cryptocurrency market and operates on the binance futures market the meme came from a well-known image on the internet. CEO Silvano president of the project is responsible for the financial operations and marketing of the project.
 
-## WHARE IS THE TEAM FORM?
+## WHERE IS THE PINSCHER TEAM FROM?
 
-The team is based in Brazil and Inglaterra, with all members working remotely. Some team members have also participated in cryptocurrency events in person in Sao Paulo, Brazil, and Paris France.
+The team is located in Brazil and England, with all members working remotely. most of the team is of foreign origin and developed this memecoin to be one of the largest in the market.
 
 ## INTRODUCING OUR TEAM&#x20;
 
 {% hint style="success" %}
-• CFO - Oliver ( Chief Financial Officer )
+• CFO - Vladimir Santos
 
-• CEO - Silvano ( Chief Executive Officer )
+• CEO - Silvano&#x20;
 
-• COO - Antônio Carlos ( Chief Operation Officer )
+• COO -&#x20;
 
-• DEV - Alenaldo  ( Programador TI - Dev )
+• DEV - Max Junior&#x20;
 
-• CSM - Autielis ( Customer Service Manager )
-
-• AD - Ribeiro ( Arts Design )
+• CSM -&#x20;
 {% endhint %}
