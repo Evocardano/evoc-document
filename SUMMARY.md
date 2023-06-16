@@ -37,7 +37,7 @@
 
 ## WALLET SETTINGS
 
-* [☑ Creating Your Wallet](wallet-settings/creating-your-wallet.md)
+* [📥 Creating Your Wallet](wallet-settings/creating-your-wallet.md)
 
 ## SOCIAL ACTION
 

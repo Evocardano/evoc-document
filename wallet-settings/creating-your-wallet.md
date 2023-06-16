@@ -1,6 +1,6 @@
-# ☑ Creating Your Wallet
+# 📥 Creating Your Wallet
 
-To start using EvocSwap, the first thing you need to do is set up a wallet that supports Binance Smart Chain (BSC). Wallets are available on your desktop computers and smartphone devices. You will need to choose the wallet that best fits your needs.
+To start using PinscherSWAP, the first thing you need to do is set up a wallet that supports Binance Smart Chain (BSC). Wallets are available on your desktop computers and smartphone devices. You will need to choose the wallet that best fits your needs.
 
 * Open source for auditability
 * Compatible with WEB3 ON BscScan
