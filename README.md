@@ -20,6 +20,8 @@ No entanto, Vicente, amigo de Silvano e experiente no criptomercado, teve uma id
 
 Vicente Santos , desenvolveu a Pinscher Coin, uma criptomoeda baseada na tecnologia blockchain que incorpora elementos divertidos do meme de Flokinho. A Missão de Pinscher Coin é ganhar popularidade entre os fãs do meme e entusiastas de criptomoedas.
 
+<figure><img src=".gitbook/assets/AiPinscher.png" alt=""><figcaption></figcaption></figure>
+
 Com o lançamento da Pinscher Coin, as pessoas poderiam apoiar a causa de manter viva a memória engraçada de Flokinho e, ao mesmo tempo, se envolver em transações criptográficas. Parte do lucro gerado pela Pinscher Coin será destinado a organizações de proteção animal e ajudar as pessoas em honra ao amor que Flokinho despertava pelas pessoas e animais.
 
 Pinscher Coin se tornará um sucesso estrondoso, garantindo que Flokinho e seu legado fossem preservados para sempre. Silvano irá se sentir muito orgulhoso ao ver como o meme de Flokinho irá ser transformado em algo tão significativo, impactando positivamente a vida das pessoas e dos animais.
