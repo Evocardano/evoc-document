@@ -4,6 +4,16 @@ Por volta de 2010, na Inglaterra, começou a circular um meme muito engraçado n
 
 Em 2012, Silvano, um grande admirador de Flokinho, pediu para tirar uma foto dele e a publicou nas redes sociais. A imagem rapidamente se tornou viral, acumulando uma grande quantidade de likes e comentários. Pessoas de diferentes partes do mundo começaram a criar imagens engraçadas com base no meme de Flokinho. Ele se tornou um fenômeno não apenas nacional, mas também internacional, amado por todos.
 
+<div>
+
+<figure><img src=".gitbook/assets/pngimagem.png" alt="" width="208"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/ririri (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 No ano de 2015, a família de Flokinho decidiu se mudar para um novo país. Embora a mudança fosse necessária, isso significava deixar para trás as memórias e a popularidade que Flokinho tinha conquistado. Silvano sentia-se triste com a ideia de perder essa conexão com o meme tão querido.
 
 No entanto, Vicente, amigo de Silvano e experiente no criptomercado, teve uma ideia brilhante. Ele decidiu unir suas habilidades e paixões para criar uma memecoin em homenagem a Flokinho, garantindo que ele sempre seria lembrado por todos.
