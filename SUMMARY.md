@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🌏 Overview](README.md)
+* [🐾 History](README.md)
+* [🌏 Overview](<README (1).md>)
 
 ## PINSCHESWAP ECOSYSTEM
 
