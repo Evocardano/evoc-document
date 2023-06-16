@@ -12,7 +12,8 @@ description: Detailed Overview of Pinscher Coin Project.
 
 The cryptocurrency market is booming, with thousands of people around the world adapting to the market and becoming big investors and developers every year. With this vision in mind, we decided to create an ICO Launchpad, which is a launch platform where any developer can launch their project with security and a variety of functions.
 
-These functions include token launches, hardfork updates to contracts, automatic and manual pre-sales, pre-sales via PIX, KYC, AUDIT, SAFU, and an affiliate system for pre-sales. What's interesting is that this entire system is connected to **Pinscher Coin**, the main cryptocurrency of the **PinscherSwap** Dex. As more and more projects are launched on our platform, our liquidity will also increase, as the value of our cryptocurrency will increase as well.
+Our functions cover token releases, contract updates, automatic and manual pre-sales, and pre-sales with recommendation tags like KYC, AUDIT, SAFU. We also have an affiliate system for pre-sales and a purchase method via PIX. What makes this interesting is that this whole system is directly tied to Pinscher Coin, the main cryptocurrency of PinscherSwap Dex. As more projects are launched on our platform, our liquidity will increase.\
+
 
 ## NFT MARKET
 
