@@ -14,7 +14,7 @@ Similarly, when you stake your digital assets, you "lock" the coins to participa
 
 Staking has become a very common way to profit from cryptocurrencies without trading them directly. In April 2022, the total value of cryptocurrencies staked exceeded the $280 billion limit, according to data provider Staking Rewards.
 
-## NFT Stake Fix
+## NFT STAKE FIX
 
 Exclusively designed by the project, NFT Stake will be valuable artworks and special rarities that will be released directly by the project, with utility to increase your staking percentage on the platform and receive Pinscher Coin as a reward. There will be five types of rarities: Common, Rare, Epic, Legendary and Ruby. With each collection released, the user will be able to become the sole owner of any NFT, which will have a starting value for purchase and specific APR% to increase their earnings.
 
