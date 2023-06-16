@@ -4,8 +4,8 @@
 
 **Design and Construction**
 
-* [ ] &#x20;Moeda
-* [ ] Social Media
+* [x] Logo Moeda
+* [x] Social Media
 * [ ] Contract
 * [ ] Audit
 * [ ] Icon in BscScan
@@ -21,7 +21,7 @@
 
 * [ ] Buybot PinscherSWAP
 * [ ] Pricebot PinscherSWAP
-* [ ] New Design DEX V1
+* [ ] New Design DEX V2
 * [ ] Candlestick Chart Activation
 * [ ] Pre-sale PinkSale
 * [ ] Marketing Launch

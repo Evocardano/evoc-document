@@ -1,4 +1,4 @@
-# 🫂 Staff Team
+# 👨🚀 Staff Team
 
 ## WHERE DID PINSCHER COIN COME FROM?
 
