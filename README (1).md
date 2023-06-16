@@ -15,7 +15,7 @@ The cryptocurrency market is booming, with thousands of people around the world 
 Our functions cover token releases, contract updates, automatic and manual pre-sales, and pre-sales with recommendation tags like KYC, AUDIT, SAFU. We also have an affiliate system for pre-sales and a purchase method via PIX. What makes this interesting is that this whole system is directly tied to Pinscher Coin, the main cryptocurrency of PinscherSwap Dex. As more projects are launched on our platform, our liquidity will increase.\
 
 
-## NFT MARKET
+## NFT MARKETPLACE
 
 The NFT (Non-Fungible Tokens) market is a relatively new category of digital assets that has attracted a lot of attention in recent years. **PinscherSwap** is bringing this market into its ecosystem and our NFT marketplace will be unique and exclusive, never seen before in the current market, with ways to increase your stake earnings through the art that will be for sale on the marketplace. NFTs are unique digital representations of an item, whether it be a media file, a tweet, a video, or any other type of digital content. They are built using blockchain technology, which means that each NFT is authenticated as unique and publicly registered on a decentralized network.
 
@@ -29,4 +29,4 @@ Artificial Intelligence (AI) is a branch of computer science that focuses on the
 
 AI can be applied in various fields such as gaming, robotics, recommendation systems, speech recognition, image processing, data analysis, and more. There are different approaches to the development of AI systems, including logical programming, machine learning, and neural networks.
 
-Our plan is to introduce an intelligent function where all investors will be notified when there is a launch with a good probability of success. With the help of Artificial Intelligence, it may also be possible to notify all investors when a project is about to launch with a low level of confidence. This will reduce the possibility of scammers taking advantage of people and bring even more confidence to our launchpad!
+Our plan is to introduce an intelligent function where all investors will be notified when there is a launch with a good probability of success. With the help of Artificial Intelligence, it may also be possible to notify all investors when a project is about to launch with a low level of confidence. This will reduce the possibility of scammers taking advantage of people and bring even more confidence to our launchpad . We also propose to develop an artificial intelligence bot that allows people to create and customize images directly within the Telegram application. The bot would utilize advanced image processing capabilities and AI algorithms to provide users with an intuitive and convenient image editing experience.
