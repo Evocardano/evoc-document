@@ -6,7 +6,7 @@
 ## PINSCHESWAP ECOSYSTEM
 
 * [🔂 PinscherSwap](pinscheswap-ecosystem/pinscherswap.md)
-* [💹 NFT Stake Fix](pinscheswap-ecosystem/nft-stake-fix.md)
+* [💹 NFT Stake Income](pinscheswap-ecosystem/nft-stake-income.md)
 * [🤖 Pinscher AI](pinscheswap-ecosystem/pinscher-ai.md)
 * [🗽 Pinscher DAO](pinscheswap-ecosystem/pinscher-dao.md)
 * [🏪 Marketplace NFT](pinscheswap-ecosystem/marketplace-nft.md)
