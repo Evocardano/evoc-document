@@ -1,10 +1,10 @@
 ---
 description: >-
-  Use your NFT Stake to increase your bet percentage or trade at any time on the
-  PinscherSwap marketplace!
+  Use your NFT Stake to increase your Income percentage or trade at any time on
+  the PinscherSwap marketplace!
 ---
 
-# 💹 NFT Stake Fix
+# 💹 NFT Stake Income
 
 ## STAKE VISION
 
