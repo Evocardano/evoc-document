@@ -1,4 +1,4 @@
-# 🏪 Marketplace
+# 🏪 Marketplace Pinscher NFT
 
 {% hint style="warning" %}
 ## In Progress

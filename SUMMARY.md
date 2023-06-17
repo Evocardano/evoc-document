@@ -16,7 +16,7 @@
 ## PINSCHER COIN TOKEN
 
 * [🐶 Pinscher Coin Resume](pinscher-coin-token/pinscher-coin-resume.md)
-* [🍕 Tokenomics](pinscher-coin-token/tokenomics.md)
+* [🎯 Tokenomics](pinscher-coin-token/tokenomics.md)
 * [📃 Contract](pinscher-coin-token/contract.md)
 * [📶 Buy Pinscher Coin](pinscher-coin-token/buy-pinscher-coin.md)
 

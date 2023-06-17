@@ -5,7 +5,7 @@ Pinscher Launch is a secure and controlled platform for launching new cryptocurr
 Additionally, the project development team can benefit from the broad exposure and credibility that the launch platform offers, which can help increase the adoption and success of the cryptocurrency in the market.
 
 {% hint style="success" %}
-## ADVANTAGE
+## <mark style="color:orange;">ADVANTAGE</mark>
 {% endhint %}
 
 The fee you pay to conduct a pre-sale of your project on our launchpad is 1 BNB + 5% of the total BNB raised in your pre-sale. Pinscher Launch does not retain a percentage of your tokens, unlike other launchpads that retain 2% to 4% and end up selling them during the launch, which can harm your project.  and we are in the process of developing partnerships with KYC and Audit companies.
@@ -13,7 +13,7 @@ The fee you pay to conduct a pre-sale of your project on our launchpad is 1 BNB 
 We are structuring our launchpad with the goal of becoming one of the most utilized launchpads in the market, with AI systems and cross-chain capabilities across various networks. Additionally, our main token, (PINSCHER), will have 40% of the platform's profits allocated to its liquidity pool and burned every month, ensuring further appreciation of our currency.
 
 {% hint style="success" %}
-## SECURITY
+## <mark style="color:green;">SECURITY</mark>
 {% endhint %}
 
 Pinscher Launch has one of the best systems for securing your investment. The platform only releases liquidity to the developer after the completion of the claim process, meaning that they only gain access to the invested funds after the coins are in your wallet. Additionally, the developer has the freedom to cancel the pre-sale, and the platform will refund all the funds invested by the users by releasing the claim for reimbursement.
