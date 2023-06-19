@@ -1,49 +1,56 @@
 # 📅 Roadmap
 
-## 1st PHASE FORK Q1&#x20;
+## 1st PHASE  Q1&#x20;
 
 **Design and Construction**
 
-* [x] Logo Moeda
+* [x] Token logo
 * [x] Social Media
-* [ ] Contract
-* [ ] Audit
+* [x] Contract
+* [x] Audit
+* [x] SAFU
+* [x] KYC
+* [x] Doxxed
 * [ ] Icon in BscScan
-* [ ] Whitepaper 2.0
+* [x] Whitepaper 2.0
 * [ ] Pinscher Launchpad&#x20;
 * [ ] PinscherSWAP
-* [ ] Donations
 * [ ] Buybot Pinscher Launch
+* [ ] Design Dex V02.0
 
-## 2st PHASE FORK Q2
+## 2st PHASE Q2
 
 **Preparation**&#x20;
 
 * [ ] Buybot PinscherSWAP
 * [ ] Pricebot PinscherSWAP
-* [ ] New Design DEX V2
 * [ ] Candlestick Chart Activation
 * [ ] Pre-sale PinkSale
 * [ ] Marketing Launch
 * [ ] Launch on Pancakeswap
+* [ ] CoinMarketCap Listing
+* [ ] CoinGecko Listing
 * [ ] Advertising With Influencers
 * [ ] PoocoinAds Advertising
 * [ ] GoogleAds Advertising
 * [ ] FacebookAds Advertising
+* [ ] Donations
+* [ ] \+5000 Portuguese community members
+* [ ] \+3000 English community members
 
-## 3rd PHASE FORK Q3
+## 3rd PHASE Q3
 
 **Advance**
 
-* [ ] CoinGecko Listing
-* [ ] CoinMarketCap Listing
+* [ ] New Design DEX V03.0
+* [ ] Medium / large exchange listings
 * [ ] Twitter Marketing
 * [ ] NFT Stake Activation
 * [ ] Activation Farms
 * [ ] Activating Community Pools
 * [ ] Marketplace NFTs
 
-## 4st PHASE FORK Q4
+## 4st PHASE Q4
 
 **Innovation and improvements**
 
@@ -53,7 +60,7 @@
 * [ ] Launching the Token on the Etherscan Network
 * [ ] New PartnerShips
 
-## 5st PHASE FORK Q5
+## 5st PHASE Q1 2024
 
 **key turn**
 
