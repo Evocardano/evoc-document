@@ -12,13 +12,6 @@ The team is located in Brazil and England, with all members working remotely. mo
 
 {% hint style="success" %}
 \
-\
-\
-\
-\
-\
-\
-\
 • CFO - Vladimir Santos
 
 • CEO - Silvano&#x20;
