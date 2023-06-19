@@ -11,6 +11,14 @@ The team is located in Brazil and England, with all members working remotely. mo
 ## INTRODUCING OUR TEAM&#x20;
 
 {% hint style="success" %}
+\
+\
+\
+\
+\
+\
+\
+\
 • CFO - Vladimir Santos
 
 • CEO - Silvano&#x20;
@@ -21,3 +29,11 @@ The team is located in Brazil and England, with all members working remotely. mo
 
 • CSM -&#x20;
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/Silvano.jpg" alt="" width="375"><figcaption><p><mark style="color:purple;"><strong>CEO - SILVANO</strong></mark></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Vicent.jpg" alt="" width="375"><figcaption><p><mark style="color:purple;"><strong>VICENT</strong></mark></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/maxjr (2).jpg" alt="" width="375"><figcaption><p><mark style="color:purple;"><strong>Max Jr</strong></mark></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/A.J.jpg" alt="" width="375"><figcaption><p><mark style="color:purple;"><strong>AJ</strong></mark></p></figcaption></figure>
