@@ -6,13 +6,13 @@ description: Detailed Overview of Pinscher Coin Project.
 
 **PinscherSwap** is a decentralized cryptocurrency trading platform that doesn't rely on a centralized authority to manage transactions. Instead, transactions occur directly between users without the need for intermediaries such as banks or brokerages. Additionally, it has its own main cryptocurrency called **Pinscher Coin**, which is responsible for governing the DEX, bringing in greater liquidity and transactions, and aims to work on multiple networks. Currently running on the Bscscan network, **Pinscher Coin** aims to be launched within the **Pinscherscan** network and expand to various other networks.
 
-&#x20;All contracts involved in the Pinscher Coin project are secure and verified, and they have farming and pooling functions in their DEX that can be activated or deactivated at any time. This function provides investors with the possibility of earning passive income with each liquidity pair creation.
+&#x20;All contracts involved in the **Pinscher Coin** project are secure and verified, and they have farming and pooling functions in their DEX that can be activated or deactivated at any time. This function provides investors with the possibility of earning passive income with each liquidity pair creation.
 
 ## THE EXPANSION&#x20;
 
 The cryptocurrency market is booming, with thousands of people around the world adapting to the market and becoming big investors and developers every year. With this vision in mind, we decided to create an ICO Launchpad, which is a launch platform where any developer can launch their project with security and a variety of functions.
 
-Our functions cover token releases, contract updates, automatic and manual pre-sales, and pre-sales with recommendation tags like KYC, AUDIT, SAFU. We also have an affiliate system for pre-sales and a purchase method via PIX. What makes this interesting is that this whole system is directly tied to Pinscher Coin, the main cryptocurrency of PinscherSwap Dex. As more projects are launched on our platform, our liquidity will increase.\
+Our functions cover token releases, contract updates, automatic and manual pre-sales, and pre-sales with recommendation tags like KYC, AUDIT, SAFU. We also have an affiliate system for pre-sales and a purchase method via PIX. What makes this interesting is that this whole system is directly tied to **Pinscher Coin**, the main cryptocurrency of **PinscherSwap** Dex. As more projects are launched on our platform, our liquidity will increase.\
 
 
 ## NFT MARKETPLACE
