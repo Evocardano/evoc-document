@@ -4,9 +4,9 @@ I. General risk information. **PinscherSWAP** is the issuer of tokens with chara
 
 This means that **Pinscher Coin**, or any other token traded on **PinscherSWAP**, is a digital representation of value that is not issued or guaranteed by a central bank or public authority, is not necessarily linked to a legally established currency and has no legal status as currency. or money, but is accepted by people. individuals or legal entities as a medium of exchange and that can be transferred, stored and traded electronically.
 
-**PinscherSWAP** cannot guarantee the value of the Pinscher Coin token, or any other token, nor the possibility of their practical use, in particular to pay for goods or services with them.
+**PinscherSWAP** cannot guarantee the value of the **Pinscher Coin** token, or any other token, nor the possibility of their practical use, in particular to pay for goods or services with them.
 
-The potential use of the tokens transacted on PinscherSWAP is based on assumptions about the future, which is associated with the risk of unforeseen events and, as a consequence, there is the possibility of loss of value of the tokens on **PinscherSWAP** or the inability to use them.
+The potential use of the tokens transacted on **PinscherSWAP** is based on assumptions about the future, which is associated with the risk of unforeseen events and, as a consequence, there is the possibility of loss of value of the tokens on **PinscherSWAP** or the inability to use them.
 
 **PinscherSWAP** states that:
 
