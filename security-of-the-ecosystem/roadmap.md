@@ -1,5 +1,7 @@
 # 📅 Roadmap
 
+The information presented in the roadmap represents initial insights into the project's direction, without final conceptualization. **Pinscher Coin** reserves the right to modify certain conceptualizations and introduce innovations to ensure project improvements.
+
 ## 1st PHASE  Q1&#x20;
 
 **Design and Construction**
