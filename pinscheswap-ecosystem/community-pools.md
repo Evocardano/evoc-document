@@ -1,4 +1,4 @@
-# ↪ Community Pools
+# 🪙 Community Pools
 
 {% hint style="warning" %}
 ## In Progress

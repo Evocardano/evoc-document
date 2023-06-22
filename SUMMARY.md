@@ -10,8 +10,8 @@
 * [🤖 Pinscher AI](pinscheswap-ecosystem/pinscher-ai.md)
 * [🗽 Pinscher DAO](pinscheswap-ecosystem/pinscher-dao.md)
 * [🏪 Marketplace Pinscher NFT](pinscheswap-ecosystem/marketplace-pinscher-nft.md)
-* [↪ Farms](pinscheswap-ecosystem/farms.md)
-* [↪ Community Pools](pinscheswap-ecosystem/community-pools.md)
+* [🪙 Farms](pinscheswap-ecosystem/farms.md)
+* [🪙 Community Pools](pinscheswap-ecosystem/community-pools.md)
 
 ## PINSCHER COIN TOKEN
 
