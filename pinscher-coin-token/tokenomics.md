@@ -8,19 +8,19 @@ description: Below you can find all the details of the project's token distribut
 
 **TOTAL OF 970.000.000.000.000 ( NINE HUNDRED AND SEVENTY TRILLION ) UNITS.**
 
-<mark style="background-color:green;">**6,9%**</mark>% =  Cex Listing ( 51,41 trillion )  \
+<mark style="background-color:green;">**6,9%**</mark> =  Cex Listing ( 66.9 trillion )  \
 \
-<mark style="background-color:green;">**4.8%**</mark> =  Staking NFT ( 45,59 trillion) \
+<mark style="background-color:green;">**4.8%**</mark> =  Staking NFT ( 46.5 trillion) \
 \
-<mark style="background-color:green;">**4.5%**</mark> =  Marketing   ( 43.65 trillion) \
+<mark style="background-color:green;">**4.5%**</mark> =  Marketing   ( 43.6 trillion) \
 \
-<mark style="background-color:green;">**4.4%**</mark> = Team    ( 42.68 trillion )
+<mark style="background-color:green;">**4.4%**</mark> = Team   ( 42.6 trillion )
 
-<mark style="background-color:green;">**56.1%**</mark>= Liquidity Pool (544,77 trillion) \
+<mark style="background-color:green;">**56.1%**</mark>= Liquidity Pool (544.17 trillion) \
 \
-<mark style="background-color:green;">**5%**</mark>   = Burn (145,5 trillion ) \
+<mark style="background-color:green;">**5%**</mark> = Burn ( 48.5 trillion ) \
 \
-<mark style="background-color:green;">**18,3%**</mark>   = Ecosystem ( 97 trillion )\
+<mark style="background-color:green;">**18,3%**</mark>   = Ecosystem ( 174.6 trillion )\
 
 
 ## <mark style="color:orange;">TRANSACTION FEES</mark>&#x20;
