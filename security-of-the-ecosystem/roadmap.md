@@ -8,7 +8,6 @@
 * [x] Social Media
 * [x] Contract
 * [x] Audit
-* [x] SAFU
 * [x] KYC
 * [x] Doxxed
 * [ ] Icon in BscScan
@@ -26,6 +25,7 @@
 * [ ] Pricebot PinscherSWAP
 * [ ] Candlestick Chart Activation
 * [ ] Pre-sale PinkSale
+* [ ] Ad, on the avenue of SpaceX
 * [ ] Marketing Launch
 * [ ] Launch on Pancakeswap
 * [ ] CoinMarketCap Listing
