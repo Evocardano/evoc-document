@@ -12,20 +12,22 @@ The team is located in Brazil and England, with all members working remotely. mo
 
 {% hint style="success" %}
 \
-• CFO - Vladimir Santos
+• CFO - Vladimir Santos / Chief Financial Officer
 
-• CEO - Silvano&#x20;
+• CEO - Silvano  Silva / Chief Executive Officer
 
-• COO -&#x20;
+• DEV - Max Romano / IT Programmer
 
-• DEV - Max Junior&#x20;
+• CSM - A.S Jhoma / Customer Success Manager
 
-• CSM -&#x20;
+• DESIGNER - Willian Aquino
+
+
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Silvano.jpg" alt="" width="375"><figcaption><p><mark style="color:purple;"><strong>CEO - SILVANO</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Vicent.jpg" alt="" width="375"><figcaption><p><mark style="color:purple;"><strong>VICENT</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Vicent.jpg" alt="" width="375"><figcaption><p><mark style="color:purple;"><strong>CFO - VLADIMIR SANTOS</strong></mark></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/maxjr (2).jpg" alt="" width="375"><figcaption><p><mark style="color:purple;"><strong>Max Jr</strong></mark></p></figcaption></figure>
 
