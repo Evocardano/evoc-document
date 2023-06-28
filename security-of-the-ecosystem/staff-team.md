@@ -1,4 +1,4 @@
-# 👨🚀 Staff Team
+# 👷♂ Staff Team
 
 ## WHERE DID PINSCHER COIN COME FROM?
 
@@ -18,7 +18,7 @@ The team is located in Brazil and England, with all members working remotely. mo
 
 • DEV - Max Romano / IT Programmer
 
-• CSM - A.S Jhoma / Customer Success Manager
+• CSM - Anthony Jhoma / Customer Success Manager
 
 • DESIGNER - Willian Aquino
 
