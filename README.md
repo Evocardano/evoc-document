@@ -16,9 +16,9 @@ In 2012, Silvano, a great admirer of Flokinho, asked to take a picture with him 
 
 In 2015, Flokinho's family decided to move to a new country. Although the move was necessary, it meant leaving behind the memories and popularity that Flokinho had gained. Silvano felt sad about the idea of losing that connection with the beloved meme.
 
-However, Vicente, Silvano's friend and experienced in the cryptocurrency market, had a brilliant idea. He decided to combine his skills and passions to create a memecoin in honor of Flokinho, ensuring that he would always be remembered by everyone.
+However, Vladimir, Silvano's friend and experienced in the cryptocurrency market, had a brilliant idea. He decided to combine his skills and passions to create a memecoin in honor of Flokinho, ensuring that he would always be remembered by everyone.
 
-Vicente Santos developed the Pinscher Coin, a cryptocurrency based on blockchain technology that incorporates fun elements from the Flokinho meme. The mission of Pinscher Coin is to gain popularity among meme fans and cryptocurrency enthusiasts.
+Vladimir Santos developed the Pinscher Coin, a cryptocurrency based on blockchain technology that incorporates fun elements from the Flokinho meme. The mission of Pinscher Coin is to gain popularity among meme fans and cryptocurrency enthusiasts.
 
 <figure><img src=".gitbook/assets/AiPinscher.png" alt=""><figcaption></figcaption></figure>
 
