@@ -22,7 +22,7 @@
 
 ## LAUNCHPAD PINSCHER COIN
 
-* [🚀 Pinscher Launchs](launchpad-pinscher-coin/pinscher-launchs/README.md)
+* [💲 Pinscher Launchs](launchpad-pinscher-coin/pinscher-launchs/README.md)
   * [SAFU](launchpad-pinscher-coin/pinscher-launchs/safu.md)
   * [KYC](launchpad-pinscher-coin/pinscher-launchs/kyc.md)
   * [AUDIT](launchpad-pinscher-coin/pinscher-launchs/audit.md)
