@@ -7,8 +7,6 @@ description: >-
 
 # 🐶 Pinscher Coin Resume
 
-## ABOUT THE PROJECT
-
 **Pinscher Coin** is a token that will be launched on the Bscscan network, it is the governance token, the main token where investors will receive basic rewards for creating a liquidity pair and staking their tokens on the platform, rather than selling their coins. By doing so, they will receive more tokens as interest for helping sustain the coin's liquidity. Additionally, investors can potentially earn a lot through the appreciation of the token's value.
 
 ## PROJECT VISION
