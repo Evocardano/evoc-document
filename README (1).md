@@ -23,7 +23,7 @@ NFTs allow content creators to monetize their work in a new and exciting way. Th
 
 Although the NFT market is still in its infancy, it is growing rapidly and attracting a lot of attention. NFTs are already being used in a variety of industries, including gaming, music, sports, fashion, and more. The future of the NFT market is uncertain, but many experts believe that it has the potential to become a new class of digital assets that can change the way people think about digital ownership and collecting.
 
-## PINSCHER LAUNCH AI
+## PINSCHER LAUNCH&#x20;
 
 Artificial Intelligence (AI) is a branch of computer science that focuses on the development of systems capable of performing tasks that would typically require human intelligence to be carried out. These systems are designed to simulate human behavior, including the ability to learn, reason, perceive, comprehend, and interact with the environment.
 
