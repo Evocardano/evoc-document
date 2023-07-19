@@ -10,8 +10,8 @@ The information presented in the roadmap represents initial insights into the pr
 * [x] Social Media
 * [x] Contract
 * [x] Audit
-* [x] KYC
-* [x] Doxxed
+* [ ] KYC
+* [ ] Doxxed
 * [ ] Icon in BscScan
 * [x] Whitepaper 2.0
 * [ ] Pinscher Launchpad&#x20;
