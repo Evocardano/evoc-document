@@ -18,6 +18,8 @@ The team is located in Brazil and England, with all members working remotely. mo
 
 • COO - Antônio Carlos / Chief Operating Officer
 
+• CSM - Anthony Jhoma / Customer Success Manager
+
 • DEV - Max Romano / IT Programmer
 
 • DESIGNER - Willian Aquino
