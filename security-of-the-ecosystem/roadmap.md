@@ -2,7 +2,7 @@
 
 The information presented in the roadmap represents initial insights into the project's direction, without final conceptualization. **Pinscher Coin** reserves the right to modify certain conceptualizations and introduce innovations to ensure project improvements.
 
-## 1st PHASE  Q1&#x20;
+## 1st PHASE  Q1  2023
 
 **Design and Construction**
 
@@ -17,9 +17,9 @@ The information presented in the roadmap represents initial insights into the pr
 * [ ] Pinscher Launchpad&#x20;
 * [ ] PinscherSWAP
 * [ ] Buybot Pinscher Launch
-* [ ] Design Dex V02.0
+* [ ] Design Dex V2.0
 
-## 2st PHASE Q2
+## 2st PHASE Q2 2023
 
 **Preparation**&#x20;
 
@@ -40,11 +40,11 @@ The information presented in the roadmap represents initial insights into the pr
 * [ ] \+5000 Portuguese community members
 * [ ] \+3000 English community members
 
-## 3rd PHASE Q3
+## 3rd PHASE Q3 2023
 
 **Advance**
 
-* [ ] New Design DEX V03.0
+* [ ] New Design DEX V3.0
 * [ ] Medium / large exchange listings
 * [ ] Twitter Marketing
 * [ ] NFT Stake Activation
@@ -52,7 +52,7 @@ The information presented in the roadmap represents initial insights into the pr
 * [ ] Activating Community Pools
 * [ ] Marketplace NFTs
 
-## 4st PHASE Q4
+## 4st PHASE Q4 2023
 
 **Innovation and improvements**
 
