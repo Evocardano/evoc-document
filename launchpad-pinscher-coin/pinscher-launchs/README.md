@@ -1,4 +1,4 @@
-# 🚀 Pinscher Launchs
+# 💲 Pinscher Launchs
 
 Pinscher Launch is a secure and controlled platform for launching new cryptocurrency projects. Anyone can use the platform to develop and launch their own project. By participating in a launch on the Launchpad, investors gain early access to the new cryptocurrency and the opportunity to purchase tokens at a discount.&#x20;
 

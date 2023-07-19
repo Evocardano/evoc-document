@@ -1,5 +1,7 @@
 # 🛡 Audit and Security
 
+<figure><img src="../.gitbook/assets/cert.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 [**https://revoluzion.app/audits/pinscher**](https://revoluzion.app/audits/pinscher)
 

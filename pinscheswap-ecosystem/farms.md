@@ -1,4 +1,4 @@
-# ↪ Farms
+# 🪙 Farms
 
 {% hint style="warning" %}
 ## In Progress
