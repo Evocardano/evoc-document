@@ -16,9 +16,9 @@ The team is located in Brazil and England, with all members working remotely. mo
 
 • CEO - Silvano  Silva / Chief Executive Officer
 
-• DEV - Max Romano / IT Programmer
+• COO - Antônio Carlos / Chief Operating Officer
 
-• CSM - Anthony Jhoma / Customer Success Manager
+• DEV - Max Romano / IT Programmer
 
 • DESIGNER - Willian Aquino
 
@@ -26,6 +26,8 @@ The team is located in Brazil and England, with all members working remotely. mo
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Silvano.jpg" alt="" width="375"><figcaption><p> <mark style="color:orange;"><strong>CEO - Silvano  Silva / Chief Executive Officer</strong></mark></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/A.J.jpg" alt="" width="375"><figcaption><p> <mark style="color:orange;"><strong>COO - Antônio Carlos / Chief Operating Officer</strong></mark></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Vicent.jpg" alt="" width="375"><figcaption><p><mark style="color:orange;"><strong>CFO - Vladimir Santos / Chief Financial Officer</strong></mark></p></figcaption></figure>
 
