@@ -23,7 +23,7 @@ In 2015, Flokinho's family decided to move to a new country. Although the move w
 
 However, Vladimir Santos e Antônio Carlos , Silvano's friend and experienced in the cryptocurrency market, had a brilliant idea. He decided to combine his skills and passions to create a memecoin in honor of Flokinho, ensuring that he would always be remembered by everyone.
 
-Vladimir Santos developed the Pinscher Coin, a cryptocurrency based on blockchain technology that incorporates fun elements from the Flokinho meme. The mission of Pinscher Coin is to gain popularity among meme fans and cryptocurrency enthusiasts.
+After Vladimir expressed his idea COO Antônio Carlos soon met with programmers to develop the Pinscher Coin, a cryptocurrency based on blockchain technology that incorporates fun elements from the Flokinho meme. The mission of Pinscher Coin is to gain popularity among meme fans and cryptocurrency enthusiasts.
 
 <figure><img src=".gitbook/assets/pngpinscher.png" alt=""><figcaption></figcaption></figure>
 
