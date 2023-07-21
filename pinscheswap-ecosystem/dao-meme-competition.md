@@ -3,7 +3,19 @@ cover: ../.gitbook/assets/PINSCHER COIN.png
 coverY: 0
 ---
 
-# 🗽 Pinscher DAO
+# 🗽 DAO Meme Competition
+
+
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Leonardo_Diffusion_Cute_pinscher_mascot_sticker_for_a_video_ga_0.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Leonardo_Diffusion_Cute_pinscher_mascot_sticker_for_a_video_ga_0 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 Besides all the utilities you have already seen, we are also developing an exclusive DAO for our investors, in which they can help solve market problems by voting for ideas and solutions created by investors and the team.
 

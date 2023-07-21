@@ -8,7 +8,7 @@
 * [🔂 PinscherSwap](pinscheswap-ecosystem/pinscherswap.md)
 * [💹 NFT Stake Income](pinscheswap-ecosystem/nft-stake-income.md)
 * [🤖 Pinscher AI](pinscheswap-ecosystem/pinscher-ai.md)
-* [🗽 Pinscher DAO](pinscheswap-ecosystem/pinscher-dao.md)
+* [🗽 DAO Meme Competition](pinscheswap-ecosystem/dao-meme-competition.md)
 * [🪙 Farms](pinscheswap-ecosystem/farms.md)
 * [🪙 Community Pools](pinscheswap-ecosystem/community-pools.md)
 * [🏪 Marketplace Pinscher NFT](pinscheswap-ecosystem/marketplace-pinscher-nft.md)
