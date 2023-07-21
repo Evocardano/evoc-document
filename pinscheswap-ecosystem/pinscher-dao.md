@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/PINSCHER COIN.png
+coverY: 0
+---
+
 # 🗽 Pinscher DAO
 
 Besides all the utilities you have already seen, we are also developing an exclusive DAO for our investors, in which they can help solve market problems by voting for ideas and solutions created by investors and the team.

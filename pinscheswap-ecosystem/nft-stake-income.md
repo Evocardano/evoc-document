@@ -2,6 +2,8 @@
 description: >-
   Use your NFT Stake to increase your Income percentage or trade at any time on
   the Pinscher marketplace!
+cover: ../.gitbook/assets/PINSCHER COIN.png
+coverY: 0
 ---
 
 # 💹 NFT Stake Income

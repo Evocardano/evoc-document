@@ -1,5 +1,7 @@
 ---
 description: Below you can find all the details of the project's token distribution.
+cover: ../.gitbook/assets/PINSCHER COIN.png
+coverY: 0
 ---
 
 # 🎯 Tokenomics

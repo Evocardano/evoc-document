@@ -3,6 +3,8 @@ description: >-
   Pinscher Coin was built on the Bscscan network and has its own DEX currently
   running at V2.0 and will soon be running on V3.0 and multiple networks for
   better speed and taxes.
+cover: ../.gitbook/assets/PINSCHER COIN.png
+coverY: 0
 ---
 
 # 🐶 Pinscher Coin Resume

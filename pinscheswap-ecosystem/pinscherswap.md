@@ -2,6 +2,8 @@
 description: >-
   Developed on the Bscscan network, PinscherSwap aims to create the best
   interactive Swap on the market with several utilities for the investors.
+cover: ../.gitbook/assets/PINSCHER COIN.png
+coverY: 0
 ---
 
 # 🔂 PinscherSwap
@@ -15,6 +17,10 @@ description: >-
 ## ↔️ TRADE
 
 Instantly exchange your cryptocurrencies: no registration and account required.
+
+
+
+<figure><img src="../.gitbook/assets/DreamShaper_v7_Happy_Pinscher_puppy_shopping_in_a_coin_store_0.jpg" alt=""><figcaption></figcaption></figure>
 
 ## THE BEST CHOICE&#x20;
 
