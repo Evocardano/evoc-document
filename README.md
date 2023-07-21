@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/PINSCHER COIN.png
+coverY: 0
+---
+
 # 🐾 History
 
 Around 2010, in England, a very funny meme started circulating on the internet. It starred an adorable pinscher named Flokinho, known for being playful and fierce at the same time. He had the habit of smiling all the time, and when he got angry, his teeth became even funnier. Flokinho won everyone over with his unique way of interacting with people.
