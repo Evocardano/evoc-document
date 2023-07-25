@@ -5,7 +5,7 @@
 
 ## PINSCHESWAP ECOSYSTEM
 
-* [🔂 PinscherSwap](pinscheswap-ecosystem/pinscherswap.md)
+* [🔂 PinscherSwap MEME DEX](pinscheswap-ecosystem/pinscherswap-meme-dex.md)
 * [💹 NFT Stake Income](pinscheswap-ecosystem/nft-stake-income.md)
 * [🤖 Pinscher AI](pinscheswap-ecosystem/pinscher-ai.md)
 * [🗽 DAO Meme Competition](pinscheswap-ecosystem/dao-meme-competition.md)
