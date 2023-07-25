@@ -11,6 +11,6 @@ An affiliate system is an online marketing strategy in which an individual or co
 
 Pinscher Launch aims to connect people all over the world in a decentralized marketplace, and to make this a global reality, we provide a service where you can refer a pre-sale and earn a percentage of bonus as an affiliate, developed by the creator of a sale. You can receive significant rewards by referring a friend or anyone you want to introduce to a project.
 
-## ADVANTAGE
+## <mark style="color:orange;">ADVANTAGE</mark>
 
 The Pinscher Launch affiliate system brings a strong connection between the investor and their favorite project. If you are enthusiastic about a project launched on the platform and wish to spread the news, use your referral link. Not only will you benefit your favorite project, but you will also earn a bonus in the form of tokens, potentially making significant profits during its launch.
