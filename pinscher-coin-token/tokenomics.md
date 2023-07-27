@@ -22,8 +22,9 @@ coverY: 0
 \
 <mark style="background-color:green;">**5%**</mark> = Burn ( 48.5 trillion ) \
 \
-<mark style="background-color:green;">**18,3%**</mark>   = Ecosystem ( 174.6 trillion )\
+<mark style="background-color:green;">**18,3%**</mark>   = Ecosystem ( 174.6 trillion )
 
+* [x] They will be used for various purposes within the Pinscher ecosystem, including farming, liquidity pools, staking, and other related activities. It is important to note that our supply is not mintable, and it will always be reduced, contributing to the scarcity and appreciation of the tokens.
 
 ## <mark style="color:orange;">TRANSACTION FEES</mark>&#x20;
 
