@@ -45,8 +45,8 @@
 
 ## SOCIAL NETWORKS
 
-* [📲 TELEGRAM PT/BR](https://t.me/pinschertokenpt)
-* [📲 TELEGRAM OFFICIAL](https://t.me/pinschertoken)
-* [🐾 TWITTER](https://twitter.com/pinschertoken)
-* [🐾 INSTAGRAM](https://www.instagram.com/pinscher.token)
+* [📲 TELEGRAM PT/BR](https://t.me/pinschercoinpt)
+* [📲 TELEGRAM OFFICIAL](https://t.me/pinschercoin)
+* [🐾 TWITTER](https://twitter.com/pinschcoin)
+* [🐾 INSTAGRAM](https://instagram.com/pinschcoin)
 * [🔥 HOT NEWS CHANNEL](https://t.me/pinschercoinnews)
