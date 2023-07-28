@@ -1,8 +1,6 @@
 # 🛡 Audit and Security
 
-
-
-<figure><img src="../.gitbook/assets/cert (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cert (1).png" alt=""><figcaption><p><a href="https://revoluzion.app/audits/pinscher2"><strong>https://revoluzion.app/audits/pinscher2</strong></a></p></figcaption></figure>
 
 {% hint style="success" %}
 [**https://revoluzion.app/audits/pinscher2**](https://revoluzion.app/audits/pinscher2)
