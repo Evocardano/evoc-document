@@ -1,11 +1,13 @@
 # 🛡 Audit and Security
 
-<figure><img src="../.gitbook/assets/cert.png" alt=""><figcaption><p><a href="https://revoluzion.app/audits/pinscher"><strong>https://revoluzion.app/audits/pinscher</strong></a></p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/cert (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-[**https://revoluzion.app/audits/pinscher**](https://revoluzion.app/audits/pinscher)
+[**https://revoluzion.app/audits/pinscher2**](https://revoluzion.app/audits/pinscher2)
 
-Audit successfully completed! We achieved an 84% success rate on our contract, which is a fantastic result. Moreover, we are proud to state that no critical errors or security flaws were identified throughout the entire process.
+Audit successfully completed! We achieved an 89% success rate on our contract, which is a fantastic result. Moreover, we are proud to state that no critical errors or security flaws were identified throughout the entire process.
 
 This demonstrates our commitment to ensuring quality and security at every stage of the project. We thank everyone involved for contributing to this success.
 {% endhint %}
