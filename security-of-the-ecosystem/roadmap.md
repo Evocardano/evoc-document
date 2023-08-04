@@ -10,14 +10,12 @@ The information presented in the roadmap represents initial insights into the pr
 * [x] Social Media
 * [x] Contract
 * [x] Audit
-* [ ] KYC
-* [ ] Doxxed
 * [ ] Icon in BscScan
 * [x] Whitepaper 2.0
-* [ ] Pinscher Launchpad&#x20;
-* [ ] PinscherSWAP
+* [x] Pinscher Launchpad&#x20;
+* [x] PinscherSWAP
 * [ ] Buybot Pinscher Launch
-* [ ] Design Dex V2.0
+* [x] MeMe Dex V2
 
 ## 2st PHASE Q2 2023
 
@@ -25,9 +23,9 @@ The information presented in the roadmap represents initial insights into the pr
 
 * [ ] Buybot PinscherSWAP
 * [ ] Pricebot PinscherSWAP
-* [ ] Candlestick Chart Activation
+* [x] Candlestick Chart Activation
 * [ ] Pre-sale PinkSale
-* [ ] Ad, on the avenue of SpaceX
+* [x] Ad, on the avenue of SpaceX
 * [ ] Marketing Launch
 * [ ] Launch on Pancakeswap
 * [ ] CoinMarketCap Listing
@@ -47,10 +45,10 @@ The information presented in the roadmap represents initial insights into the pr
 * [ ] New Design DEX V3.0
 * [ ] Medium / large exchange listings
 * [ ] Twitter Marketing
-* [ ] NFT Stake Activation
+* [x] NFT Stake Activation
 * [ ] Activation Farms
 * [ ] Activating Community Pools
-* [ ] Marketplace NFTs
+* [x] Marketplace NFTs
 
 ## 4st PHASE Q4 2023
 
