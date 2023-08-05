@@ -72,7 +72,7 @@ Desktop wallets are available on your home computer or laptop. Wallets on your c
 
 ## Which desktop wallet should I choose?
 
-This comparison table provides an overview of the most popular wallets used with EvocSwap.
+This comparison table provides an overview of the most popular wallets used with PinscherSWAP.
 
 <table><thead><tr><th>Text</th><th>MetaMask</th><th>Carteira Binance</th><th data-hidden>Token Pocket</th></tr></thead><tbody><tr><td>Support for BNB Smart Chain</td><td>⚠️</td><td>✅</td><td>⚠️</td></tr><tr><td>Integrated DApp Browser</td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅</td><td>➖</td></tr><tr><td>Open source (audibility)</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Interacom BscScan (for advanced users)</td><td>✅</td><td>➖</td><td>➖</td></tr></tbody></table>
 
@@ -96,7 +96,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 * Support a large number of languages
 * Also available on mobile devices
 * Longer setup time for other options
-* Other additional options to use with BNB Smart Chain and EvocSwap
+* Other additional options to use with BNB Smart Chain and PinscherSwap
 * Extra information and settings can confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download/) **(automatically detect browser)**&#x20;
