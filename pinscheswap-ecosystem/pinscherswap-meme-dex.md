@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/PINSCHER COIN.png
 coverY: 0
 ---
 
-# 🔂 PinscherSwap
+# 🥳 PinscherSwap MEME DEX
 
 
 

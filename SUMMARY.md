@@ -5,7 +5,7 @@
 
 ## PINSCHESWAP ECOSYSTEM
 
-* [🔂 PinscherSwap MEME DEX](pinscheswap-ecosystem/pinscherswap-meme-dex.md)
+* [🥳 PinscherSwap MEME DEX](pinscheswap-ecosystem/pinscherswap-meme-dex.md)
 * [💹 NFT Stake Income](pinscheswap-ecosystem/nft-stake-income.md)
 * [🤖 Pinscher AI](pinscheswap-ecosystem/pinscher-ai.md)
 * [🗽 DAO Meme Competition](pinscheswap-ecosystem/dao-meme-competition.md)
@@ -19,14 +19,6 @@
 * [🎯 Tokenomics](pinscher-coin-token/tokenomics.md)
 * [📶 Buy Pinscher Coin](pinscher-coin-token/buy-pinscher-coin.md)
 * [📃 Contract](pinscher-coin-token/contract.md)
-
-## LAUNCHPAD PINSCHER COIN
-
-* [💲 Pinscher Launchs](launchpad-pinscher-coin/pinscher-launchs/README.md)
-  * [SAFU](launchpad-pinscher-coin/pinscher-launchs/safu.md)
-  * [KYC](launchpad-pinscher-coin/pinscher-launchs/kyc.md)
-  * [AUDIT](launchpad-pinscher-coin/pinscher-launchs/audit.md)
-* [🫂 Affiliate System](launchpad-pinscher-coin/affiliate-system.md)
 
 ## SECURITY OF THE ECOSYSTEM
 
