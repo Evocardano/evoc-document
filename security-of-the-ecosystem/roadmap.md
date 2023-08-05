@@ -13,9 +13,8 @@ The information presented in the roadmap represents initial insights into the pr
 * [ ] Icon in BscScan
 * [x] Whitepaper 2.0
 * [x] Pinscher Launchpad&#x20;
-* [x] PinscherSWAP
+* [x] PinscherSWAP MEME DEX
 * [ ] Buybot Pinscher Launch
-* [x] MeMe Dex V2
 
 ## 2st PHASE Q2 2023
 
