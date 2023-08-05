@@ -115,7 +115,7 @@ Binance Wallet is a browser plugin wallet that natively supports Binance Chain (
 * Backed by cryptocurrency exchange Binancedo pela exchange de criptomoedas Binance
 * Can be directly linked to a Binance or Gmail account
 * A simplified user experience
-* Supports Binance Smart Chain by default, making EvocSwap easy to use&#x20;
+* Supports Binance Smart Chain by default, making PinscherSWAP to use&#x20;
 * Supports a large number of languages
 * Hardware wallet compatible
 * Missing some custom settings from other wallets
