@@ -12,7 +12,7 @@ The information presented in the roadmap represents initial insights into the pr
 * [x] Audit
 * [ ] Icon in BscScan
 * [x] Whitepaper 2.0
-* [x] Pinscher Launchpad&#x20;
+* [ ] Pinscher Launchpad&#x20;
 * [x] PinscherSWAP MEME DEX
 * [ ] Buybot Pinscher Launch
 
