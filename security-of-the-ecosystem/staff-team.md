@@ -11,10 +11,9 @@ The team is located in Brazil and England, with all members working remotely. mo
 ## INTRODUCING OUR TEAM&#x20;
 
 {% hint style="success" %}
-\
-• CFO - Vladimir Santos / Chief Financial Officer
-
 • CEO - Silvano  Souza / Chief Executive Officer
+
+• CFO - Vladimir Santos / Chief Financial Of
 
 • COO - Antônio Carlos / Chief Operating Officer
 
