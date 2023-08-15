@@ -27,10 +27,10 @@ The team is located in Brazil and England, with all members working remotely. mo
 
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Silvano.jpg" alt="" width="375"><figcaption><p> <mark style="color:orange;"><strong>CEO - Silvano  Souza / Chief Executive Officer</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Silvano (1).jpg" alt="" width="375"><figcaption><p> <mark style="color:orange;"><strong>CEO - Silvano  Souza / Chief Executive Officer</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/A.J.jpg" alt="" width="375"><figcaption><p> <mark style="color:orange;"><strong>COO - Antônio Carlos / Chief Operating Officer</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/A.J (1).jpg" alt="" width="375"><figcaption><p> <mark style="color:orange;"><strong>COO - Antônio Carlos / Chief Operating Officer</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Vicent.jpg" alt="" width="375"><figcaption><p><mark style="color:orange;"><strong>CFO - Vladimir Santos / Chief Financial Officer</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Vicent (1).jpg" alt="" width="375"><figcaption><p><mark style="color:orange;"><strong>CFO - Vladimir Santos / Chief Financial Officer</strong></mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/maxjr (2).jpg" alt="" width="375"><figcaption><p><mark style="color:orange;"><strong>DEV - Max Romano / IT Programmer</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Maxjr.jpg" alt="" width="375"><figcaption><p><mark style="color:orange;"><strong>DEV - Max Romano / IT Programmer</strong></mark></p></figcaption></figure>
