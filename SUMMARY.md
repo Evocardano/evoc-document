@@ -23,10 +23,6 @@
 * [🛡 Audit and Security](security-of-the-ecosystem/audit-and-security.md)
 * [🚦 Disclaimer](security-of-the-ecosystem/disclaimer.md)
 
-## WALLET SETTINGS
-
-* [📥 Creating Your Wallet](wallet-settings/creating-your-wallet.md)
-
 ## SOCIAL ACTION
 
 * [💟 Donations](social-action/donations.md)
