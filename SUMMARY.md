@@ -9,15 +9,11 @@
 * [💹 NFT Stake Income](pinscheswap/nft-stake-income.md)
 * [🤖 Pinscher AI](pinscheswap/pinscher-ai.md)
 * [🗽 DAO Meme Competition](pinscheswap/dao-meme-competition.md)
-* [🪙 Farms](pinscheswap/farms.md)
-* [🪙 Community Pools](pinscheswap/community-pools.md)
-* [🏪 Marketplace Pinscher NFT](pinscheswap/marketplace-pinscher-nft.md)
 
 ## PINSCHER COIN TOKEN
 
 * [🐶 Pinscher Coin Resume](pinscher-coin-token/pinscher-coin-resume.md)
 * [🎯 Tokenomics](pinscher-coin-token/tokenomics.md)
-* [📶 Buy Pinscher Coin](pinscher-coin-token/buy-pinscher-coin.md)
 * [📃 Contract](pinscher-coin-token/contract.md)
 
 ## SECURITY OF THE ECOSYSTEM
