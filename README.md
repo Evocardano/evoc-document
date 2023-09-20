@@ -1,5 +1,9 @@
 # ⚠ Information
 
+
+
+<figure><img src=".gitbook/assets/direitos-autorais.png" alt=""><figcaption></figcaption></figure>
+
 Unfortunately, our project did not pass the CMC and CG analysis, resulting in a loss of 5k USDT. The problem identified was related to copyright. They claimed that the NFTs minted on the network have features of characters that already exist in films and cartoons.
 
 However, we are facing financial difficulties, as our pre-sales were lower than necessary to sustain the project. Because a very large structure was created for little liquidity.
